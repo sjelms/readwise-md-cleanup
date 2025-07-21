@@ -1,5 +1,4 @@
-# Title
-Readwise Markdown Cleanup
+# Readwise Markdown Cleanup
 
 ---
 
@@ -33,6 +32,19 @@ Detail what the project produces.
 
 ---
 
+### 🖱️ Quick Action (macOS Finder Right-Click)
+
+To enable the right-click Finder action:
+
+1. Download or clone this repo.
+2. Open the `Quick Actions/Clean .md Highlights.workflow` file.
+3. Double-click it to install into Automator.
+4. Once added, right-click any `.md` file in Finder and choose `Quick Actions → Clean .md Highlights`.
+
+Requires: Python 3.13 and the `clean_highlights.py` script path updated inside the workflow if your setup is different.
+
+---
+
 ## 🧱 Framework
 Outline the technology stack and setup instructions.
 - **Primary Language/Framework:** Python 3
@@ -46,7 +58,7 @@ Provide the command to install dependencies:
 
 Provide the command to run the script:
 ```bash
-python clean_applebooks_md.py path/to/your/file.md
+python clean_highlights.py path/to/your/file.md
 ```
 
 ---
