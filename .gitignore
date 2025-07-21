@@ -122,3 +122,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Backup or temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

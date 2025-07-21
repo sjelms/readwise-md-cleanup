@@ -1,0 +1,1195 @@
+---
+title: The Technology Trap - Capital, Labor, and Power in the Age of Automation
+author-1: "[[Carl Benedikt Frey]]"
+citation-key: "[[@Frey2019-yf]]"
+book-id: "[[49605522]]"
+tags:
+  - books
+document-tags:
+  - "[[economics]]"
+  - "[[industry]]"
+  - "[[oxford]]"
+---
+- # The Technology Trap - Capital, Labor, and Power in the Age of Automation
+
+- ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-9.63dbe834380e.png)
+
+- ## Metadata
+
+
+- **Authors:** [[Carl Benedikt Frey]]
+
+- **Citation Key:** [[@Frey2019-yf]]
+- **Book ID:** [[49605522]]
+- **Full Title:** The Technology Trap - Capital, Labor, and Power in the Age of Automation
+- **Category:** #books
+
+- ## Highlights
+- Like the victims of the early factories, many Americans have adjusted to the computerization of work by unwillingly shifting into lower-paying jobs or have failed to adjust and dropped out of the workforce completely. And similar to the victims of the factories, the losers to automation have primarily been men in the prime of life. Up until the 1980s, manufacturing jobs allowed ordinary working men to attain a middle-class lifestyle without going to college
+    - Tags: [[blue]] 
+- Focusing too closely on national statistics disregards the fact that if you put one hand in the freezer and the other on the stove, you should feel quite comfortable on average. The same was true of the Industrial Revolution.
+    - Tags: [[blue]] 
+- The long-term economic benefits of the Industrial Revolution, to which Bill alluded, are uncontested. Before 1750, per capita income in the world doubled every 6,000 years; since then, it has doubled every 50 years.
+- our age of automation largely mirrors the early days of industrialization in economic terms. It took over half a century until average people saw the benefits of the Industrial Revolution trickle down.
+- The Luddites, as they were called, raged against mechanization, and they did everything they could to resist it. If this is “just” another Industrial Revolution, alarm bells should be ringing.
+- replaced hand-loom weavers performing existing tasks and therefore prompted opposition as weavers found their incomes threatened.
+- before the late nineteenth century, resistance to technologies that threatened workers’ skills was the rule rather than the exception.
+    - Tags: [[blue]] 
+- in 1589, Elizabeth I famously refused to grant William Lee a patent for his stocking-frame knitting machine, fearing unemployment as a result of the technological advance. The gig mill, which saved considerable amounts of labor, had been prohibited in Britain in 1551. And elsewhere in Europe opposition was just as fierce. Many European cities banned automatic looms in the seventeenth century.
+    - Tags: [[blue]] 
+- The ruling classes feared that angry workers like those in Leiden would start to rebel against the government.
+- the pioneers of industry rather than rebelling workers, providing one explanation for why Britain was the first country to industrialize.
+    - Tags: [[blue]] 
+    - Note: “British government was the first to side with”
+- Back in 2012, Bill Gates took note of what has been called the paradox of our age: “Innovation is faster than ever before … yet Americans are more pessimistic about the future.”
+    - Tags: [[green]] 
+- The adoption of the printing press in the empire had to wait until 1727. Even in the late nineteenth century, Ottoman book production was primarily undertaken by scribes. The consequences of the long absence of the printing press become obvious when we examine regional disparities in literacy rates. In 1800, about 2–3 percent of the population of the Ottoman Empire was literate, compared to 60 percent of adult males and 40 percent of adult females in Britain
+    - Tags: [[blue]] 
+- unlike weavers—who suffered hardships from the mechanization of industry—copyists and scribes were more likely to benefit from Gutenberg’s invention. Many of them did not make a living producing manuscripts. To them, the movable printing press didn’t mean any loss of income. And those who copied books for a living either specialized in shorter texts that were uneconomical to produce with printing technology or became binders and designers of books. Thus, while weavers and other craftsmen, who faced worsening job options, smashed textile machines all over Europe in the eighteenth and nineteenth centuries, copyists rarely resisted the printing press in the late 1400s.
+- Fearing that a literate population would undermine his leadership, Sultan Bayezid II issued an edict banning printing in Arabic in the Ottoman Empire in 1485, with dismal long-lasting consequences for literacy and economic growth in the region.
+    - Tags: [[blue]] 
+- We should have seen it coming. In 1965, when the first electronic computers entered offices, Eric Hoffer warned in the New York Times that “a skilled population deprived of its sense and usefulness would be the ideal setup for an American Hitler.” 28 Perhaps somewhat ironically, Hitler and his government were well aware of the disruptive force of labor-replacing technology.
+- As the economist Paul Krugman once quipped, “depressions, runaway inflation, or civil war can make a country poor, but only productivity can make it rich.” 31 Productivity growth happens when technology allows us to produce more with less. If the adoption of machines makes labor productivity grow by 2.5 percent per year, output per person will double every twenty-eight years.
+- As the economist Harry Jerome noted in 1934, if the 1929 tonnage of iron and steel were produced with the technology available in 1890, a million and a quarter workers would have been needed instead of four hundred thousand. Does this mean that eight hundred thousand men had lost their jobs by 1929?
+- There are many examples of enabling technologies. Computer-aided design software has made architects, engineers, and other skilled professionals more productive by helping rather than replacing them.
+    - Tags: [[blue]] 
+- Another reason people may not oppose technologies that threaten their jobs is obviously that almost everyone will benefit in their capacity as consumers.
+- The cheapening of textiles, for example, did not provide sufficient relief to the Luddites, who rioted against the introduction of machinery despite the consumer benefits brought by mechanization.
+- One study has found that there was no return on human capital, but this is no surprise since it focused on the return on old skills in construction, which were not affected by mechanization.
+    - Tags: [[purple]] 
+- However, mechanization required new skills, which were eventually reflected in workers’ wages.
+    - Tags: [[pink]] 
+- The reason, Bessen argues, is simple: power-loom weavers needed new skills that took time to acquire, and their skills took even longer to be reflected in their wages. Because the new technologies were initially not standardized across factories, which often used different types of looms, the skills of the weavers were not of much use in factories other than the one in which they worked. Consequently, it was only after machines had become more standardized that factory workers could threaten to leave their jobs if they were not paid for their skills
+    - Tags: [[green]] 
+- The Luddites did their utmost to bring progress to a halt, but their case was hopeless, as they lacked political power. That was now held by those who stood to gain from progress, to the detriment of many other people.
+- While new tasks also emerged in the early factories, they required a different breed of worker: spinning machines were designed to be tended by children who cost little to employ, had no bargaining power, and were relatively easy to control. Much like advanced robotics today, machine-tending children replaced middle-income workers.
+- In contrast, in the later stages the arrival of more complex machines required more skilled workers in the factories, who found their skills augmented by technology. And ever-larger factories required more engineers and more skilled people in management and administration. Technical change turned from replacing to enabling, which served to increase the bargaining power of labor as workers’ skills became more valuable.
+    - Tags: [[green]] 
+- A well-known study by the economist Oded Galor makes the case that human capital became crucial only during the later nineteenth century, when technological progress increased demand for skills.
+    - Tags: [[purple]] 
+    - Note: Galor, O. (2011) Inequality, human capital formation and the process of development. Cambridge, MA: National Bureau of Economic Research. Available at: https://doi.org/10.3386/w17058.
+- During the Great Depression, businesses were able to take full advantage of the alternative and more flexible methods of distribution offered by trucking. In the cities, department stores began to employ trucks to deliver packages to surrounding rural areas, allowing consumers to just place a telephone call instead of having to drive into the city.
+    - Tags: [[pink]] 
+- Henry Ford’s invention of the assembly line for producing automobiles in his Highland Park, Michigan, facility actually lowered the average skill levels required to build an automobile, breaking apart the complex operations of the earlier carriage craft industry into simple, repeatable steps that a person with a fifth-grade education could accomplish.
+    - Tags: [[pink]] 
+- the economic historian James Bessen
+- The wealth of humans is best understood as the cumulative effect of technologies that allow us to produce more with fewer people.
+- The reason that we tend to attribute the beginning of meaningful technological change to the Industrial Revolution is that then, for the first time, there was progress that eventually translated into significantly higher average incomes.
+- One popular theory is that before the Industrial Revolution the world was caught in a Malthusian trap, where greater prosperity simply translated into larger populations, leading to no real gains in per capita income.
+- Besides the steam engine, the eighteenth century didn’t witness any breakthroughs that would have “puzzled Archimedes.”
+    - Tags: [[pink]] 
+- The preindustrial history of technology illustrates an important point: resistance to worker-replacing technologies has been the norm rather than the exception. Innovation flourished before the eighteenth century, but it rarely took the form of capital that replaced labor—and when it did, fierce opposition typically followed. This should not be taken to imply technological backwardness. However, it does help explain why the job-replacing technologies of the Industrial Revolution did not arrive earlier.
+    - Tags: [[green]] 
+- Although these tools were simple, the megaliths and stone monuments that remain from that time reveal that people were capable of building impressive structures even before the first major civilizations emerged. But because people devoted most of their time to cultivating the land to produce the food they needed, construction took many years. A large food surplus was required to feed full-time construction workers before large-scale hydraulic engineering projects and the construction of cities became feasible
+- In due course, improvements in agricultural productivity allowed for the production of more food and the expansion of cities—in which the jobs of artisans, smelters, smiths, and others became full-time occupations—where increasingly skilled workers specialized in the development of better technologies that allowed agricultural productivity to increase further
+    - Tags: [[pink]] 
+- And most importantly, they produced a food surplus that enabled people to engage in activities other than farming. Some people were construction workers, artisans, merchants, or warriors
+    - Tags: [[pink]] 
+- For the modern world, the most important enabling technology inherited from ancient civilizations is writing, which still allows us to store and transmit information across time and space
+- Much like the fears surrounding the disruptive effects of artificial intelligence (AI) today, with scholars like Stephen Hawking and Nick Bostrom suggesting that it could spell the end of human civilization, people in preindustrial times worried that technology could destroy their much smaller and more isolated world.
+    - Tags: [[green]] 
+- As the classical scholar Moses Finley has argued, our view of technological progress in antiquity often involves imposing our own value systems on civilizations that had little interest in industrial pursuits.
+- Because the chief function of technology since the Industrial Revolution has been to improve industrial processes, products, and services, we tend to think of technological progress in such terms. In contrast, technological advances in classical times typically served the public sector, rather than private interests.
+    - Tags: [[pink]] 
+- Romans barely made any contributions to industrial development. This was not because they lacked the technological creativity or the technical skills. Roman rulers simply had no interest in industry
+- Even the advances made in mechanics—including the development of cranes, pumps, and water-lifting devices—were largely a set of ancillary inventions to support construction and hydraulic engineering efforts. As far as we can tell, these devices did not have any meaningful impact on private-sector productivity
+- In textile production, there were no noteworthy advances in mechanization. Spinning and weaving remained highly labor-intensive activities. Spinning was done using a spindle and whorl, which meant that it took some ten spinners in continuous employment to keep one loom supplied with yarn.
+- It is quite telling that most classical writers did not bother much with machinery. Vitruvius, who wrote extensively on technical matters, devoted only one of the ten books of his De Architectura to mechanical devices, and about half of that book was on military machines
+- Mechanika (commonly attributed to Aristotle, but presumably written by someone else) includes extensive discussions of the lever, wheel, wedge, and pulley, but the applications discussed suggest limited interest in their practical use. And other elements that can be found in classical literature—such as the gear, cam, and screw—were mostly applied to war machines.
+- for inventions to improve material standards of living, they need to serve economic purposes and must be applied in production.
+    - Tags: [[green]] 
+- the persistence of slavery meant that a large share of the population in classical civilizations was not free to pursue industrial activities
+- the concern that depriving Romans of work might be politically destabilizing made conserving jobs by maintaining the technological status quo the more politically appealing option.
+    - Tags: [[pink]] 
+- The invention of the nailed horseshoe, for example, enabled the more widespread use of horses for commercial transportation, and the shoe’s protection of the hooves from moist soil allowed for greater adoption of horsepower in agriculture
+- What seems clear is that the switch to horse technology, when it occurred, was associated with substantial gains in productivity.
+    - Tags: [[pink]] 
+- Modern experiments show that although the horse and ox perform similarly in terms of pull, the horse moves much faster, allowing it to produce 50 percent more foot-pounds per second, while being able to work up to two hours more per day.
+- The Domesday Book of 1086, completed by order of William the Conqueror, lists 5,624 water mills for some three thousand British communities, or roughly two mills for every one hundred households.
+- The late Middle Ages has indeed been described as a “medieval industrial revolution based on water and wind.”
+- in sailing, windmills had been unknown to classical civilizations and were not invented until the time of the Norman Conquest (1066): the first windmills with credible documentation date back to 1185
+- The economic historians Lars Boerner and Battista Severgnini have shown that early adopters—cities that had a tower clock before 1450—grew faster between 1500 and 1700 than those that didn’t.
+- And the historian Lewis Mumford has gone so far as to suggest that not the steam engine but the mechanical clock was the machine that made the industrial age.
+- Though the role of clock makers in designing the textile machines that powered the early Industrial Revolution has probably been overstated, there can be no doubt that the mechanical clock was a key enabling technology for the factory system, with its fixed working hours.
+- The first metal movable-type printing press, invented by Johannes Gutenberg in 1453, was another landmark achievement of late medieval times, whose main contributions to productivity came much later
+- The printing press was made economically feasible by a number of enabling technologies, including paper (which was introduced from China), cheap printing ink, the press (most likely adopted from ancient winepresses), and the Roman alphabet (which had become universal in Europe and was particularly suitable for printing, with its twenty-six letters).
+    - Tags: [[green]] 
+- More books were published in the fifty years following Gutenberg’s invention than in the millennia before.
+- In cities where the printing press was adopted, the spread of business textbooks allowed people to better transmit commercial know-how, including how to make currency conversions, determine interest payments, and calculate profit shares—which in turn helped foster the spread of valuable commercial skills.
+- Thus, like the computer revolution, the revolution in printing, if anything, made the world less flat.
+- Schumpeterian
+    - Note: Joseph Alois Schumpeter (February 8, 1883 – January 8, 1950) was an Austrian political economist. He served briefly as Finance Minister of Austria in 1919. In 1932, he emigrated to the United States to become a professor at Harvard University, where he remained until the end of his career, and in 1939 obtained American citizenship.
+- Schumpeter was one of the most influential economists of the early 20th century, and popularized the term "creative destruction", coined by Werner Sombart.
+- As we shall see, in places and industries where the guilds got stronger, they often tried to restrict replacing technologies, and printing was no exception: in the sixteenth century, the scribes’ guild of Paris triggered a revolt against labor-replacing printing technology.
+- Perhaps more importantly, the printing press, which created an ever-growing demand for books, also created new jobs from which many scribes themselves benefited
+- Contemporaries did not fail to take notice. In Expositiones in Summulas Petri Hispani , published around 1490 in Lyons, the editor Johann Treschel writes that as the new art of printing ends the careers of scribes, “they have to do the binding of books now.”
+    - Tags: [[pink]] 
+- Hence, some scribes even celebrated the new art of printing, which relieved them of tedious writing and allowed them to specialize in the design and binding of books. As Neddermeyer writes, if “asked whether they approved of the new craft, most scribes in the era of Gutenberg would have replied with a definite Yes .”
+    - Tags: [[green]] 
+- Gutenberg’s printing press. For the first time, a vast technical literature emerged, containing detailed descriptions of dams, pumps, conduits, and tunnels and making technical knowledge more communicable and cumulative.
+- The suggestion of Thomas Edison that invention is 1 percent inspiration and 99 percent perspiration was evidently not true of Renaissance Europe. It was rather the other way around. Few ideas and drawings were ever translated into prototypes.
+- The best that can be said about Renaissance technology in economic terms is that it paved the way for one of humanity’s most important technological breakthroughs to date: the steam engine. The science of the steam engine started with Galileo and his secretary Evangelista Torricelli, who developed the first barometer.
+- The significance of this shift is pointed out by Franz Reuleaux, the father of kinematics, who suggests that “in earlier times men considered every machine as a separate whole, consisting of parts peculiar to it; they missed entirely, or saw but seldom, the separate groups of parts we call mechanisms.
+- What’s more, before the theory of mechanics, machines could be evaluated only qualitatively; after, they could be evaluated quantitatively.
+    - Tags: [[pink]] 
+- When worker-replacing technologies emerged, as they did in the textile industry, they were typically subject to opposition and were frequently blocked by political authorities. The gig mill, for example, which is estimated to have allowed one man and two boys to do the work of eighteen men and six boys, was prohibited in Britain by a statute of 1551, although almost a century later, King Charles I issued another proclamation against them, which suggests that some of the mills were still in use and that penalties for employing them were being avoided.
+    - Tags: [[pink]] 
+- The landmark labor-replacing invention of the time—the stocking-frame knitting machine, invented by the clergyman William Lee in 1589—faced considerable opposition, too. Queen Elizabeth I refused to grant Lee a patent, claiming: “Thou aimest high, Master Lee. Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment, thus making them beggars.”
+- The queen’s decision reflected the hosiers’ guild’s opposition to the new technology: the hosiers feared that their skills would be rendered redundant. The guild’s opposition to Lee’s invention was so intense that he had to leave the country.
+    - Tags: [[green]] 
+- There is no shortage of examples of resistance to worker-replacing technologies.
+    - Tags: [[pink]] 
+- Many cities across Europe issued edicts against automatic looms during the seventeenth century, and the city of Leiden experienced riots in 1620 because of their use.
+- Craft guilds, like that of the boatmen of Fulda, controlled apprenticeship and production across cities and townships in preindustrial Europe.
+    - Tags: [[purple]] 
+- In London in the mid-sixteenth century, for example, roughly 75 percent of workers belonged to a guild. 80 According to Sheilagh Ogilvie, an economic historian, “During the eight centuries before European industrialization, guilds were central institutions setting the rules of the game for economic activity.”
+    - Tags: [[green]] 
+- And they blocked the introduction of replacing technologies, sometimes legally and sometimes violently, to safeguard their skills and self-interest. Indeed, while economic historians disagree about the attitudes of the guilds toward new technologies, there is an emerging consensus that their attitudes depended on how the technologies affected their skills
+    - Tags: [[purple]] 
+- They quietly accepted the new technologies they benefited from but bitterly fought against those that might affect them adversely, though there were instances when opposition failed. For example, the economic historian Stephen Epstein has argued that technologies that merely saved capital or made workers’ skills more valuable were not frowned upon, while replacing technologies were more likely to be resisted.
+    - Tags: [[pink]] 
+- Pathbreaking work by Ogilvie that traces craft guilds and their activities over the centuries also shows that there were circumstances when the political economy of technological change was such that a new technology was adopted, even if it meant that some craftsmen lost out. At times, if a more powerful branch of a guild stood to benefit from the technology, it was adopted at the expense of the weaker faction.
+- But for the most part, guilds vehemently and successfully resisted technologies that they perceived threatened their skills and rents.
+- Opposition to innovation is the most salient feature of how guilds interacted with disruptive new processes and products. Pre-modern people often complained that guilds blocked innovations.
+- economic historians Nathan Rosenberg and L. E. Birdzell Jr. argue, “In the West, the individual centers of competing political power had a great deal to gain from introducing technological changes that promised commercial or industrial advantage … and much to lose from allowing others to introduce them first. Once it was clear that one or another of these competing centers would always let the genie out of the bottle, the possibility of aligning political power with the economic status quo and against technological change more or less disappeared from the Western mind.”
+- The realization that political power was becoming harder to align with technological conservatism is suggested by the fact that governments began to subsidize engineers, grant patents to inventors, and created monopolies for key commercial interests
+    - Tags: [[pink]] 
+- Thus, overall, the technologies of the Renaissance were levers of Smithian growth rather than engines of Schumpeterian growth.
+- Indeed, the Renaissance period has aptly been described as the “age of instruments” in technological terms. The telescope, barometer, microscope, and thermometer were among the prime technical achievements of the time, and they were adopted for a variety of purposes.
+- As Cardwell has pointed out, “It is enough to record that by 1700 the foundations of modern technology had been laid. Appropriately, the word technology had been coined before the end of the century; and it seems likely that the word inventor was beginning to be used in the way in which it is understood today.”
+    - Tags: [[green]] 
+- The first thing to note is that the incomes of wealthy noblemen, such as the Duke of Devonshire and the Marquess of Westminster, came from capital rather than labor. Capital was the predominant force behind the income disparities in Jane Austen’s Britain
+- the fortunes of the landowning classes would not have been possible without one important technology: agriculture. Without it, the landed classes in eighteenth-century Britain would never have appeared.
+- As noted, in the absence of any technology for storing meat, instant consumption was inevitable, and no significant food surplus was attainable. It was only after the invention of agriculture that food could be stored, land could be owned, and individuals could accumulate a surplus of significance—which in turn introduced the concept of property rights and a political structure to uphold those rights.
+- The intellectual foundation for this intuition is the Malthusian model, put forward by Thomas Robert Malthus in 1798. This model describes an organic society in which the laws that govern human economic activities are the same as those that govern all animal societies. The sizes of both animal and human populations depend on the available resources for consumption
+- Many historians have remarked that Malthus put forward his thesis just as the idea became irrelevant—at the onset of the Industrial Revolution, when England finally broke the iron law of wages and escaped the Malthusian trap.
+- As many of the colonial goods and other imports became attainable for a growing share of the population, people started to drink more tea, often sweetened with sugar; bought more luxurious clothing; and discovered new spices for their meals. The Industrial Revolution was thus preceded by a consumer revolution that created new desires and incentivized people to work harder to acquire the many newly available colonial goods.
+- While the traditional crafts of the Middle Ages were largely practiced to make products for local markets, a growing entrepreneurial merchant class facilitated the emergence of rural industries to make items for export to other regions and foreign countries—a process for which the economic historian Franklin Mendels has coined the term “proto-industrialization.”
+- In The Communist Manifesto , even Karl Marx and Friedrich Engels alluded to the distinctiveness of this class, pointing out that the bourgeoisie “has been the first to show what man’s activity can bring about. It has accomplished wonders far surpassing the Egyptian pyramids, Roman aqueducts, and Gothic cathedrals.”
+- Indeed, the leading figures of the Industrial Revolution typically came from families that were already in some way involved in commercial and industrial activities. The historian Fran ç ois Crouzet’s seminal compilation of information about 226 founders of large industrial undertakings whose fathers’ occupations were known shows that some came from gentry and working-class backgrounds.
+    - Tags: [[pink]] 
+- The rural industries that emerged were typically an off-season activity. Many of the workers living in the hinterland were both farmers and manufacturers. During the winter months, when agricultural work was not as plentiful, they engaged in spinning and weaving.
+    - Tags: [[pink]] 
+- Defoe characterizes the manufacturer as someone who had one horse to bring food and wool to the spinner and another to transport the clothing to market, while cows grazed on the land around his home.
+- Even when applications were found, inventions often served political rather than economic purposes. Rulers of the Roman Empire, for example, directed technological efforts toward building grand structures to increase their popularity.
+- To be sure, for most of human history, technological advances did not take place within research and development departments focusing on finding a technical solution to a particular engineering problem. Technological development was organized very differently from how it is structured today, if it was organized at all.
+    - Tags: [[pink]] 
+- Joseph Schumpeter believed that for a given technology to be adopted, some kind of need must exist. 2 This was also the view of Thomas Malthus, who reckoned that “necessity has been with great truth called the mother of invention. Some of the noblest exertions of the human mind have been set in motion by the necessity of satisfying the wants of the body.”
+    - Tags: [[green]] 
+- A number of examples of technological developments since the Industrial Revolution that conform to this view spring to mind, including the Manhattan Project, set up by the U.S. government to develop an atomic bomb before Nazi Germany could do so; the steam engine developed by Thomas Savery to pump water out of British coal mines; and the interchangeable parts pioneered by Eli Whitney to “substitute correct and effective operations of machinery for the skill of the artist which is acquired only by long practice and experience; a species of skill which is not possessed in this country to any considerable extent.”
+    - Tags: [[pink]] 
+- In the context of classical civilizations, for example, the historian Samuel Lilley has argued that slaves were cheaper than machines, which provided few incentives to developing and adopt expensive machinery. 5 To push this argument slightly further, slaves were in many ways the robots of preindustrial times.
+- this gave rise to the modern word “robot,” which first appeared in Karel Č apek’s famous play R.U.R. in 1921.
+    - Tags: [[blue]] 
+- Slaves were able to perform just about any mundane manual task that one can think of, and they were certainly capable of performing a much wider set of physical tasks than can be accomplished by any robot technology today.
+- Even in 1772, four years before the American Declaration of Independence, estimates by Arthur Young suggest that only 4 percent of the world’s population was free. 7 The remaining 96 percent were slaves, serfs, independent servants, or vassals.
+- While it is hard to say to what extent slavery might have retarded mechanization, the key question is not whether slavery (or serfdom) per se hindered the adoption of labor-replacing technology: incentives to mechanize hinge not on the freedom of the worker but on the price of labor, which remained low in preindustrial societies. The association between the abundance of cheap labor and slower mechanization is persuasively shown by a recent study, albeit in a modern setting.
+    - Tags: [[purple]] 
+    - Note: This relates to the adoption of automation in AEC as labor is no longer available or cheap.
+- There are thus good reasons to believe that relatively cheap labor in preindustrial times created fewer incentives to put worker-replacing technologies into widespread use. In fact, Robert Allen has argued that the reason why the Industrial Revolution began in Britain is that at its onset, it was not economical anywhere else.
+    - Tags: [[purple]] 
+- The path to the British Industrial Revolution, Allen suggests, began with the Black Death, which caused a long period of population decline and produced labor shortages that increased the bargaining power of workers. 10 As peasants demanded freedom instead of serfdom, wages eventually began to rise, even though legislation was put in place to hold the price of labor down.
+    - Tags: [[green]] 
+- Following Britain’s success in trade during the age of discovery, wages began to grow faster. This success came with new challenges: given its high labor costs, how would Britain remain competitive in trade? The critical factor, Allen argues, was that British industrialists were fortunate enough to be sitting on a mountain of coal. 11 The early emergence of the coal industry was what distinguished Britain from other high-wage economies like the Dutch Republic.
+    - Tags: [[pink]] 
+- Facing low energy prices and high labor costs, British industry began to adopt machines that would not have been cost-effective elsewhere
+- Examples of technological advances emerging from necessity are in fact seemingly few before the Industrial Revolution. Indeed, Joel Mokyr’s magisterial review of technological developments in the preindustrial world suggests that “invention is the mother of necessity,” provides a more accurate description of preindustrial inventive efforts.
+    - Tags: [[blue]] 
+- For example, Gutenberg’s printing press created demand for books, education, and literacy—rather than a demand for books leading to the invention of the press. And other inventions were simply the result of serendipitous discoveries.
+- In support of a supply-driven explanation, a number of theories have pointed to different factors that are likely to have held the supply of technology back in the preindustrial era. For example, while it is widely acknowledged that entrepreneurial risk taking is critical to technological progress, it is rarely noted that innovation was riskier and less rewarding in preindustrial times
+- However, as noted above, even though invention was a risky activity and it took time for technical knowledge to diffuse, pathbreaking technologies like the printing press were still developed and adopted.
+- More importantly, although economists often are dismissive of culture as being an obstacle to economic development, there are good reasons to believe that beliefs long prohibited progress
+    - Tags: [[pink]] 
+- A culture that replaced superstition with reason and a scientific attitude, which the sociologist Max Weber deemed critical to technological progress, did not appear before the Enlightenment.
+- They shared the cultural attitudes of classical philosophers toward technological development, as aptly summarized by Bertrand Russell: “Plato, in common with most Greek philosophers, took the view that leisure is essential to wisdom, and is therefore not to be found among those who have to work for their living.” 18 Indeed, in Politics , Aristotle wrote that “no man can practice virtue who is living the life of a mechanic or laborer.”
+- In other words, work—especially the manual sort of work that was required for the construction of machines—was deemed unworthy by many of the greatest minds of classical times.
+    - Tags: [[pink]] 
+- As Mokyr writes, “Many of the ‘wave of gadgets’ that we associate with the classical Industrial Revolution—steam power being the most notable exception—could have been easily made with the knowledge available in 1600. What is beyond question is that the relative importance of science to the productive economy kept growing throughout the late eighteenth and nineteenth centuries, and became indispensable after 1870, with the so-called second Industrial Revolution.”
+    - Tags: [[pink]] 
+- One compelling argument is that the road to industrialization began with the discovery of the New World.
+- FIGURE 4: Activity Index of European Parliaments, 1188–1789
+    - Tags: [[blue]] 
+    - Note: Note: The activity index counts the number of years per century in which a parliament was assembled for official sessions. If the index is zero, no parliament was convened. If the value is 100, a parliament was convened in every year of the century.
+- All of this meant that Parliament increasingly acted to safeguard commercial and industrial interests. Contracts were enforced, and property rights were regarded above all. As Adam Smith observed in 1776, “security which the laws of Great Britain give to every man that he shall enjoy the fruits of his own labour is alone sufficient to make any country flourish.”
+- And the economic logic of many Parliamentary decisions was still guided by the flawed doctrine of mercantilism: the belief that trade is a zero-sum game.
+    - Tags: [[green]] 
+    - Note: Mercantilism (mur·kuhn·tuh·luh·zm) is a nationalist economic policy that is designed to maximize the exports and minimize the imports for an economy. In other words, it seeks to maximize the accumulation of resources within the country and use those resources for one-sided trade.
+- Writing in 1689, John Locke observed that “toleration has now at last been established by law in our country.”
+    - Tags: [[pink]] 
+- European monarchs did not just fail to encourage industrial development, they actively blocked it.
+    - Tags: [[green]] 
+- The primary concern was that the establishment of factories would replace workers in the domestic system and concentrate the poor in cities, where they could organize and rebel against the government. To avoid the threat from below, Francis I blocked the construction of new factories in Vienna in 1802 and banned the importation and adoption of new machinery until 1811.
+- Consequently, railroad carriages in the Habsburg Empire were long drawn by horses.
+- Worker mobility and the spread of information was not in the interest of the ruling classes.
+- The New York Times correspondent in Saint Petersburg in 1895 reported: “The introduction of machinery in La Ferme cigarette factory led to a serious riot on Saturday. The employees, who believed that the use of machines would throw many of them out of work, smashed the machines and hurled the fragments out the windows.”
+    - Tags: [[pink]] 
+    - Note: The Russian equivalent of the Luddite
+- It was therefore a prerequisite for the Industrial Revolution, which rested upon worker-replacing machines, that the power of the guilds be reduced.
+- More broadly, a statistical analysis of 4,212 patents filed in the period 1620–1823 shows that areas in England that became more exposed to outside competition invested more in the invention of new technologies.
+- When the economic historian Christine MacLeod examined 505 patents filed in the period 1663–1750, she found that very few technologies were invented to replace workers. Forty-five percent of the patents were said to augment workers’ skills. Another 37 percent were claimed to save capital. Only 2 percent were said to save labor
+    - Tags: [[green]] 
+- Between 1750 and 1800, however, the percentage of labor-saving technologies increased fourfold.
+    - Tags: [[purple]] 
+- As mentioned above, the shift in the British government’s stance on mechanization was due in part to the merchant manufacturers’ becoming a more politically powerful force. Their fortunes depended on the success of the British Empire’s trade, which in turn depended on mechanization to remain competitive internationally.
+- The strong commitment of the government to supporting innovators is further underlined by legislation passed in 1769 that made the destruction of machinery punishable by death.
+- The Luddite riots in the period 1811–16 were due to the fear of replacing technological change among laborers, as Parliament revoked a 1551 law prohibiting the use of gig mills. However, the British government took an increasingly stern view of any attempt to halt the force of technology and deployed troops against the rioters.
+    - Tags: [[pink]] 
+- The sentiment of the government toward people’s smashing of machines was made clear by a resolution passed after the Lancashire riots of 1779, which read as follows: “The sole cause of great riots was the new machines employed in cotton manufacture; the country notwithstanding has greatly benefited from their erection [and] destroying them in this country would only be the means of transferring them to another … to the detriment of the trade of Britain.”
+    - Tags: [[green]] 
+- In France, by contrast, the threat of revolution was real. The French machinery riots of 1789 had a much greater effect on delaying industrialization than their English counterparts.
+- Some preindustrial inventions were arguably more sophisticated than the “wave of gadgets” that made the Industrial Revolution. The mere existence of technologically creative people, however, is evidently not a sufficient condition for economic progress. For that, technologies must find economic purpose and widespread use. As the economist Fritz Machlup has pointed out, “Hard work needs incentives, flashes of genius do not.” 58 Flashes of genius clearly existed in preindustrial times, but incentives to invest in machinery were few.
+- The fear among the ruling classes that labor displacement would cause hardship, social unrest, and at worst a challenge to the political status quo meant that worker-replacing technologies frequently were resisted or even banned.
+    - Tags: [[pink]] 
+- This dynamic, in which the politically powerful had more to lose than they could gain from progress, kept the Western world in a technology trap where technologies that threatened people’s skills were forcefully resisted
+    - Tags: [[purple]] 
+- With less support from the judiciary and the polity, craft guilds started to resort to violent means when new technologies threatened jobs. These violent reactions, which took the form of riots, demonstrations and vandalism, became more frequent at the turn of the nineteenth century, culminating in the Luddite riots of 1811 to 1816.
+    - Tags: [[pink]] 
+- The rise of the machines caused workers to rebel against technological progress.
+    - Tags: [[pink]] 
+- Industrialization began with what to the modern eye seem to be a few minor inventions that enabled the establishment of the factory system and inaugurated an era of sustained industrial expansion that created the modern world.
+- Factories existed long before the Industrial Revolution, but they must be distinguished from the modern factory system—whose distinctive feature, as Karl Marx noted, was the introduction of machines.
+- Like the evolution of science, the rise of the factory system was a gradual and uneven process.
+- The simple existence of better technology does not inevitably translate into faster economic growth. For that, widespread adoption is required, but the Industrial Revolution was initially confined to a small number of sectors that collectively constituted a fraction of the overall economy.
+- The Industrial Revolution began in the textile industry, and that is where workers most keenly felt the force of the mechanized factory. This mechanization, as we shall see, set the wheels in motion for what economic historians have called the Great Divergence—the period after the Industrial Revolution, when the West grew much wealthier than the rest of the world.
+- The annus mirabilis of 1769, as Donald Cardwell has called it, is often seen as the symbolic beginning of the Industrial Revolution.
+- Exactly when the factory system first emerged is uncertain. It was first defined in Andrew Ure’s 1835 Philosophy of Manufactures as something designating “the combined operations of many orders of workpeople, adult and young, in tending with assiduous skill a series of productive machines, continuously impelled by a central power.”
+- The first legal definition dates from 1844, where it shall be taken to mean “all buildings and premises … where-in or within the close or curtilage of which steam or any other mechanical power shall be used to move or work any machinery.”
+    - Tags: [[green]] 
+- Tracing the beginning of the factory system, in other words, requires tracing the application of machines powered by mechanical force in production. It was with the rise of worker-replacing machines that modern industry arrived at last.
+    - Tags: [[pink]] 
+- people gradually lost ownership of the means of production and their autonomy over the pace of work, leading to the creation of what Karl Marx would call a working class.
+- The slow but relentless divorce between capital and labor that characterizes the process of industrialization had begun.
+    - Tags: [[pink]] 
+- Manufacturers selling abroad were incentivized to find ways of reducing labor costs due to growing market size, and increasing competition fueled political willingness to allow them to mechanize.
+- Finding ways to reduce labor costs was thus a priority.
+- The Industrial Revolution was heralded by developments in the silk industry, but it had its true beginnings in cotton
+- Wyatt was early to realize the potential of the factory system, but he failed to make it work in practice. According to his own estimates, roller spinning could reduce labor requirements by one-third, thereby increasing the profitability of British industry
+- Worker-replacing machines, Wyatt argued, would not enrich only a few industrialists, but Britain as a whole.
+- The fact that it didn’t require much alteration to the production process was probably one reason for its rapid adoption.
+- Indeed, incidents of workers smashing machinery regularly occurred during the classic years of British industrialization. Hence, even though political power had shifted to those who stood to gain from mechanization, inventors were still unlikely to describe their technologies as worker displacing or even labor saving
+- Jane Humphries, an economic historian, explains: Early eighteenth-century inventors rarely claimed that their innovations saved labour, inventors probably judging it unwise to publicise any adverse effects on local employment. Interestingly, they were more likely to promise employment creation, particularly of jobs for women and children, who by implication would otherwise be a burden on the rates
+    - Tags: [[pink]] 
+- Even then, savings were not of all labour but mainly the labour of skilled adults. Inventions were often advertised as reducing the need for strength or skill and so facilitating the substitution of unskilled women and children for adult trained operatives
+    - Tags: [[pink]] 
+- Since such substitution was at the heart of worker resistance to new technology, it required a certain boldness to make such claims, and probably suggests that more inventions than announced were directed to this end.
+    - Tags: [[pink]] 
+- The benefits, of course, went beyond replacing expensive labor with machines and cheaper labor. Another motive was to gain greater control over the factory workforce, which went hand in hand with the employment of children.
+- Fearing that they would lose their jobs, however, weavers burned it to the ground.
+- But at this time, British governments typically sided with innovators. Instead of banning the invention, the government helped fund it. Cartwright successfully petitioned Parliament for a grant in 1809, making the case that his machines were of great importance to Britain’s competitiveness in trade
+- Most people think that the Industrial Revolution was powered by steam. There is surely some truth to this, but steam power was a latecomer to the industrialization process
+- Without question, steam power had significant advantages over water power, whose use was always constrained by geography. As Marx writes, with the steam engine a prime mover finally arrived, “whose power was entirely under man’s control, that was mobile and a means of locomotion, that was urban and not, like the water-wheels, rural, that permitted production to be concentrated in towns instead of, like the water-wheels, being scattered up and down the country.”
+    - Tags: [[pink]] 
+- Like the computer and electricity, the steam engine was an example of what economists call a general purpose technology.
+- However, it took several decades for the Watt engine to become viable and required a partnership with Matthew Boulton for financial backing. Watt’s steam engine was first used in 1784 in the Albion Flour Mill, in which the Boulton & Watt company had invested for promotional purposes.
+- sawmills
+    - Tags: [[purple]] 
+- Though its productivity contribution accelerated thereafter, especially in the period 1850–70, the economic impacts of steam were modest relative to those of later general purpose technologies like electricity and computers. Many sectors, including agriculture and construction, were left largely untouched.
+    - Tags: [[green]] 
+- One reason is that adoption was slow because water power remained cheaper for a long time. There was no equivalent to Moore’s Law operating in steam. Thus, most factories were driven by water power until the 1840s.
+- Still, at no previous point in history had people been able to travel faster than the speed of a horse, and horse travel was a luxury available to only a small percentage of the population. Most of the Britons who were to become train passengers had to walk to their destinations before the invention of the railroad
+- By the outbreak of World War I, it would have taken Britons an additional five billion hours to undertake all their train journeys, using only the means of transportation available to them before the railroad.
+- Not only did it require steam power, but cheap iron was another enabling technology for the railroad and indeed much of the Industrial Revolution. Iron went into the construction of factories, steam engines, machinery, bridges, and rails
+- This series of inventions eventually culminated in George Stephenson’s Rocket—the steam locomotive that would be used for travel on the first public and fully steam-powered railroad between Liverpool and Manchester. The opening day of the Liverpool-Manchester Railway in 1830 was one of the major public events of the year, attended by Arthur Wellesley, Duke of Wellington and prime minister of Britain, among others.
+- The railroad network in Britain expanded to 6,200 miles in 1850 and covered 15,600 miles by 1880.
+- In other words, the full benefits of the Industrial Revolution took more than a century to be realized. Parts of Britain were largely unaffected, and the aggregate economic impacts of steam and railroads became significant only in the second half of the nineteenth century.
+- Friedrich Engels published The Condition of the Working Class in England . The work was written during a stay in Manchester, yet unlike the contemporaries who were impressed by its armies of machines, Engels believed that machines served only to reduce the incomes of ordinary people, while benefiting a few industrialists
+- In the period 1780–1840, output per worker grew by 46 percent. Real weekly wages, in contrast, rose by a mere 12 percent.
+- Taking into consideration that average working hours increased by 20 percent in the period 1760–1830, it is hardly an exaggeration to suggest that hourly earnings declined in real terms for a sizable share of the population.
+    - Tags: [[pink]] 
+- The gains of the Industrial Revolution instead went to the pioneers of industry, as the rate of profit doubled
+    - Tags: [[green]] 
+- Even in 1850, life expectancy in Manchester and Liverpool has been estimated at thirty-two and thirty-one years, respectively—well below the national average of forty-one years.
+- Even if wages in Britain were higher than in most other places, contemporaries worried that things were changing as machines were depriving people of their jobs.
+- His famous chapter On Machinery , which asserted that machines reduce the demand for undifferentiated labor and lead to technological unemployment, prompted a number of theoretical approaches to prove that such unemployment was only a short-term problem.
+    - Tags: [[pink]] 
+- As mechanization picked up in industry and agriculture, concerns over the so-called machinery question intensified over the course of the early nineteenth century.
+- Dickens, who had visited several Manchester factories in 1839 and had himself suffered poverty and hardship, was appalled by the conditions in which people lived and worked. His novel Hard Times draws upon those impressions. Similar to Marx, who contended that “the worker makes use of a tool; in the factory, the machine makes use of him,” Dickens’s fictional descriptions of the industrial landscape of Coketown, where “the piston of the steam-engine worked monotonously up and down, like the head of an elephant in a state of melancholy madness,” stress the repetitive aspect of factory work, portraying the worker as enslaved to the mechanical force of the factory.
+- Even if the contrasts were exaggerated, there can be no doubt that workers in the domestic system lived lives very different from those of their factory counterparts
+- Similar to the apocalyptic scenarios painted of the future of artificial intelligence today, people at the time of the Industrial Revolution saw a future in which technology would do more harm than good.
+    - Tags: [[purple]] 
+- Gaskell firmly believed that he was only witnessing the beginning, suggesting that in the future production would be almost entirely automated, with severe adverse consequences for employment
+- Engels’s compatriot, Marx, with whom he wrote the Communist Manifesto , later expanded on Engels’s work in an extensive chapter on machinery in Das Kapital , arguing that “machinery, when employed in some branches of industry, creates such a redundancy of labour in other branches that in these latter the fall of wages below the value of labour-power.… [N]owhere do we find a more shameful squandering of human labour-power for the most despicable purposes than in England, the land of machinery.”
+- Babbage’s On the Economy of Machinery and Manufactures presents machines as a helpful complement to the worker’s labor, suggesting that “various operations occur in the arts in which an assistance of an additional hand would be a great convenience to the workman, and in these cases tools or machines of the simplest structure come to our aid.… The discovery of the expansive power of steam [has] already added to the population of this small island, millions of hands.”
+- This was also the view of Baines, who felt that powerful agitation among workers in industrial cities was chiefly motivated by “imagination and feeling much stronger than their judgement.”
+- Like Babbage, Baines viewed machines as complements to labor rather than substitutes for it, and he argued that all classes of laborers employed in aid of machinery are well remunerated for their work. He added: “Instead of workmen being drudges, it is the steam-engine which is their drudge.”
+    - Tags: [[green]] 
+- Examining data on 237,000 workers employed in cotton mills, Baines suggested that their wages were sufficient to buy not only necessities, but also many luxuries. Although his data showed that their nominal wages declined in the period 1814–32, he suggested that improvements in machinery allowed them to buy cheaper goods, compensating for that decline
+- Their stories resonate with the view of Allen, who wrote: “The standard of living issue in the Industrial Revolution was the result of the destruction of hand loom weaving and other hand trades.”
+- Duncan Bythell—which is often cited to suggest that their conditions were not as desperate as sometimes portrayed—asserts that the power loom led to “the largest case of redundancy or technological unemployment in our recent economic history.”
+- However, the extent to which unemployment was the result of mechanization during the Industrial Revolution is harder to judge, not just because of sparse statistics but because unemployment has many causes. The fact that the years of high unemployment among weavers concurred with economic downturns suggests that unemployment in part was cyclical rather than technological.
+    - Tags: [[green]] 
+- John Fielden’s estimates, which draw upon statistics from the relatively prosperous year of 1833, probably come closer to an unemployment rate that can be deemed technological: in a survey of the poor in thirty-three townships in Lancashire and Yorkshire, who chiefly worked as hand-loom weavers, Fielden found that the rate of unemployment was around 9 percent.
+    - Tags: [[purple]] 
+- As Ure observed in 1835, “Even in the present day … it is found to be nearly impossible to convert persons past the age of puberty, whether drawn from rural or handicraft occupations, into useful factory hands.”
+- With the aid of machines, spinning was quickly learned and needed little strength.
+    - Tags: [[green]] 
+- But the fact that agricultural employment in Northamptonshire surged as employment in textiles declined equally suggests that many textile workers moved into low-paying agricultural jobs. And because the influx of workers into agriculture could not be absorbed, it can be presumed that unemployment increased.
+- As production processes kept changing, the skills of workers were becoming obsolete at an accelerating pace, putting pressure on the workforce to become more agile and adaptable to the rush of progress.
+    - Tags: [[purple]] 
+- Even if unemployment was just temporary, people had to provide for themselves when they were without work by saving some of their limited earnings when they were employed: government-sponsored unemployment insurance was not available in Britain until 1911.
+    - Tags: [[green]] 
+- Defenders of mechanization, like Ure, were right in thinking that the factory would eventually create new and better-paying jobs. And clearly everyone might benefit from cheaper textiles. But this was little comfort to the workers who initially found their skills made redundant by worker-replacing technologies.
+    - Tags: [[green]] 
+- Yet what does the long run matter to workers who lose their livelihoods, especially if they are unlikely to live long enough to see the benefits of the new technology? As the experience of the Industrial Revolution illustrates, the short run can be a lifetime, and of course in the long run we are all dead.
+    - Tags: [[green]] 
+- Because the benefits and profits from mechanization came to the factory owners at the expense of workers, many reasoned that machinery threatened their livelihoods and must therefore be destroyed.
+- In fact, an economist might wonder why citizens would ever voluntarily agree to participate in the industrialization process if it reduced their own utility.
+    - Tags: [[pink]] 
+- But their efforts to halt the spread of machines were unsuccessful, as the British government sided with the pioneers of industry.
+- On May 10, 1768, the first steam-powered sawmill in Limehouse—for which its founder Charles Dingley had been awarded the gold medal of the Society of Arts—was burned to the ground by some five hundred sawyers who claimed that it had deprived them of employment. Four days earlier, the sawyers had informed Dingley of their intent, but he was unwisely dismissive of their ability to put words into action.
+- In contrast to preindustrial monarchs who sought to halt worker-replacing technological progress for fear of social unrest, Parliament passed an act in 1769 that made the destruction of machines a felony punishable by death.
+- A resolution passed after the Lancashire riots suggesting that restrictions on the use of machinery would deteriorate Britain’s competitiveness in trade underlines not only the logic of the British government, but also the political clout gained by merchants relative to preindustrial times.
+- Britain’s competitive advantage in trade was not to be jeopardized.
+- the argument put forward by employers that machines were essential to trade, upon which the fortunes of Britain as a country rested, resonated more strongly with Parliament than did workers’ complaints.
+- Randle Jackson tried a different line of argumentation, suggesting that mechanization deprived producers of their customers by putting them out of work.
+- the committee came to a much more optimistic conclusion, arguing that the use of “the machines has been gradually established, without, as it appears, impairing the comforts or lessening the numbers of the workmen.”
+- During the Luddite risings in the period 1811–16
+- Named after a supposed Leicester stockinger’s apprentice named Ned Ludham who responded to his master’s reprimand by taking a hammer to a stocking frame, the followers of “Ned Ludd,” “Captain Ludd,” or sometimes “General Ludd” targeted this machine for destruction.
+- Despite the diversity of the crowds, the Luddites generally destroyed only machines that were “innovations” or that threatened employment. They left other machines alone.
+    - Tags: [[pink]] 
+- However, the Luddites were no more successful than their predecessors, except in forcing the British government to deploy ever more troops against them (see the introduction). Hence, the political situation of workers remained one of despair.
+- Lord Liverpool, who became prime minister that year, was even of the view that any temporary aid to workers who were made redundant would only impede their redeployment, to the detriment of the British economy.
+    - Tags: [[pink]] 
+    - Note: Robert Banks Jenkinson, 2nd Earl of Liverpool (7 June 1770 – 4 December 1828)
+- Indeed, in 1812 and 1813, more than thirty Luddites were hanged.
+- the smashing of machinery was an expression of dissatisfaction with deteriorating incomes; long working hours; and the lack of suffrage, freedom, and dignity. In some cases people rioted against the factory system as such, not just against the spread of machines.
+- The relative importance of these factors in explaining the many machinery riots is hard to disentangle, especially since some of them are intimately intertwined. Nonetheless, there are clear cases when workers particularly targeted machines they considered to be the cause of their misfortunes.
+    - Tags: [[pink]] 
+- Again, the British government took a stern line and ordered the army as well as local militias to take action against any rioters; 252 death sentences were passed, though some sentenced to death were instead deported to Australia or New Zealand.
+- Where machines were adopted, the probability of riots was around 50 percent higher. Hence, although the smashing of machines in some cases might have reflected general economic and social dissatisfaction among workers, the statistical evidence on the matter suggests that machines themselves were the key cause of the workers’ concerns.
+- The observation of Engels that industrialists “grow rich on the misery of the mass of wage earners” was largely accurate for the period he observed. While working people rioted against the mechanized factory, the British economy experienced a period of unprecedented growth.
+- From the viewpoint of economic theory, it is a challenge to square stagnant or even falling real wages with a growing economy. But in the light of current economic trends, economists have developed models that show how wages and the labor share of income can fall as technology progresses.
+    - Tags: [[purple]] 
+- If technology replaces labor in existing tasks, wages and the share of national income accruing to labor may fall. If, in contrast, technological change is augmenting labor, it will make workers more productive in existing tasks or create entirely new labor-intensive activities, thereby increasing the demand for labor.
+    - Tags: [[purple]] 
+- The divergence between output and wages, in other words, is consistent with this being a period where technology was primarily replacing
+    - Tags: [[green]] 
+- In the period 1840–1900, output per worker increased by 90 percent and real wages by 123 percent: the great divergence between labor and capital income in Britain was followed by an episode of compression.
+- In other words, the wealthy had not become wealthier, there were simply more of them—while laborers were substantially better off.
+- Addressing the House of Commons more than two decades earlier, Prime Minister William Ewart Gladstone declared that “it is a matter of profound and inestimable consolation to reflect that while the rich have become richer, the poor have become less poor.… [I]f we look to the average condition of the British labourer, whether peasant or miner or operative or artisan, we know from varied and incontrovertible evidence that during the last twenty years such an addition has been made to his means of subsistence as we may almost pronounce to be without example in the history of any country and of any age.”
+- A critical question is why real wages eventually began to rise. The most convincing explanation is that technological change became increasingly labor-augmenting instead of labor-replacing, leading to the gradual replacement of physical capital by human capital as the main engine of growth.
+    - Tags: [[purple]] 
+- As with physical capital, the accumulation of human capital—in terms of skills, knowledge, and abilities—can be seen as an investment, because the costs of education and training may be offset by higher earnings at a later stage: productivity and the wages of workers are linked to skills.
+    - Tags: [[green]] 
+- O. Galor, 2011, “Inequality, Human Capital Formation, and the Process of Development,” in Handbook of the Economics of Education , ed. Hanushek, E.A., Machin, S.J. and Woessmann, L. Amsterdam: Elsevier), 4:441–93.
+- Although by no means perfect measures of the variety of skills demanded, rates of literacy and years of schooling provide frequently used indicators of human capital accumulation. In the early days of the industrialization process, investment in physical capital rapidly expanded, whereas human capital accumulation experienced little change
+- Literacy was rarely a requirement for employment in industry. Although workers in the factories clearly acquired new skills through on-the-job training, these jobs required less skill than the artisan jobs they were replacing. As Babbage noted at the time, before the factory, each worker had to be sufficiently skilled to perform every task in production—even the most difficult ones. There was no division of labor in the artisan workshop that allowed workers to specialize in a narrow set of tasks. In contrast, the division of labor that characterized the factory allowed only highly skilled workers to perform the most difficult tasks, while unskilled work could be left to unskilled laborers.
+    - Tags: [[purple]] 
+    - Note: This is an important observation for on-the-job training and generalized construction skills versus specialized construction skills.
+- A recent study of the U.S. experience by the economists Lawrence Katz and Robert Margo points out that “the machines were “special purpose” because they were designed to accomplish specific production tasks that had previously been performed with hand tools by skilled artisans.… Although special purpose, ‘sequentially implemented’ machinery displaced artisans from certain tasks in production, the machines could not run on their own—they required ‘operatives.’ Operatives were less skilled than the artisans they displaced in the sense that an artisan could fashion a product from start to finish, while the operative could perform a smaller set of tasks aided by machinery.”
+    - Tags: [[green]] 
+    - Note: This distinction between operatives and artisans is good terminology to use when describing the types of work and skills required.
+- Determining when technological progress became augmenting is hard.
+- With the railroads, the Industrial Revolution went from local to national, as larger factories took advantage of economies of scale to serve expanding markets.
+- But the reason that real wages grew even more rapidly than productivity is that labor was benefiting from the creation of new jobs more broadly. As factories grew in numbers and size, entirely new skilled occupations emerged. Factories needed managers, accountants, clerks, salespeople, mechanical engineers, machinists, and so on.
+- The growing prominence of skilled occupations was probably a contributing factor to the surge in literacy over the second half of the nineteenth century: workers in skilled occupations were more literate than those in unskilled ones.
+    - Tags: [[pink]] 
+- It took some seven decades for common people to see the benefits of technological progress trickle down into their pockets.
+- Since machines were critical to Britain’s competitive advantage in trade, and thus the fortunes of industrialists, political leaders were determined to facilitate the diffusion of machine technology—even if it came at the expense of workers’ utility.
+- Attitudes toward technological change, as we shall see, are shaped by whether people can expect to benefit from it.
+    - Tags: [[purple]] 
+- The Luddites, who opposed technological change, proved very wrong, insofar as new, higher-paying opportunities for work opened up to replace the ones they lost.
+- Fears that technological advances will wipe out jobs aren’t new. During the Depression in the 1930s, Charles Beard and other leading American thinkers blamed engineers and scientists for creating the conditions for mass unemployment. In the early 1960s, fears of automation returned as businesses began heavily relying on computers for the first time and machine tools slowed job growth on the shop floor.
+- following electrification and the arrival of the internal combustion engine—known as the Second Industrial Revolution—mechanization increased even further in the twentieth century.
+- They were able to play industrial catch-up by adopting technologies already invented in Britain, which allowed them to take different paths to industrialization
+- Consequently, as Jeff Horn has argued, industrialization in France was not only delayed but was also fundamentally different, as it was characterized by greater state intervention—which mediated the different interests between labor and capital.
+- We saw in chapter 5 that education became important in Britain only in the later stages of industrialization when more skill-intensive technologies, like steam power, came into play. In Prussia, technologies already invented in Britain could simply be put to use with the necessary skills, so that education played a greater role in industrialization from the start.
+    - Tags: [[pink]] 
+- With the Second Industrial Revolution, which began in the 1870s, the United States took over technological leadership from Britain—which means that to trace the frontiers of technology, we shall henceforth have to focus on the American experience.
+- But unlike the craft guilds of the preindustrial era, which vehemently opposed the technologies they perceived to threaten their members’ skills, unionized workers didn’t focus their anger on machines. While the United States may have had the most violent labor history of the industrial world, after the 1870s, workers rarely if ever targeted machinery.
+- The reason, I shall argue in the following chapters, is that people began to see technology as working in their own interest. Though it is hard to prove that this caused the relative absence of Luddite sentiment throughout the twentieth century, that absence is even harder to explain in isolation from what actually happened to working people as a result of technological progress.
+    - Tags: [[green]] 
+    - Note: I like the way the author has phrased his position on the forthcoming argument.
+- Enabling technologies, in contrast, not only increase productivity but also reinstate labor in entirely new tasks, occupations, and industries more broadly.
+    - Tags: [[green]] 
+- In a major study, the economists Michelle Alexopoulos and Jon Cohen found that America’s great inventions of the period 1909–49 were predominantly of the enabling sort. Some jobs were clearly destroyed as new ones appeared, but overall, new technologies boosted job opportunities enormously.
+    - Tags: [[purple]] 
+- Indeed, gigantic new industries emerged, producing automobiles, aircrafts, tractors, electrical machinery, telephones, household appliances, and so on, which created an abundance of new jobs.
+    - Tags: [[pink]] 
+- M. Alexopoulos and J. Cohen, 2016, “The Medium Is the Measure: Technical Change and Employment, 1909–1949,” Review of Economics and Statistics 98 (4): 792–810.
+- The authors demonstrate that the internal combustion engine and electricity did more to create jobs than other technologies
+- Thus, economists have come to conclude that this was a period when technology was working in the interest of labor.
+- As Daron Acemoglu and Pascual Restrepo write: “The importance of … new tasks is well illustrated by the technological and organizational changes during the Second Industrial Revolution, which [led to] the creation of new labor-intensive tasks. These tasks generated jobs for a new class of engineers, machinists, repairmen, conductors, back-office workers and managers involved with the introduction and operation of new technologies.”
+    - Tags: [[blue]] 
+- The ever-growing number of semiskilled jobs created in America’s factories provided abundant opportunity even for those who found themselves displaced.
+- The continued expansion of manufacturing and rising educational attainment allowed the vast majority to switch into better-paying and less hazardous jobs, making ordinary Americans the prime beneficiaries of progress
+- The point is that technology itself made everyone better off, to the point where members of Karl Marx’s proletariat became firmly middle class. Consequently, the rational response of labor was to allow mechanization to progress while minimizing the adjustment costs imposed on working people.
+- During his travels across North America in 1831, Alexis de Tocqueville marveled that “no people in the world have made such rapid progress in trade and manufactures as the Americans.”
+- One of the great coincidences in economic history is that Karl Benz’s successful trial of his gas engine on New Year’s Eve 1879 occurred just ten weeks after Thomas Edison’s invention of the electric light bulb.
+- Thus, if the annus mirabilis of the Industrial Revolution was 1769, when Richard Arkwright and Watt both patented their defining inventions, 1879 can be seen as the symbolic beginning of the Second Industrial Revolution.
+    - Tags: [[green]] 
+- Mass production will always be associated with the Ford Motor Company. The achievement of Henry Ford and his engineers was not just to develop a revolutionary new vehicle: they successfully harnessed electricity to devise an advanced system of production as well.
+- Before the arrival of the Model T, “mass production” was not even part of our vocabulary. By 1928, when Ford opened its complex in River Rouge, Michigan, the term had become universal. Although it was first properly defined in an article published under Henry Ford’s name—but written by Ford’s spokesman, William J. Cameron—in the Encyclopaedia Britannica , it gained traction before the article appeared due to a Sunday feature in the New York Times in 1925 titled “Henry Ford Expounds Mass Production.”
+    - Tags: [[pink]] 
+- As one visitor observed, “Nearly all American machines did things that the world earnestly wished machines to do.… Most exciting was Samuel Colt’s repeat-action revolver, which was not only marvelously lethal but made from interchangeable parts, a method so distinctive that it became known as the American system.”
+- Yet the concept of interchangeable parts was not an American invention, if it can be regarded an invention at all. Christopher Polhem, a Swedish engineer, produced a wooden clock using interchangeable parts in the 1720s. The achievement of American industry was to devise sufficiently accurate machine tools to allow uniform parts to be mass-produced. For parts to be interchangeable, they had to be identical.
+    - Tags: [[pink]] 
+    - Note: When discussing the economies of scale, and one of the friction points with modular construction, is the flexibility and customization clients often desire, but are restricted in the factory manufacturing process
+- Much of the machine technology that eventually found its way into Ford’s factories had its origins in the production of firearms, from which the machine-tool industry emerged.
+- Colt’s dictum that “there is nothing that cannot be produced by machinery” outlined the principle that Ford later would turn into practice.
+    - Tags: [[pink]] 
+- Whitworth was clearly impressed with what he witnessed. In his report, he noted that “whenever it [machinery] can be introduced as a substitute for manual labour, it is universally and willingly resorted to.” Whitworth did not share Colt’s view that everything could be mechanized. Skilled hand labor would always be required, he argued before the committee. The key point of disagreement concerned the interchangeability of parts.
+- Great technological leaps are by definition rare, and it was another half century before Ford proved Colt right. Ford was the first to demonstrate that minimizing costs and maximizing production was a profit-maximizing strategy, allowing companies to tap into a seemingly unlimited consumer market.
+- Well aware of the assembly problems associated with interchangeable parts not being identical, Ford’s engineers made accuracy the prime machine-tool requirement. Special machines were built for this purpose.
+- The remaining challenge was assembling the parts. The solution was found in continuous flow production, which allowed workers to remain stationary as parts were moved to them. A prerequisite for the moving assembly line was the diffusion of electric power throughout the factory to provide light and power machines.
+    - Tags: [[pink]] 
+- Electricity triggered a complete reorganization of production. The moving assembly line introduced at Highland Park, just north of Detroit, Michigan, in 1913 successfully harnessed all of this new technology. Electric motors permitted the use of machines of greater accuracy and speed; electric craneways reduced labor requirements in handling and hauling; electric light facilitated precision work; and electric fans made the factories healthier and temperatures more bearable.
+- The assembly of a Model T took around twelve man-hours in 1913. A year later the same car could be assembled in one and a half hours, while electrification allowed for similar time savings in the production of individual components.
+    - Tags: [[pink]] 
+- Between the opening of Edison’s Pearl Street, New York City, station in 1882 and World War I, the cost of household lighting declined by 90 percent due to the availability of better bulbs and improvements in power generation and transmission.
+- In short, for a variety of reasons it benefited businesses and workers alike. Reports suggest that worker absence due to illness decreased by 50 percent following the introduction of electric light.
+- The advantage to be gained from changing over from belted steam driving to individual electric motor for printing-press work is not alone in power saved, but better grade of work, less spoiled sheets, cleaner, healthier rooms for employees, less repairs to machinery, and most of all, an increased product without a corresponding decrease in value of the presses by running at too high speed. There has never been a hitch in the motive power; not a motor has given out. In fact, such a freedom from interruption of power has never been known in the history of the office.”
+    - Tags: [[blue]] 
+- This new power transformation, a reporter for the New York Times wrote in 1925, was “bringing a Second Industrial Revolution.”
+    - Tags: [[blue]] 
+- Another contributing factor was the arrival of the AC motor, developed by Nikola Tesla, which could be adapted to drive just about any machine: “Tesla’s contributions to the introduction and rapid diffusion of AC electric motors was [thus] no less important than Edison’s efforts to commercialize incandescent light.”
+    - Tags: [[pink]] 
+- To take full advantage of assembly-line techniques, new factories like Ford’s in River Rouge were single-storied, which had further benefits—including substantially lower construction costs per square foot. And the elimination of the system for mechanically distributing power made it easier to install overhead cranes for the hauling of interchangeable parts, as rotating shafts were no longer hanging from the ceiling. Many of these changes saved more capital than labor, and most labor savings were related to construction and maintenance tasks rather than operations.
+- Changes in industrial technique not altering materially the amount of labor involved in the operation immediately affected, may, nevertheless, alter substantially the labor required in other processes; for example, through a reduction in the floor space required, in reduced waste of materials or damage to product, or through savings in fuel, power, supplies, or wear and tear on machinery.
+- Mass production not only put an array of new goods within the reach of average American households but also put labor on a virtuous cycle in which the explosive growth of manufacturing required an ever-growing number of operators whose skills were made more valuable by more capital being tied up in machines.
+    - Tags: [[green]] 
+- Factory jobs were simple compared to the emerging jobs in today’s tech industries, and workers could learn most tasks swiftly on the job. As the historian David Nye has pointed out, “One advantage of making the tasks brief was that every job could be learned quickly. Not only could virtually anyone work at Ford; workers could be moved around.”
+    - Tags: [[purple]] 
+- As the economist Frederick C. Mills observed in the 1930s, “Under the pressure of mechanization men have had to learn to do new things in new ways.”
+    - Tags: [[green]] 
+- The greatest virtue of the Second Industrial Revolution was that it created entirely new jobs for average people at the same time as making new goods available to them. The flood of electric appliances that entered American households benefited people in their capacity as consumers and producers alike.
+    - Tags: [[green]] 
+- If the prime feature of the Industrial Revolution was the mechanization of industry, the defining characteristic of the Second Industrial Revolution was the mechanization of the household
+- Electricity, in contrast, revolutionized the home as well.
+- The so-called household revolution did not just make the home more comfortable and enjoyable. It also replaced the housewife in an array of unpaid tasks, which allowed women to take on paid jobs in industry, contributed to a rapid expansion of the American labor force, and delivered a boost to household income.
+- Pioneers of electrification foresaw this development. In 1912, Edison told Good Housekeeping : “The housewife of the future will be neither a slave to servants nor herself a drudge. She will give less attention to the home, because the home will need less; she will be rather a domestic engineer than a domestic labourer, with the greatest of all handmaidens, electricity, at her service. This and other mechanical forces will so revolutionize the woman’s world that a large portion of the aggregate of woman’s energy will be conserved for use in broader, more constructive fields.”
+    - Tags: [[blue]] 
+- The discovery of fire during the Stone Age was an invention that the household still relied upon. Before the days of central heating, an open hearth provided most of the heat.
+- Rural electrification, the report argued, was part of the solution: “As power on the farm is the greatest of time savers for the farmer, so power in the home is the greatest boon to the housewife.”
+- Yet rural electrification took off only after President Franklin D. Roosevelt signed the national law establishing the Rural Electrification Administration on May 2, 1936, which provided funds to local cooperatives that private power companies had neglected.
+    - Tags: [[pink]] 
+- According to one study carried out in the mid-1940s, the electric washing machine saved three hours and nineteen minutes relative to hand washing for every wash. A woman doing laundry by hand walked 3,181 feet to complete the task, but only 332 feet if she used electricity. In similar fashion, the time required for ironing was reduced from 4.50 to 1.75 hours, and the amount of walking required was cut by almost 90 percent.
+- In 1928, a refrigerator cost $568, but its price fell rapidly so that the cost was only $137 in 1931—and refrigerator sales skyrocketed in response.
+- As prices came down, low- and middle-income households were the greatest beneficiaries. Wealthy households previously had human servants to do the most unappealing tasks and hard physical work. It was only with the household revolution that the rest eventually were able to afford servants, albeit mechanized ones. By 1940, modern conveniences had started to trickle down to a sizable share of the population.
+- With the benefit of hindsight, we know that laundresses were right that their skills would become obsolete, yet it was only half a century later, when the electric washing machine finally arrived, that their occupation began to wane.
+- As the home became increasingly mechanized, more women entered the labor market to take on paid and often more fulfilling jobs, and more families suddenly had two incomes, making many American households richer in the process.
+- Clearly, the increase in the numbers of women entering the workforce was not just due to the labor-saving impact of technology. Cultural and social factors also played an enormous role, but they are beyond the scope of this book.
+    - Tags: [[purple]] 
+    - Note: I like how the author acknowledges other factors contributing to a change, but highlights the fact that they’re beyond the scope of the book.
+- The term “pink collar,” which became increasingly common in the 1970s, referred to the growth in the female, machine-tending clerical workforce.
+- As essential a part of this story as the transformation of the home and the factory was the revolution in the movement of goods and people. Indeed, the economic historian Alexander Field has argued that productivity growth in the period 1919–73 can be thought of as “a tale of two transitions.”
+- One solution was to take transportation underground. The Metropolitan Railway, which opened in London in 1863, was initially powered by steam, but the discomfort caused by the smoke in the tunnel made it an unappealing mode of transportation.
+- When the New York City subway finally opened in 1904, it was powered by electricity and traveled more than ten times faster than the horse-driven omnibus
+- In the late nineteenth century, horses in urban areas are estimated to have dropped 5 to 10 tons of manure per square mile, and carcasses of dead horses could be left on the street for days.
+- Of perhaps even greater importance was that with the arrival of the bicycle, Americans first experienced the freedom of horseless personal transportation. Maxim claimed that he had first conceived of the benefits of the automobile when riding his bicycle.
+- Looking back in 1937, he recalled: “It carried me over a lonely country road in the middle of the night, covering the distance in considerably less than an hour. A horse and carriage would require nearly two hours. A railroad train would require half an hour, and it would carry me only from station to station. And I must conform to its time-table, which was not always convenient.”
+    - Tags: [[blue]] 
+- All the same, for some time it looked like the electric motor might be the one to propel the horseless carriage: “In 1900 there appeared great likelihood that the electric automobile might advance to perfection as rapidly as other branches of electrical appliances had done.”
+    - Tags: [[pink]] 
+- Before 1920, there was virtually no commerce along American highways. A colorful description from 1928 reveals a marked contrast: “Every few hundred yards there is a … filling station, half a dozen colored pumps before it. In connection with the stations and between them are huts carrying the sign ‘Hot Dogs.’ Where there is neither hut nor filling station there are huge hoardings covered with posters.”
+    - Tags: [[blue]] 
+- Scholars disagree on whether road construction paved the way for the automobile industry or vice versa. It is probably fair to say that causality ran in both directions.
+    - Tags: [[pink]] 
+- Things changed markedly only with the appearance of Henry Ford’s revolutionary Model T. When its production began in 1908, it was priced at $950; by the time production ceased in 1927, its price had fallen to $263. Expressed as a ratio to annual disposable income per person, its purchase price fell from 316 percent in 1910 to 43 percent in 1923.
+- The share of households with a registered motor vehicle exploded in response, growing from 2.3 percent in 1910 to 89.8 percent in 1930.
+- In the same way motor vehicles transformed the city, they revolutionized farming. The transition from horse to motor power was without question the greatest transformation of agriculture since the domestication of animals to substitute for human muscle.
+- The share of farms with tractors surged from 3.6 percent in 1920 to 80 percent in 1960.
+- The reason was not just the war but also that the infrastructure required to support motorized transportation was lagging. It was only after infrastructure spending resumed and accelerated with the Federal Aid Highway Act of 1956 that the full benefits of motorized vehicles could be realized.
+- In conjunction with the rise of the trucking industry, the container revolution was an engine of postwar growth. And containerization emerged directly from trucking. Malcom McLean, a trucking entrepreneur, invented the container as a mean of integrating the segmented industries of shipping, trucking, and railroads. The first successful container shipment dates from April 26, 1956, when McLean’s Ideal-X made its maiden voyage from Port Newark to Houston, Texas
+- According to a recent study, the container boosted bilateral trade by 320 percent over the first five years of its adoption.
+    - Tags: [[pink]] 
+    - Note: There are comparable parallels to the container and shipping goods by different modes of transportation and offsite construction, and the challenges shipping completed modules.
+- Contemporaries hailed it as “an extension of our mass production techniques into the carrying of overseas trade.
+- Like many transformative technologies, containerization was not welcomed by everyone. Before the age of containers, ports were places crowded with thousands of longshoremen loading and unloading ships. After containerization, large crews of longshoremen were replaced by machines
+    - Tags: [[green]] 
+- All handling was gradually done with cranes and special forklift trucks. But the longshoremen were not passive bystanders.
+    - Tags: [[pink]] 
+- But while the twentieth century clearly saw the spread of some replacing technologies, most progress was of the enabling sort. One reason that the horseless age was not accompanied by a jobless age is that human workers, unlike horses, have the means of acquiring new skills, which allows them to take on tasks outside the realm of machines.
+    - Tags: [[green]] 
+- From being an industry so unimportant that it was not even reported separately in the 1900 census, automobiles became the largest manufacturing industry in 1940
+- They also fueled job creation in supplier industries, construction, transportation, tourism, car services, and road commerce.
+- process; to the carpenter watching a house assembled by units
+- Indeed, when reading Green’s article, it is hard not to think of Friedrich Engels’s assertion that industrialists “grow rich on the misery of the mass of wage earners.”
+- as Green went on to argue in his article, mechanization brought improved material well-being for the majority of the working population
+- The Industrial Revolution had shown that society as a whole could gain from technological progress over the long run but that mechanization could bring a painful period of transition for some.
+    - Tags: [[pink]] 
+- the provision of vocational training to update workers’ skills
+    - Tags: [[green]] 
+- If you take the long view, there is nothing in sight to give us grave concern. I am no more concerned over the men once needed to blow bottles than I am over the seamstresses that we once were afraid would starve when the sewing machine came in. We know that thousands more seamstresses than before earn a living that would be impossible without the sewing machine.
+- In the end, every device that lightens human toil and increases production is a boon to humanity. It is only the period of adjustment, when machines turn workers out of their old jobs into new ones, that we must learn to handle them so as to reduce distress to the minimum.… Please understand me, there must be no limits to that progress.
+    - Tags: [[pink]] 
+- Hardly any serious commentator argued in favor of slowing down the pace of mechanization, despite the sense that manufacturing employment was beginning to wane.
+- a series of studies made it increasingly hard to dispute the fact that some workers struggled to adjust
+- As in Britain in the Industrial Revolution, in America older people found it especially hard to adjust to new technology.
+- According to representatives of five leading moving-picture theaters, more operators were added than the approximately ten thousand musicians who lost their jobs to the sound picture. But even if new types of jobs were added, that provided little relief to the musicians whose skills were not applicable to other employment.
+- Douglas argued against home ownership and too narrow specialization in education and for some form of unemployment insurance and a federal employment agency. In the absence of such policies, he suggested, it will be “almost inevitable that labor will resist and oppose most attempts to raise efficiency of industry.”
+    - Tags: [[green]] 
+- As late as 1940, Roosevelt warned in his State of the Union address that America had to begin “finding jobs faster than invention can take them away.”
+    - Tags: [[blue]] 
+- Looking back in 1965, Robert Solow noted: “Whenever there is both rapid technological change and high unemployment the two will inevitably be connected in people’s minds. So it is not surprising that technological unemployment was a live subject during the depression of the 1930s, nor that the debate has now revived.”
+    - Tags: [[blue]] 
+- Though it is hard to detect much progression in the nature of the debate, our vocabulary bears witness to the progression of technology: the discussions of the 1950s and 1960s centered on the new popular term “automation.”
+    - Tags: [[purple]] 
+- The subcommittee concluded that “all elements in the American economy accept and welcome progress, change, and increasing productivity,” but that “no one dare overlook or deny the fact that many individuals will suffer personal, mental, and physical hardships as the adjustments go forward.”
+- Perhaps the newest thing about automation is its tendency to speed up the rate of technological change and thus both to multiply the opportunities for social progress and to pile up the social problems likely to go with it.”
+- However, substituting automatic elevators for manual ones required public acceptance. Many citizens were first terrified by the idea that automatic elevators might leave them hanging on a cable hundreds of meters in the air, without any operator being responsible for their safety. Such concerns seem familiar today, given the present discussions about the adoption of autonomous vehicles.
+- a report filed by the Elevator Industry Association in 1952, in response to attempts seeking to restrict the introduction of automatic elevators, came to the conclusion that automatic elevators were fully five times safer than manually operated ones.
+- For the most part, however, automation anxiety concerned computers. As Abraham Raskin wrote in 1961, “The ultimate horror in labor’s book was the announcement that a computer … will do the work of seventy-five of the biggest computers now in use.… When computers start creating unemployment among computers it is really time to start worrying.”
+    - Tags: [[blue]] 
+- much like artificial intelligence today, the first computers did not have any meaningful impact on labor markets even in the 1960s. In fact, the effect of computers on employment was not felt before the 1980s.
+    - Tags: [[purple]] 
+- Such worries reached the heart of the government, with some congressmen fearing that the displacement of government employees by electronic computers would imperil the practice of giving politicians government jobs in recognition of their service.
+- In 1960, a subcommittee of the House of Representatives, chaired by Congressman John Leskinki of Michigan, recommended that workers who might experience displacement should be given sufficient notice to be retrained to handle new machines, equipping them with the skills to keep their jobs.
+    - Tags: [[pink]] 
+- Yet such caution was not enough for Kennedy to hold back on the issue. When asked, “How urgent do you view this problem, automation?” during a news conference in 1962, he responded: Well, it is a fact that we have to find, over a 10-year period, 25,000 new jobs every week to take care of those who are displaced by machines, and those who are coming into the labor market, so that this places a major burden upon our economy and on our society.… But if our economy is progressing as we hope it will, then we can absorb a good many of these men and women. But I regard it as the major domestic challenge, really, of the ’60s, to maintain full employment at a time when automation, of course, is replacing men.
+    - Tags: [[blue]] 
+- Like Kennedy, Johnson was not opposed to automation. When signing the bill to establish the commission, he noted that “technology is creating both new opportunities and new obligations for us.…” He saw both an opportunity for faster productivity growth and the obligation to make sure that no worker and family “must pay an unjust price for progress.” Automation, he argued, could be the “ally of our prosperity if we will just look ahead, if we will understand what is to come, and if we will set our course wisely after proper planning for the future.”
+    - Tags: [[blue]] 
+- Large parts of the commission’s report, published in 1966, was dedicated to investigating “the belief that technological change is a major source of unemployment” and the fear that technology would eventually “eliminate all but a few jobs, with the major portion of what we now call work being performed automatically by machines.
+- analysis. “The persistence of a high general level of unemployment in the years following the Korean war,” the commission asserted, “was not the result of accelerated technological progress. Its cause was interaction between rising productivity, labor force growth, and an inadequate response of aggregate demand.”
+    - Tags: [[blue]] 
+- As Woirol writes, “Automation then remained a major popular issue through the mid-1960s. Only after unemployment fell below 4 percent during the Vietnam War did automation begin to disappear as an everyday topic in popular publications.”
+    - Tags: [[purple]] 
+- They petitioned Parliament, urging it to block the spread of worker-replacing technologies.
+- In the context of the installation of an IBM 705 computer in a large public utility, for example, William Faunce, Einar Hardin, and Eugene Jacobson found that “for many individuals this was a period of growth; for others a period of failure and disillusionment. The change severely tested marginal employees and supervisors, while at the same time giving the more experienced and able ones the opportunity to develop and to demonstrate their work potential. The dislocation and the loss of duties and jobs was a serious problem for some employees.”
+    - Tags: [[pink]] 
+- Similar studies were also conducted in a factory setting. Surveying workers in two power plants, Floyd Mann and Lawrence Williams found that operators in the more automated plant on average liked their current jobs more.
+    - Tags: [[purple]] 
+- They had to spend less time doing dirty work, felt they had more responsibility, and had more contact with other employees. This, of course, tells us little about how they perceived the transition associated with mechanization
+    - Tags: [[green]] 
+- To that end, Faunce, a sociologist, investigated how people fared as they were transferred to an automated automobile-engine plant in 1958. 41 He found that workers overwhelmingly preferred the automated factories to the old ones, primarily due to the reduction in the handling of heavy materials, which made their jobs less physically demanding.
+    - Tags: [[purple]] 
+- Thus, in a review of the literature, Faunce and coauthors aptly summarize the matter as follows: Field research suggests that the impact of office automation upon job satisfaction varies depending on … whether the employees are in electronic data-processing departments which gain work tasks or in other affected departments that lose tasks, whether the computer is of large or medium size, and on several other circumstances. Office employees think the broad impact of office automation is to eliminate jobs and regard the methods changes as temporarily disruptive, but they often welcome change and rarely reject mechanization as such. Attitudes toward change appear to depend on the ability of the individual to deal effectively with change and on the skill with which the organization manages the change. Studies of factory automation suggest that automated plants are preferred as work places to less advanced plants, although they provide important sources of dissatisfaction. The sources of satisfaction and dissatisfaction vary over the course of adjustment to automation.
+    - Tags: [[blue]] 
+- In contrast, when new tasks and duties were created, workers often felt a sense of increased responsibility, although they sometimes worried about inadequate training.
+    - Tags: [[green]] 
+- The historian Daniel Nelson writes: The mechanization of agriculture was not painless. As early as the 1830s, the advent of threshing machines provoked protests, occasionally violent, from men who devoted their winters to flailing wheat. More serious opposition appeared in the mid-1870s, when recession coincided with the appearance of the labor-saving twine-binder, a machine that substantially reduced the size of harvest crews. Strikes and terrorist acts punctuated the normally placid midwestern summer of 1878. Ohio, still an important wheat-producing state, was the center of violence.… As the economy improved in 1879 and fewer city workers turned to the countryside for employment, the crisis passed. Thereafter there was little or no overt resistance to mechanization.
+    - Tags: [[blue]] 
+- The renowned labor historian Philip Taft and Philip Ross, a professor of industrial relations, have argued that “the United States has had the bloodiest and most violent labor history of any industrial nation in the world.”
+- But labor violence in twentieth-century America rarely targeted machinery. It is indeed somewhat telling that Taft and Ross’s detailed review of the causes of strikes and incidents of labor violence does not provide a single reference to the introduction of labor-saving technology as the cause of such incidents.
+    - Tags: [[pink]] 
+- The most convincing explanation is the simplest one: labor, for the most part, greatly benefited from the steady flow of new technologies.
+    - Tags: [[green]] 
+- labor unions became legal in Britain in 1825, when a very small percentage of workers joined them, and their members obtained the legal right to strike only in the 1870s
+- His attitude was simply that people’s purchasing power must grow in tandem with the productive capacity of American industry.
+- A series of separate case studies by the Bureau of Labor Statistics (BLS) illustrates this point by showing that unions frequently took an active role in the mechanization process.
+    - Tags: [[green]] 
+- Naturally, the change to increased automation meant some shifting of people from jobs in reduced activities to jobs in expanding ones. And in some cases, the shift meant a downgrading in skill level, while in others upgrading took place.
+    - Tags: [[purple]] 
+- In every case that a union was involved, the BLS shows, its approach was to make sure that its members reaped the benefits of mechanization rather than stood in the way of it.
+    - Tags: [[pink]] 
+- Looking back in 1984, the Congressional Office of Technology Assessment noted that “labor-management relations play an important role in the introduction of new technology. Using collective bargaining, organizing, and political strategies, unions in the United States have attempted to minimize what are perceived to be the socially harmful effects of new technologies on the labor force. Their efforts have generally been directed toward easing the adjustment process rather than retarding the process of change.”
+    - Tags: [[green]] 
+- The outflow of workers from agriculture to blue- and white-collar jobs laid the foundations for the emergence of a growing and increasingly prosperous middle class.
+- But while mechanization made a few workers worse off individually in the short run, the expectation that they would benefit in the medium term seemed justifiable to the vast majority of ordinary people.
+- Perhaps the greatest contribution of mechanization was that it made the workplace safer and less physically demanding.
+    - Tags: [[green]] 
+- Statistics on industrial accidents associated specifically with machines remain sparse, but such accidents were evidently frequent enough for the New York Times to run out of phrases to describe such incidents: “killed by machinery,” “killed in the machinery,” “mangled by machinery,” “terribly mangled by machinery,” “crushed by machinery,” and “scalped by machinery” appeared in the many headlines of reports on deaths from industrial accidents during the 1870s and 1880s.
+- The Triangle Shirtwaist Factory fire of 1911 in New York City, described by the news media as the “the worst calamity that has befallen us since the burning of the Slocum,” cost the lives of 148 workers, most of them young women. 15 As fire ravaged the factory, many people jumped out of the windows—only to be picked up either squashed or fearfully injured. Few of the workers who escaped death but were left seriously injured or disabled received any meaningful compensation to support themselves and their families.
+    - Tags: [[pink]] 
+- Automation, according to the BLS, meant that man no longer had “to pace himself to the rhythm of the machine, a rhythm which may be an unnatural one and result in tension and possible accidents.”
+- Table 1 illustrates the remarkable occupational evolution of the American workforce: between 1870 and 2015, the share of working people in agriculture declined from 45.9 percent to 1.0 percent
+    - Tags: [[purple]] 
+- Much of the work done by office machines would probably not even have been done had the machines not been invented. As Harry Jerome wrote, “If letters were all written by hand, and computations all made by laborious and expensive human effort, there would be a marked shrinkage in the volume of correspondence and computation considered necessary and economical.”
+    - Tags: [[blue]] 
+- In other words, machines were responsible for relieving workers of the most dangerous and physically demanding tasks as well as for creating new and more pleasant ones in electrified factories and air-conditioned offices.
+- At the Ford Motor Company, the cost of constantly training new workers, as many others left the company for better jobs elsewhere, prompted action. To keep its workers, the company introduced the five-dollar-a-day wage, effectively doubling the wages of the employees working in its factories. Since Ford accounted for almost half of the American production of automobiles, increasing the wage to five dollars a day can justly be regarded as “the most dramatic event in the history of wages.”
+    - Tags: [[purple]] 
+- The National Labor Relations (“Wagner”) Act of 1935 guaranteed the right of employees to organize into trade unions and bargain collectively for better conditions. It also provided mechanisms for solving disputes, such as the establishment of the National Labor Relations Board to mediate between employees and employers.
+- The case of the telephone operator illustrates this point vividly. When operators went on strike in 1968, it had virtually no effect at all, as automation kept the system running. The strike was barely noticed, apart from the headline “Automation Keeps Struck Phone System Working.”
+- In contrast, automation allowed a few executives and supervisors to fill in for the 160,440 strikers. The simplicity of the automated system meant that the other employees had few technical difficulties taking over from the operators.
+- As discussed, the Second Industrial Revolution spawned new tasks for labor. The general-purpose technologies of the century boosted productivity and employment, while reducing unemployment.
+- As electrical appliances poured into homes, relieving the American housewife of many burdens, mass production created a host of previously unimaginable occupations and industries. An early survey of new industries in 1905 takes note of the high pay in all of the electrical industries, explaining why not a single strike of any serious magnitude had been recorded.
+- In several separate case studies, the BLS found that the introduction of new machines led to the creation of new tasks and better-paying jobs.
+    - Tags: [[green]] 
+- Clearly, technology did cause some occupations to vanish—like those of lamplighters, elevator operators, laundresses and so on—yet these jobs employed only a fraction of the workforce relative to the new machine-aided occupations that emerged.
+    - Tags: [[purple]] 
+- The decline of rural institutions and communities was partly offset by the automobile, which made people more mobile. But there can be no doubt that some rural communities suffered. However, mechanization of agriculture was rarely the reason
+- The new industrial America had become a Gilded Age, satirized in the 1873 novel The Gilded Age by Mark Twain and Charles Dudley Warner.
+    - Note: “The Gilded Age: A Tale of Today” (1873) is a satirical novel that critiques the greed, corruption, and political machinations of post-Civil War America.
+- The period 1900–1970 has rightly been regarded the “the greatest levelling of all time.
+- Schumpeterian growth did indeed make America both richer and more equal.
+- Kuznets’s theory, which shaped how economists thought about inequality for half a century, was intuitive and straightforward. It predicted that the early shift from the agricultural sector to the higher-income, higher-inequality manufacturing sector would drive up inequality in the early phases of industrialization. But as manufacturing employed a growing share of the population, a larger percentage of citizens would harvest the benefits from growth, and inequality would eventually diminish. Technological progress, in other words, inevitably brings about an episode of increased inequality, but all economies have to do to achieve shared prosperity is wait for the cycle to complete itself
+- Fortunately, we can explore his hypothesis empirically. Unlike the economists of the Industrial Revolution, Kuznets built his theory on a formidable statistical analysis—the first of its kind.
+- Alexis de Tocqueville
+    - Note: Alexis de Tocqueville (1805–1859) was a French aristocrat, political thinker, and historian best known for *Democracy in America* (1835–1840). This seminal work analyzed American democracy, emphasizing the role of equality and its influence on society. Tocqueville visited the U.S. in 1831 with Gustave de Beaumont, initially to study prisons but expanded his observations to include American political and social life. His insights remain influential in sociology and political science. He was also active in French politics and wrote extensively on issues like slavery, colonialism, and democracy[1][3][6].
+- Sources [1] Tocqueville, Alexis de - Embassy of France in Washington, DC https://franceintheus.org/spip.php [2] Introduction to Democracy in America by Alexis de Tocqueville https://constitutingamerica.org/90day-dt-introduction-to-democracy-in-america-by-alexis-de-tocqueville-why-every-american-should-read-a-book-by-a-frenchman-guest-essayist-pete-peterson/ [3] Alexis de Tocqueville - Wikipedia https://en.wikipedia.org/wiki/Alexis_de_Tocqueville [4] Introduction to the work of Alexis de Tocqueville - The Great Thinkers https://thegreatthinkers.org/tocqueville/introduction/ [5] Alexis de Tocqueville | Learning to Give https://www.learningtogive.org/resources/alexis-de-tocqueville [6] Democracy in America | Summary, Analysis & Impact - Study.com https://study.com/learn/lesson/democracy-in-america-alexis-de-tocqueville-summary-bio-influence.html [7] Alexis de Tocqueville | French Historian, Political Writer & Social Critic https://cdn.britannica.com/12/9012-050-1DC777E4/Alexis-de-Tocqueville-detail-oil-painting-Theodore-1850.jpg?w=400&h=300&c=crop&sa=X&ved=2ahUKEwjj4_ySvs6KAxUwQzABHSSjEpUQ_B16BAgHEAI
+- America, it seemed, was turning into a nation of the Old World, far removed from its Jeffersonian ideal and corrupted by an emerging industrial elite. Wealthy industrialists and financiers like John D. Rockefeller, Andrew Carnegie, J. P. Morgan, and Cornelius Vanderbilt were frequently labeled robber barons.
+- In 1859, the journalist Henry J. Raymond compared Vanderbilt to a medieval nobleman, writing that he was “like those old German barons who, from their eyries along the Rhine, swooped down on commerce of the noble river and wrung tribute from every passenger that floated by.”
+    - Tags: [[blue]] 
+- Together, America’s railroad companies earned over $1 billion in revenues, and their combined debt was close to $5 billion—almost five times the national debt.
+- Economists tend to rely on the Gini coefficient to measure levels of inequality across time and space. One of its virtues is that it is straightforward to interpret. If every citizen of a country had the same income, the Gini coefficient would be 0. If one person captured all the income, the income Gini coefficient would be 1.
+    - Tags: [[pink]] 
+- A large part of this can be explained by the displacement of the blue-collar artisan, which led to the hollowing out of middle-income jobs and, thus, greater earnings inequality.
+    - Tags: [[purple]] 
+- Two world wars and the Great Depression served to destroy the riches of the wealthy. The great leveling was the result of violence, economic collapse, and radical political change, not the tranquil process of structural change that Kuznets described.
+- This is not to suggest that policy didn’t matter. Indeed, the top income tax rate, which had been reduced to 25 percent in the administration of President Herbert Hoover, was hiked up to 63 percent under President Franklin D. Roosevelt in 1933 and continued to increase thereafter, reaching a staggering 94 percent in 1944.
+- The national minimum wage, first introduced in 1933, would have caused a compression in the lower ranks of the income distribution. Yet as Lindert and Williamson demonstrate, the great leveling was not confined to the lower ranks: compression was almost universal across occupational pay scales.
+- The wages of ordinary citizens were growing as mechanization propelled productivity, and America was becoming a more equal place at the same time.
+- Another reason is that technology works in mysterious ways. Technological progress has at times replaced workers, putting downward pressure on wages and thereby serving to increase the share of national income that goes to capital. And at other times, it has favored labor. The relationship between technological progress and the income distribution is not monotonic: some technologies may increase inequality, while others reduce it. It depends on the degree to which technological changes are replacing or enabling. And it depends on whether the supply of workers with the right skills is able to keep pace with demand.
+    - Tags: [[purple]] 
+    - Note: I particularly like the use of the word “monotonic”
+- The wealth of workers is in their skills. It is from their human capital that they make their living.
+    - Tags: [[green]] 
+- the lack of education and training can even exclude entire social groups from the growth engine
+    - Tags: [[green]] 
+- Most available evidence suggests that technological change was primarily skill-biased in the period 1870–1970, serving to drive up the wages of skilled workers relative to those of the unskilled.
+- The leading explanation for the great levelling comes from pioneering work by Jan Tinbergen that conceptualized patterns of inequality as a race between technology and education.
+    - Tags: [[pink]] 
+- Empirical work by Claudia Goldin and Lawrence Katz, two Harvard University economists, has shown that this view does a good job of explaining patterns of American wage inequality up until the 1970s.
+- While a number of short-run events and government interventions contributed to the great leveling, the most pervasive force—and certainly the best documented one—behind its long-run egalitarian impact was the upskilling of the American workforce, which depressed the skill premium.
+    - Tags: [[green]] 
+- One institutional invention in particular was essential to making the gains from technological inventions widely shared: public schooling.
+    - Tags: [[purple]] 
+- Thus, in short, social and financial capital helped foster the formation of human capital.
+- Education was the best investment people could make for their children in the age of the Second Industrial Revolution.
+- A virtue of the Second Industrial Revolution was that it helped reduce the opportunity cost to education by raising skill requirements.
+- High school education was less common among blue-collar workers, but those who did stay on in school were overwhelmingly found in jobs associated with the Second Industrial Revolution. They were electricians, auto mechanics, electrical engineers, machinists, and so on.
+- Some leading technology firms, like General Electric, even required some years of high school for their apprentices. And the demand for skills only continued to expand thereafter. In the petroleum industry, for example, educational standards were continuously rising in the postwar period, for production and supervisory workers alike
+- Another survey, looking at the introduction of automatic reservation systems in the airline industry, similarly shows that more sophisticated skills were demanded as technology progressed.
+- After a week of subsequent on-the-job training, under his supervisor, the employee receives an additional 26–33 hours of advanced classroom instruction
+- In contrast to grand theories of capitalism, the race between education and technology is a simple and robust empirical observation.
+    - Tags: [[purple]] 
+- This is also the favored interpretation of the economist Branko Milanovic, who has recently put forward the idea of Kuznets waves accompanying every new technological revolution.
+- The reason is that different economic models apply to different technological revolutions.
+- The fact that the term “white-collar” first entered common usage during the first half of the nineteenth century suggests that labor markets were undergoing rapid change as industrialization picked up in pace.
+- Middle-income craftsmen saw their jobs disappear as mechanized factory production took over. Artisans of all kinds—cabinetmakers, watchmakers, shoemakers, and so on—closed their shops as the factories produced ever-growing quantities of goods.
+- The factories required operatives, who were “less skilled than the artisans they displaced in the sense that an artisan could fashion a product from start to finish, while the operative could perform a smaller set of tasks aided by machinery.”
+    - Tags: [[blue]] 
+- This is not to suggest that operatives did not have any skills. Factory workers had to learn how to operate the machines on the job.
+    - Tags: [[green]] 
+- Working Americans did not just gain from technological change in their capacity as consumers. Perhaps more importantly, twentieth-century mechanization was primarily augmenting, and the few who lost their jobs to machines mostly faced decent alternative job options
+- The middle class, at its peak, was a diverse blend of white- and blue-collar workers.
+- The result is reflected in the compression of the income distribution, prompting President John F. Kennedy to note that “a rising tide lifts all the boats.”
+    - Tags: [[blue]] 
+- Since the Industrial Revolution, mechanization has been controversial. Machines pushed up productivity, raising incomes per capita. But they threatened to put people out of work, to lower their wages and to divert all the gains from growth to the owners of businesses.… Now, it is robots that threaten work, wages and equality.…
+    - Tags: [[green]] 
+- ROBERT C. ALLEN, “LESSONS FROM HISTORY FOR THE FUTURE OF WORK”
+- The bigger story, however, is the decline of the middle class. The top pulling away from the rest would be much less troubling if the middle had continued to prosper. For all the talk of rising inequality per se, the greatest tragedy is that large parts of the workforce have actually seen their wages fall, adjusted for inflation. In the age of computers, the ranks of the affluent have grown—but at the cost of a withering middle class.
+- Since the pioneering work of Jan Tinbergen, economists tend to think about inequality as a race between technology and education. Skill-biased technological change means that new technologies increase the demand for workers with more sophisticated skills, relative to those without such skills.
+    - Tags: [[purple]] 
+- Thus, inequality between the skilled and the unskilled will rise unless the educational system churns out skilled workers at a greater pace than technology increases the demand for them.
+    - Tags: [[green]] 
+- The great reversal depicted in figure 10 was first noted by Daron Acemoglu and David Autor. 1 It shows that up until the 1970s, wages rose for people at all educational levels, but after the first oil shock in 1973, wages fell and then stagnated for all Americans for about a decade.
+- The computer era does not just mark a shift in labor markets. It also marks a shift in how economists think about technological progress.
+- best understood as a race between enabling and replacing technologies. In a world of enabling technologies, the view of progress as a race between technology and education holds. New technologies augment the capabilities of some workers and enable them to perform new functions, making them more productive in a way that also increases their wages. Replacing technologies, by contrast, have the opposite effect. They render some workers’ skills redundant in the tasks and jobs they perform, putting downward pressure on those people’s wages.
+    - Tags: [[green]] 
+    - Note: There could be a nice parallel between enabling technologies and replacing technologies, similar to expensive and restrictive learning.
+- In the 1960s, the management guru Peter F. Drucker argued that automation was no more than a more fashionable term for what once had been known as mechanization, and he took both words to mean the displacement of hand labor by machines.
+    - Tags: [[purple]] 
+- the computer revolution was not a continuation of twentieth-century mechanization but the reversal of it. Computer-controlled machines have eliminated precisely the jobs created for a host of machine operators during the Second Industrial Revolution. The workers that were once pulled into decent-paying jobs in mass-production industries are now being pushed out.
+- In the Wealth of Nations, Adam Smith observed the division of labor in Britain’s pin factories. By dividing activities into narrow tasks, he found that the first factories were able to increase efficiency enormously.
+    - Note: Adam Smith dividing activities into narrow tasks could be a good example for my own fieldwork.
+- While his observation concerned the division of labor between human workers, the age of automation came with a new division of labor: tasks can now be divided between humans and computers.
+    - Tags: [[pink]] 
+- Before the advent of the first electronic computer in 1946, the distinction between humans and computers was meaningless. Humans were computers. “Computer” was an occupation, typically performed by women who specialized in basic arithmetic.
+- Until very recently, automation was technically feasible only when an activity could be broken down into a sequence of steps, with an action specified at every contingency.
+- In 1974, Harry Braverman, an American Marxist, drew attention to the dehumanizing nature of routine work, which he observed had persisted since the birth of the factory system. “The earliest innovative principle of the capitalist mode of production,” he argued, “was the manufacturing division of labor, and in one form or another the division of labor has remained the fundamental principle of industrial organization.”
+    - Tags: [[blue]] 
+    - Note: The discussion of Harry Braverman will prove to be incredibly important.
+- In this regard, Braverman merely revived an old concern. As discussed above, in the 1830s, non-Marxist writers like Peter Gaskell and Sir James Kay-Shuttleworth argued that the repetitive motions of machines absorbed workers’ attention to an extent that adversely affected their moral and intellectual capabilities.
+- Braverman, who lived through the age of mass production, found that the Fordization of America had accelerated routinization. Machine operations had become even more subdivided. Workers’ jobs were turned into mechanical motions, in which conveyors brought the task to the worker. Such specialization greatly increased productivity in American factories but brought greater monotony for the worker
+    - Tags: [[pink]] 
+- From this point of view, factory automation can be regarded as a blessing because it meant that industrial robots, controlled by computers, could eliminate the need for direct human intervention in operating machines. Instead of having workers specializing in machine tending, many routine tasks could suddenly be performed by robots with a higher degree of accuracy.
+    - Tags: [[green]] 
+- Computers, as Norbert Wiener declared, made possible “more human use of human beings.”
+- What Braverman was challenging, however, was the notion that mechanization had increased the demand for skilled workers. He had little data to prove his point, but the idea that jobs had become more routine and required more skills does seem like a contradiction in terms. Many of the routine jobs that emerged over the course of the twentieth century were surely not too intellectually demanding, yet as we saw in chapter 8 , the growing complexity of heavy industrial machinery and the expanding array of office machines did require more skilled operators.
+    - Tags: [[green]] 
+- One computer expert illustrates the trend by estimating that if the automobile business had developed like the computer business, a Rolls-Royce would now cost $2.75 and run 3 million miles on a gallon of gas.”
+- Of the 6,300 robots operating in America’s factories in 1982, 57 percent of them were at four companies: General Motors, Ford, Chrysler, and IBM
+- While automation replaced workers in some jobs, it also created new ones. Robots replaced workers in repetitive assembly work, but the machines also required skilled personnel capable of programming, reprogramming, and occasionally repairing them.
+- Focusing only on the rise and fall of individual occupations, however, inevitably glosses over much of the transformation of the workplace. Many of these changes have taken place within occupations.
+- Although computers have taken over an ever-growing share of routine work, labor has retained its comparative advantage in other domains. One reason is because of what the economist David Autor has called “Polanyi’s paradox.”
+    - Tags: [[purple]] 
+    - Note: I have a number of papers and a book written by David Autor that need to be read and reviewed. 
+- Autor, D. et al. (2020) The Work of the Future: Building Better Jobs in an Age of Intelligent Machines. Massachusetts Institute of Technology.
+- A key bottleneck to automation that engineers have found hard to overcome is well summarized by Michael Polanyi’s famous phrase: “We know more than we can tell.”
+    - Tags: [[green]] 
+    - Note: This quote by Polanyi has been used in multiple writings, including “The Second Machine Age”
+- Humans constantly draw upon large reservoirs of tacit knowledge that we struggle to articulate and define even to ourselves, making it exceedingly hard to specify it in computer code. To illustrate Polanyi’s point, it is helpful to contrast the task of repetitive assembly with that of designing a new car, writing a piece of music, or giving a galvanizing speech.
+    - Tags: [[purple]] 
+- From an automation point of view, Polanyi’s insight is critical, because it means that there are many tasks humans are able to perform intuitively but that are hard to automate because we struggle to define rules that describe them.
+    - Tags: [[green]] 
+- For activities that demand creative thinking, problem solving, judgment, and common sense, we understand the skills only tacitly. But more importantly, from an economic standpoint, Polanyi’s observation also means that some human skills are complemented by computers.
+    - Tags: [[pink]] 
+- As engineers have expanded what computers can do, technological progress has continuously moved in the direction of favoring skills that require higher education, such as complex problem solving and creative thinking, because computers have taken over the more mundane tasks.
+- When Robert Reich surveyed the transformation of the labor market in his classic 1991 book, The Work of Nations , he found that work could be divided into three broad categories. A new class of what he called “symbolic analysts” had emerged, who were reaping the benefits of the new economy.
+    - Tags: [[green]] 
+    - Note: The Work of Nations, by Robert Reich, has been cited on numerous occasions, and I have the paper back in London 
+- Reich, R.B. (1991) The Work of Nations: Preparing Ourselves for 21st-century Capitalism. A.A. Knopf.
+- Besides symbol-analytic services, Reich reckoned, there are also routine jobs and in-person services.
+- While today’s technology companies provide less opportunity for the unskilled relative to the smokestack industries of the Second Industrial Revolution, many people are employed indirectly by those firms, whose employees demand many services that the unskilled provide.
+- If Polanyi’s paradox were the only hurdle to automation, most remaining jobs would be for symbolic analysts.
+- A second reason why there are still so many jobs is explained by Moravec’s paradox, named after the computer scientist Hans Moravec. The paradox he noted was the fact that it is hard for computers to do many tasks that are easy for humans, and conversely, computers can do many things that we find exceedingly difficult: “It is comparatively easy to make computers exhibit adult level performance in solving problems on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility.”
+    - Tags: [[pink]] 
+- Relative to Polanyi’s paradox, the critical difference is that many of the skills that are hard to automate because of Moravec’s paradox have not been made more valuable by computers. Together, the persistence of these engineering bottlenecks explains why the labor market has evolved the way it has.
+    - Tags: [[pink]] 
+- As noted, the fact that the wages of men without college degrees have fallen over the course of three decades, in other words, suggest that they are faced with fewer alternative job options for which their skills are suitable.
+- Together with Autor, in their pioneering 2004 book, The New Division of Labor , Frank Levy and Richard Murnane, two economists at the Massachusetts Institute of Technology, were among the first to note this pattern:
+    - Tags: [[pink]] 
+- The disappearance of industrial jobs has meant that fewer citizens can be regarded as working class. Most adults with a high school education no longer work in factories. There is no stable working class for young men and women to break into. Thus, the term has become a shunned pejorative, while the “middle class” is now used to refer to almost everyone except the very wealthy and the very poor.
+- Welding-machine operators and other blue-collar workers became associated with relatively stable, decent-paying jobs by the mid-twentieth century.
+- The conditions of the working classes in the golden postwar years were strikingly different to those described by Karl Marx and Friedrich Engels a century earlier, and they were able to attain a middle-class lifestyle.
+    - Tags: [[pink]] 
+- Thus, sociologists mostly use college education, rather than occupation, as an indicator of a citizen’s class in the post-1980 period.
+- As has been widely documented, education has reinforced the divide between those who thrive in the new economy and their less-educated peers. This pattern becomes all the more evident when we look at how workers have adjusted to automation.
+    - Tags: [[green]] 
+- Those with analytical skills have moved up into the expanding sets of high-wage jobs, while people who lack valuable skills have dropped down and are competing for unskilled service jobs at declining wages.
+    - Tags: [[pink]] 
+- In 1985, when the first wave of automation swept through America’s car factories, the Wall Street Journal published a story about Lawrence Maczuga, a thirty-seven-year-old machine operator at Ford Motor Company’s transmission plant in Livonia, Michigan. While Maczuga was working the machines at the factory, he had been going to college at night to get a degree in computer science. As automation took over, he gave up his semiskilled job on the assembly line to take one of the plant’s “superjobs” as a manufacturing technician. Maczuga had for some time considered giving up his job at Ford to become a computer programmer. But as Ford revealed its new plans for computerizing production, he accepted the new role. 30 The problem is that Maczuga was the exception, not the pattern. Few manual workers got degrees in computer science or any other college concentration. Thus, as automation eroded the demand for routine skills and physical strength, blue-collar people found themselves in an ever-weaker position.
+    - Note: Cross reference the original article from the Wall Street Journal
+- Welfare programs, spousal employment, and changing social norms have all played a role in shaping some men’s decision not to work over the course of the twentieth century
+    - Tags: [[pink]] 
+- When the economists Katharine Abraham and Melissa Kearney recently set out to review what we know about the causes of male joblessness, they found trade and robots to be the prime reasons why fewer men ages 25–54 have been working since the new millennia.
+    - Tags: [[green]] 
+- Women also are more likely to graduate from college than men, and consequently their skills are more suitable for the computer age. Indeed, while men have found themselves increasingly likely to be replaced by computer-controlled machines, women are more likely to use a computer at work.
+- All analyses of the role of technology in rising male joblessness are regrettably limited to multipurpose robots, as systematic data on single-purpose robots remain sparse. But even if this means that we underestimate the pervasiveness of robots in the economy, such data are still informative.
+- Daron Acemoglu and Pascual Restrepo estimate that each multipurpose robot has replaced about 3.3 jobs in the U.S. economy.
+    - Tags: [[pink]] 
+- Those estimates focus on the period 1993–2007. However, statistics on the adoption of multipurpose robots from the International Robotics Federation show that American industry has continued to use robots more extensively in the postrecession period: the number of robots in use grew by almost 50 percent between 2008 and 2016.
+- All the same, there is compelling evidence that technological change in general has become more worker replacing in recent years.
+    - Tags: [[pink]] 
+- But there is more direct evidence to suggest that technology has become increasingly labor replacing.
+    - Tags: [[pink]] 
+- In a major study of eighteen Organisation for Economic Co-operation and Development (OECD) countries, published in 2018, the economists David Autor and Anna Salomons found that whether automation is measured by productivity gains, patenting flows, or the implementation of multipurpose robots, it has reduced the share of national income captured by labor. Technological progress, they show, only turned replacing as computers became more pervasive in the 1980s, and its negative effects on the labor share became more pronounced throughout the 2000s.
+    - Tags: [[green]] 
+- The classic years of industrialization are known as Engels’s pause, when the mechanized factory displaced domestic industry, worsening the economic prospects of many citizens even as the British economy took off.
+    - Tags: [[pink]] 
+- If Friedrich Engels were living today, what would he have written about the computer era?
+    - Note: This is one example of how the author has started a section with a question
+- As was the case in the classic years of the Industrial Revolution, the gains from growth have shifted from the bottom to the top of the income distribution and from labor to owners of capital.
+- The economists Loukas Karabarbounis and Brent Neiman, for example, have documented that the share of national income that goes to labor has declined dramatically in most countries since the 1980s, which, they argue, is thanks to cheaper computers.
+- In 2017, the International Monetary Fund (IMF) published a report showing that “technological advancement, measured by the long-term change in the relative price of investment goods, together with the initial exposure to routinization, have been the largest contributors to the decline in labor income shares in advanced economies.”
+    - Tags: [[blue]] 
+- In the computer era, the increase in inequality happened in large part because new technologies strongly rewarded more highly skilled symbolic analysts while driving up the capital share of national income. At the same time, as middle-income routine jobs were shredded, unskilled labor moved toward low-paying service occupations, causing wage disparities to rise.
+- Indeed, the economists Lawrence Katz and Robert Margo have pointed out that the effects of computers on the labor market today have been similar to those that accompanied the spread of the mechanized factory in the nineteenth century.
+    - Tags: [[pink]] 
+- So far, new computer technologies have not caused widespread unemployment as has been so widely feared. Though industries and occupations have lost jobs due to automation, job losses have been offset by the creation of new tasks, customers and suppliers benefiting from cheaper goods, and increases in overall consumer spending
+    - Tags: [[green]] 
+- And, as the experience of the Industrial Revolution illustrates, even when new jobs are being added, it can take a long time for workers to acquire the necessary skills to successfully move into the newly emerging jobs. In many cases, new or changing job roles require a different breed of worker.
+    - Tags: [[purple]] 
+    - Note: This is an important parallel to make between the first industrial revolution and the fourth Industrial Revolution
+- Few older workers or employees displaced from the affected units were chosen for the newly created positions. The adverse impacts of automation were much greater for middle-age and older employees.
+    - Tags: [[pink]] 
+- Though new tasks may be spun off in the process, new skills take time to learn and are often seen in workers’ wages only years later. As discussed in the context of the Industrial Revolution, the wages of power-loom weavers took off long after the jobs of hand-loom weavers were shredded. A modern equivalent is the case of typographers, which also illustrates this point vividly.
+    - Tags: [[green]] 
+- As computer publishing eliminated tedious rekeyboarding of text and made typesetting less costly and more versatile, desktop publishers and graphic designers took on much of the typographical work, and employment opportunities in these occupations soared. But making this transition required workers to learn graphic design software, such as page layout programs.
+- Technology is continually redefining what publishing is and how it is done. Each of these changes requires new, specialized skills—skills learned largely through experience or by sharing knowledge, rather than in school. Each year, designers have to learn new software and new standards in order to keep up.
+    - Tags: [[green]] 
+- When occupational skills are replaced by machines, the investment workers have made in building up the human capital associated with that occupation has gone industrially bankrupt. A worker displaced from a steel mill will not be able to begin a new career as a barber the next morning, and he or she is rarely equipped to switch into a professional, managerial, or engineering job.
+    - Tags: [[purple]] 
+- The higher the cost of accumulating new human capital, the longer the transition will take.
+    - Tags: [[green]] 
+- But unquestionably, the cost of acquiring new human capital to move into well-paying jobs has become much greater in the ever-higher tech economy, leading to a hardening division between those who went to college and whose who did not.
+    - Tags: [[pink]] 
+- As discussed above, Engels’s pause was a time when citizens saw rapid change, not just in the workplace but also in the communities in which they lived.
+- The computer revolution, as we shall see, has caused to the demise of many of the factory cities that industrialization once gave rise to. And as was the case with the Industrial Revolution, its social consequences for individuals, families, and their communities have been profoundly negative.
+- Since its peak in 1979, more than seven million American manufacturing jobs have disappeared. And America’s industrial towns and smokestack powerhouses, where blue-collar jobs were clustered, have felt the consequences most keenly.
+    - Tags: [[pink]] 
+- In the 1990s, the sociologist William Julius Wilson attracted enormous attention with his study of urban ghettos where work had vanished. Using large-scale surveys and ethnographic interviews, he concluded that “the consequences of high neighborhood joblessness are more devastating than those of high neighborhood poverty. A neighborhood in which people are poor but employed is different from a neighborhood in which people are poor and jobless.
+    - Tags: [[purple]] 
+- No town or city could represent all of America, but the closest we can get is probably Port Clinton, New York, on the shores of Lake Erie. In Our Kids , sociologist and political scientist Robert Putnam looks back at his Port Clinton high school class of 1959, in what was then a blue-collar middle-class town, and in almost every respect a remarkable microcosm of America.
+    - Tags: [[green]] 
+- Yet today, the American dream in Port Clinton is a split-screen nightmare. The children of the next generation are facing a very different reality. Those whose parents were symbolic analysts or the like have stayed on track, while those whose modest family fortune depended on factory jobs have founded themselves stuck on the wrong side of the tracks.
+- As Putnam points out, the causes of faltering upward mobility in America are many. But one is surely that the manufacturing foundation upon which Port Clinton’s prosperity rested has dwindled. As well-paying blue-collar jobs were trimmed, births out of wedlock rose sharply, child poverty skyrocketed, and upward mobility went into reverse.
+    - Tags: [[pink]] 
+- As work vanished, many people left in search of a better future elsewhere, leaving Port Clinton in despair: “The Port Clinton population, which had jumped 53 percent in the three decades prior to 1970, suddenly stagnated in the 1970s and 1980s, and then fell by 17 percent in the two decades after 1990.
+- The Port Clinton story is regrettably a typically American one. In the postwar years there were many places like Port Clinton, whose modest prosperity was built on the foundation of manufacturing that provided stable, thriving communities and opportunities for those starting at the bottom.
+- In Coming Apart , political scientist Charles Murray shows that ordinary middle-class Americans who could have prospered in Port Clinton in the postwar years have become increasingly detached from the rest of American society more broadly. To illustrate this, he creates a statistical construct he calls Fishtown—after the predominantly white, blue-collar community of the same name in Philadelphia, Pennsylvania—drawing upon demographic data from the Current Population Survey.
+    - Tags: [[pink]] 
+- As Murray rightly points out, “The higher-tech the economy, the more it relies on people who can improve and exploit the technology, which creates many openings for people whose main asset is their exceptional cognitive ability.”
+    - Tags: [[blue]] 
+- Those assigned to Belmont have much in common with Robert Reich’s symbolic analysts, who have been reaping the benefits of computerization. They hold at least a bachelor’s degree, work in tech jobs or skilled professions, and enjoy a secure and affluent lifestyle.
+    - Tags: [[purple]] 
+- Indeed, the economist Raj Chetty and collaborators found that the strongest predictors of upward mobility are measures of family structure. The greater the percentage of single parents in an area, the lower the chances of their children moving up.
+- Murray does not see the computer revolution as the cause of Fishtown’s misfortunes—instead, he sees joblessness as a consequence of a deteriorating work ethic and welfare dependency. Scholars still debate the relative importance of economic and cultural factors in shaping the patterns of joblessness, crime, and marriage rates, but it seems most reasonable to emphasize the importance of both.
+    - Tags: [[green]] 
+- While unemployment is often cyclical and short-lived, the decline in the wages of the unskilled due to trade and technological change has been going on for several decades and will likely have more long-lasting effects on criminal activity than short-term unemployment does.
+    - Tags: [[pink]] 
+- Other misfortunes have also afflicted the people of Fishtown, which are less obviously but nonetheless directly linked to the state of the labor market. While marriage has become less common across all spectra of society, the reason it has become so much more uncommon in Fishtown is that work has disappeared. Among the white population, the skilled have consistently seen the highest percentage of married men in America since the 1880s.
+- The economists David Autor, David Dorn, and Gordon Hanson have indeed found that the disappearance of blue-collar jobs disrupted marriage markets and reduced marriage rates. Deteriorating labor market prospects made men less marriageable.
+- When the economists Daniel Sullivan and Till von Wachter went back and traced the fates of the workers who had been displaced by the downsizings, they found that the ones who saw their jobs disappear experienced a 50–100 percent increase in short-term mortality rates after being laid off. 17 Even if the effect tailed off over time, a middle-aged man saw his life expectancy drop by one and a half years, an effect comparable to that of being forty pounds overweight at the age of forty.
+- So in 2015, when two Princeton economists, Anne Case and Angus Deaton, winner of the Nobel Prize in Economics, shockingly found that annual death rates among middle-aged whites had risen since the turn of a century after decades of improvements, they naturally suggested that the reversal might reflect the long-standing process of diminishing opportunity in the labor market for working-class whites, whose departure from the middle of society’s spectra has come with so much distress.
+    - Tags: [[pink]] 
+    - Note: This resonates as it is empirical data that compliments my personal situation
+- Rising mortality, they found, was not caused by typical killers like heart disease and diabetes but by suicide and substance abuse.
+- Reports on subjective well-being, it is true, have consistently shown that people who experience unemployment are significantly less happy, even when a wide range of factors (including income and education) are controlled for. 20 Men fare the worst mentally from unemployment, especially if it occurs in their prime years. 21 One widely cited study even found that “joblessness depressed well-being more than any other single characteristic, including important negative ones such as divorce and separation.”
+    - Tags: [[green]] 
+    - Note: Additional findings that personally resonate with my current situation
+- What is beyond question is that disappearing middle-income jobs have caused much material and emotional suffering, which has had a devastating impact on a broad swath of the middle classes
+- Though Fishtown and Belmont are statistical constructs, they speak to a well-documented rise in geographic polarization.
+- In the 1980s and 1990s, it was believed that the exact opposite would happen. With the advent of the World Wide Web, email, and cell phones, pundits proclaimed that location would soon become irrelevant and the curse of geography a distant memory
+- And in 2005, the cover of the first edition of Thomas Friedman’s best-selling The World Is Flat pictured a world in which geographic divisions were history.
+    - Tags: [[green]] 
+    - Note: It would be worth revisiting “The World Is Flat“ by Thomas Friedman
+- Information technology, these authors declared, was making face-to-face interactions unnecessary, so that the time when companies and workers had to cluster in expensive places like Manhattan or Silicon Valley would soon be over. But the truth is that even with modern computers, many complex interactions remain too subtle to be performed via technology.
+- As Harvard University’s distinguished economist Edward Glaeser pointed out at the time, digital and in-person communication are best seen as complements rather than substitutes for each other.
+    - Tags: [[pink]] 
+- Place still matters because of “agglomeration economies,” which derive from the value of proximity. Workers want to be close to jobs. Companies want to have access to talent and be close to customers.
+    - Tags: [[green]] 
+- Agglomeration, in short, comes down to the desire to reduce the costs of moving goods, people, and ideas.
+    - Tags: [[blue]] 
+- One reason why industrial cities like Detroit began to decline before the age of automation, when manufacturing employment was still expanding, is that production began to move away from the Great Lakes to right-to-work states in the Sunbelt, where union security agreements between companies and labor unions are prohibited.
+- This divide—I will call it the Great Divergence—has its origins in the 1980s when American cities started to be increasingly defined by their residents’ levels of education.… At the same time that American communities are desegregating racially, they are becoming more segregated in terms of schooling and earnings.
+- Occupational classifications, which are updated every decade, allow us to identify new jobs that did not exist a decade earlier. My work with Thor Berger, an economic historian, shows that before the computer revolution, when some emerging occupations were still routine, new jobs didn’t just emerge in skilled cities. But as a wide range of computer-related occupations—like those of computer programmers, software engineers, and database administrators—became more plentiful in the 1980s, the comparative advantage in new job creation firmly shifted toward cities initially specializing in knowledge work ( figure 15 ).
+- Ironically, it is precisely the technologies that futurists once believed would flatten the world that have made it more uneven: digital industries have overwhelmingly clustered in cities with skilled populations.
+    - Tags: [[pink]] 
+- The location decisions of technology companies, which are at the forefront of digital technology, provide the best evidence of the value of in-person communication: “The fact that Silicon Valley is now the quintessential example of industrial agglomeration suggests that the most cutting-edge technology encourages, rather than eliminates, the need for geographic proximity.”
+- But income convergence came to a halt in the 1980s, as cognitive segregation became more widespread. In a paper titled “Why Has Regional Income Convergence in the U.S. Declined?,” the Harvard University economists Peter Ganong and Daniel Shoag argue that historically, income convergence was driven by people migrating from poorer regions to wealthier ones. The steady influx of workers held down wage growth in rich places and helped incomes rise in poor regions as people left.
+- Why, then, are not firms moving to the hinterland, where labor and housing are cheap? The answer is that innovative companies want to stay close to other such companies and skilled people.
+- Giles Duranton and Diego Puga are two economists who have aptly conceptualized cities as nurseries for innovation, where firms in their early stages need to experiment to grow.
+    - Tags: [[pink]] 
+- As long as nursery cities do not churn out new jobs faster than they diffuse geographically, convergence in employment will follow. But new jobs spread only as they become standardized, and since the beginning of the computer age, jobs that have become standardized have not diffused across the country: they have either been automated away or sent abroad.
+    - Tags: [[green]] 
+- The uneven map of multipurpose robots depicted in figure 16 makes a simple point about technological progress. Automation—like most other economic trends—will not occur everywhere in the same way or at the same pace. More than half of America’s robots are in just ten states, most of which are in the eastern heartland—where male joblessness and life dissatisfaction is the highest.
+    - Tags: [[pink]] 
+- The economists Benjamin Austin, Edward Glaeser, and Lawrence Summers recently conducted a detailed study of the geography of joblessness among men in their prime. Some of the authors’ findings may not come as a surprise. One is that on average, men are more likely to go to work in places where educational attainment is high.
+- Meanwhile, in places specializing in routine manufacturing work, automation has had the opposite effect: it has replaced workers rather than creating new functions for them.
+    - Tags: [[purple]] 
+- Because jobs have come and gone so unevenly across America, the computer revolution has made the country less flat. Where new tech jobs have appeared, the local service economy has been given a boost. Moretti estimates that each new tech job creates sufficient demand to support another five jobs in a given city.
+- In the words of Glaeser, “If these patterns continue, we may come to see an ever more uneven America with rich, successful, skilled regions that compete well worldwide and poor, unskilled regions that are repositories of despair.”
+    - Tags: [[blue]] 
+- Barrington Moore’s classic Social Origins of Dictatorship and Democracy is perhaps best known for the blunt remark “no bourgeoisie, no democracy.”
+- Thus, Fukuyama’s road to liberal democracy starts from Karl Marx’s theory of social class. According to Marx, the first new social class to emerge out of the old feudal order was the bourgeoisie. This class included merchant townsmen who had grown wealthy through trade and invested heavily in the factory system and thus the Industrial Revolution.
+- The key insight is that democracy is desired most strongly by one specific social group in society: the middle class.
+- Marx predicted that the proletariat’s struggle against the bourgeoisie would prompt a socialist revolution, but in practice, industrialization meant the incorporation of working people into a broader middle class.
+- Cascading levels of inequality, Marx predicted, would eventually create a shortfall in aggregate demand and lead to the collapse of the capitalist system. Such a crisis, he argued, could be avoided only though a revolution in which the proletariat would take ownership of the means of production and redistribute the benefits of mechanization. Had Engels’s pause persisted longer, some version of this outcome might well have occurred. But mercifully it didn’t.
+- During Engels’s pause, early textile machinery replaced skilled craftsmen in production. As the domestic system gradually vanished, new jobs emerged in the factories, but the textile machines were designed to be tended by children.
+    - Tags: [[pink]] 
+- However, the arrival of more complex machines, following the more widespread adoption of steam power, broke the deskilling pattern according to which skilled craftsmen were replaced by child labor. Heavy machinery required more skilled workers of greater physical strength in the factories, and technical change turned from worker replacing to augmenting.
+- Another reason why Marx’s socialist revolution did not happen is that throughout the industrializing West, workers joined forces in trade unions and began to push for democracy, higher wages, safer working conditions, and more redistribution of wealth and income. The political branch of the labor movement de facto accepted a laissez-faire regime with respect to mechanization, but they insisted on establishing a tax-financed welfare system.
+- In Growing Public , Peter Lindert shows that between 1880 and 1930, heavily voting democracies taxed more and spent more on social transfers—such as aid to the poor, elderly, sick, and unemployed.
+- In Democracy in America , published in 1835, Alexis de Tocqueville noted that universal suffrage, which “gives the government of society to the poor,” will lead to the poor redistributing the wealth of the rich because in virtually every nation, the vast majority of citizens do not have any property.
+- As the historian Richard Oestreicher has argued, the rise of clientelism is one reason why socialism never arrived in America.
+- The Great Depression ended a period of extraordinary wage growth for ordinary people. In the period 1900–28, the yearly income of full-time manufacturing workers grew by more than 50 percent. Workers in transportation and construction also experienced similar pay rises. They were reaping the gains from growth, just like the white-collar workforce above them.
+    - Tags: [[pink]] 
+    - Note: Mention of construction workers receiving higher pay.
+- Writing in 1961, Robert Dahl famously began his landmark work on modern political science with the question, “In a political system where nearly every adult may vote but where knowledge, wealth, social position, access to officials, and other resources are unequally distributed, who actually governs?”
+    - Tags: [[pink]] 
+- as Americans had grown closer together economically, they had also grown closer politically. In the period 1900–75, the percentage of moderate Democrats and Republicans increased in the House of Representatives and the Senate, while the number of extremists fell in both parties: “In the middle of the twentieth century, the Democrats and the Republicans did dance almost cheek to cheek in a courtship of the political middle.”
+- The point is not that raising the minimum wage would be the best way of addressing workers’ concerns. Higher minimum wages also spur efforts to automate, suggesting that its benefits for labor might be short-lived.
+- The single largest industry in the mid-twentieth century was automotive, and the United Auto Workers (UAW) union achieved significant benefits for its members, including higher wages, generous pensions, and health insurance, while conceding to management decisions regarding mechanization and other key capital investments.
+- What’s more, the type of workers represented by unions has changed as well. When union density was at its peak in the 1950s and 1960s, union members were relatively unskilled. Now union members are just as skilled as nonmembers.
+- During the 2016 presidential election, Donald Trump infuriated just about every conceivable group except perhaps one: the white working class. It has been argued that the election outcome was a result of anxiety about the future status of white Americans as the dominant group rather than about the consequence of economic hardships.
+- Americans are seeing themselves, and their identity, threatened because of fading opportunity in the labor market. The working class was always more than an economic category—it was a cultural phenomenon, too.
+- The college-educated elites or symbolic analysts were perceived as untrustworthy. Blue-collar Americans believed that those people lacked integrity and would do anything to move up in the ranks.
+- Among non-college-educated citizens, the percentage of negative responses among blacks has decreased since 1994, while negative responses among whites has risen dramatically. 42 This shift in attitudes can go a long way toward explaining Trump’s appeal among white working-class voters
+- And the slogan “Make America Great Again” clearly targeted people in the smokestack cities and towns of the Second Industrial Revolution that once flourished but are now in despair.
+- But while globalization is the most frequently cited villain, automation has also helped shatter the communities of the so-called blue-collar’s aristocracy. Even if production is brought back to the United States, it will not replace the vast numbers of jobs for non-college-educated members of the middle class that have been lost to the process of deindustrialization.
+    - Tags: [[purple]] 
+- In addition, the housing boom masked the vanishing of industrial jobs for the unskilled as a growing abundance of construction jobs simultaneously pushed in the other direction.
+    - Tags: [[purple]] 
+- The problem is that while many jobs have returned, well-paying jobs have not.
+- Janesville is not an isolated example. Across the Rust Belt, middle-income jobs have not come back, and with recent advances in automation technology, it seems increasingly unlikely that they will.
+- The big hope in town is that Wilmington might become an Amazon shipping and distribution hub. The problem, O’Machearley tells us, is that they “won’t hire the same amount of people because they use a lot of robots.”
+- O’Machearley did not lose his job to automation. But he was right in thinking that robots have meant fewer and fewer available jobs for unskilled workers who suffer bad luck.
+    - Tags: [[pink]] 
+- The median yearly income has dropped from $57,748 in 2000 to $49,308 in 2015, adjusting for inflation. One reason is that Ohio is second only to Michigan in terms of the number of robots operating in its factories.
+    - Tags: [[green]] 
+- The Rust Belt, which swung the election for him, used to be part of what pundits and political analysts call the Blue Wall—that is, safe Democratic states. Not every manufacturing town there voted for Trump. But electoral districts specializing in industries that have invested heavily in automation overwhelmingly did.
+- Rodrik also offers a powerful explanation for why globalization has become the political target that automation has not. “What gives trade particular political salience,” he argues, “is that it often raises fairness concerns in ways that the other major contributor to inequality—technology—does not.”
+- When a better technology makes an old one obsolete, nobody has reason to complain: “Banning the light bulb because candle makers would lose their jobs strikes almost everyone as a silly idea.” 60 But when a firm competes by outsourcing production to countries where firms compete according to different ground rules—where labor’s bargaining rights are repressed and child labor is prevalent, undercutting the social contract and institutional arrangements of Western nations—opposition is more likely.
+    - Tags: [[green]] 
+- Though globalization and automation have hit the same people, they feel less sanguine about trade, because firms in countries like China and Vietnam violate trade rules and compete on terms that would be illegal under American laws and regulations.
+    - Tags: [[pink]] 
+- Technological progress has been a source of ceaseless churn in the labor market for more than two centuries. But, as Rodrik writes, “when we expect the redistributive effects to even out in the long run, so that everyone eventually comes out ahead, we are more likely to overlook reshufflings of income. That is a key reason why we believe that technological progress should run its course, despite its short-run destructive effects on some.
+    - Tags: [[purple]] 
+- While Engels’s pause came to an end eventually, and ordinary people were much better off in the very long run, many of those who lost their jobs to machines never saw the gains from growth.
+- As Rodrik points out, “The potential benefits of ongoing discoveries and applications in robotics, biotechnology, digital technologies, and other areas are all around us and easy to see.… Many believe that the world economy may be at the cusp of another explosion in new technologies. The trouble is that the bulk of these new technologies are labor-saving.”
+- Many citizens quite understandably do not feel sanguine about recent advances in technology either.
+- Yet 85 percent of Democrats and 86 percent of Republicans thought that automation should be limited to dangerous or unhealthy jobs. And perhaps unsurprisingly, groups in the labor market that have seen jobs ebb were more likely to favor policies to restrict automation: among the respondents with only a high school diploma or less, seven in ten said that there should be limits on the number of jobs firms can allow machines to perform, with four in ten of those with a college degree sharing that view.
+    - Tags: [[green]] 
+- History tells us that political elites may block technological progress if they fear it may cause political unrest
+- Cascading competition reduced incentives to block progress, in large part because “falling behind technologically makes countries vulnerable to foreign invasion.”
+- As noted, Lord Liverpool, who became prime minister in 1812, was convinced that any measures to relieve workers’ hardship would only impede their redeployment, to the detriment of British competitiveness.
+- Governments in the nineteenth century did not see technology as an unstoppable force. Rather, they had to use considerable force to make sure that the Luddites and other groups were unable to block mechanization.
+    - Tags: [[pink]] 
+- The past few decades have not seen any slackening of competition. Just as the Industrial Revolution was partly caused by competition in trade, the drive to computerize has in part been driven by high labor costs in the West and intensifying global competition. The ascent of Japan, Korea, and more recently China has left many American companies with the choice of either moving production offshore or automating.
+- Donald Bennett, a union leader at General Electric’s Louisville, Kentucky, factory, told the New York Times in 1984: “The automation had to be done, otherwise we would have lost the plant altogether. Some jobs have been lost for the moment, but we had to accept some changes to keep the factory here. We sure as hell didn’t want those jobs to go somewhere else.”
+    - Tags: [[blue]] 
+- America is feeling the pressure, because as every American government knows, shifts in technological supremacy come with shifts in political power.
+    - Tags: [[pink]] 
+- Yet in liberal democracies with shrinking middle classes, the internal threat of political unrest is becoming ever greater. And with populism on the march, the concerns of the unskilled have become harder to ignore. Even if governments are concerned with international competition, populists may choose to promote policies to restrict automation, the way they are now clamping down on globalization
+- Automation does not need be seen as an inexorable fact of life. Instead, it provides opportunities and challenges that governments can seek to control politically. Restraining technological innovation, for example, is not the same as restricting some of its uses. If there are strong political preferences for job conservation, policies that favor jobs at the expense of productivity might still be implemented.
+    - Tags: [[pink]] 
+- The twentieth century was an extraordinary period in human history in that it saw very little resistance to machines
+- Consequently, in Britain, the leader of the Labor Party, Jeremy Corbyn, has pledged to tax robots to slow down the pace of automation, which he thinks threatens workers’ jobs.
+    - Tags: [[green]] 
+- In America, Andrew Yang, who will make automation the key theme for his 2020 run for the White House, thinks it is hard to tax robots directly. Instead, he proposes a special value-added tax on companies that use automation.
+    - Tags: [[pink]] 
+- Looking forward, as labor markets become more shielded from the impacts of trade and the replacing effects of technology become greater, the populist target could shift in the coming years.
+- Those who think that tariffs on steel will bring American jobs back would do well to visit European steel mills. In Austria, fourteen employees are needed to produce 500,000 tons of steel wire per year. As a visitor at an Austrian plant notes, “There’s barely anybody there. At most, there are three technicians monitoring the output on flatscreens.”
+    - Tags: [[green]] 
+- Because most Americans now work in nontradable sectors of the economy, they are also increasingly shielded from the direct impacts of trade. Michael Spence, winner of the Nobel Prize in Economics, and Sandie Hlatshwayo have shown that nontradable services might have accounted for as much as 98 percent of total U.S. employment growth in the period 1990–2008.
+    - Tags: [[purple]] 
+- But as we shall see, the rise of artificial intelligence and autonomous driving means that a large percentage of nontradable jobs are now susceptible to automation.
+    - Tags: [[green]] 
+- As Obama noted when leaving office, “The next wave of economic dislocations won’t come from overseas. It will come from the relentless pace of automation that makes a lot of good, middle-class jobs obsolete.”
+    - Tags: [[blue]] 
+- Recently, automation has cut out the jobs that were created by the spread of office and factory machines over the course of the twentieth century. The restructuring of the American economy has not worked in favor of the middle class.
+- In 2011, the Heritage Foundation published a provocative report entitled, “Air Conditioning, Cable TV, and an Xbox: What Is Poverty in the United States Today?” The authors rightly noted that the material standards of poor Americans have greatly improved over the past century. Innovative products that once were luxuries had become common in all households: “In 2005, the typical household defined as poor by the government had a car and air conditioning. For entertainment, the household had two color televisions, cable or satellite TV, a DVD player, and a VCR.
+- Perhaps, aside from humans, computers and software are the ultimate general purpose technology. They are a technology that has the potential for penetrating and fundamentally changing virtually every corner of economic life. At current rates of improvement, computers are approaching the complexity and computational capacity of the human brain. Perhaps computers will prove to be the ultimate outsourcer.
+- The Danish physicist Niels Bohr supposedly once quipped that “God gave the easy problems to the physicists.” Since the scientific revolution, the steady accumulation of scientific knowledge has given the physical sciences much improved means of predicting outcomes.
+- In economics, the opposite is true. While the laws of physics apply across time and space, in economics and other social sciences, boundary conditions are not timeless.
+    - Tags: [[pink]] 
+- routine jobs were eliminated in large numbers beginning in the 1980s. But already in the 1960s, the Bureau of Labor Statistics made the following observation: “Mechanization may indeed have created many dull and routine jobs; automation, however, is not an extension but a reversal of this trend: it promises to cut out just that kind of job and to create others of higher skill.”
+    - Tags: [[green]] 
+- There is no economic law that postulates that the next three decades must mirror the last three. Much depends on what happens in technology and how people adjust. It is possible that we are on the cusp of a series of enabling technological breakthroughs that will create an abundance of new jobs for middle-class people.
+    - Tags: [[purple]] 
+- Recent breakthroughs in artificial intelligence (AI) mean that for the first time in history, machines are now able to learn. To better understand the next wave of automation, let’s begin by looking at exactly what computers can do in the age of AI.
+    - Tags: [[green]] 
+- A perfect storm of advances, including larger databases, Moore’s Law, and clever algorithms, has paved the way for much of the recent progress in artificial intelligence (AI).
+    - Tags: [[purple]] 
+- By discovering ways of automating things that we struggle to articulate or explain, like how to drive a car or to translate a news story, AI allows us to unravel Polanyi’s paradox, at least in part
+- As the mathematician Claude Shannon demonstrated in 1950, in his seminal paper on how to program a machine to play chess, a lower-bound estimate of the number of possible moves in chess is greater than the number of atoms in the observable universe, and the number of possible moves in Go is more than twice that number.
+- Indeed, even if every atom in the universe was its own universe and had inside it the number of atoms in our universe, there would still be fewer atoms than the number of possible legal moves in Go.
+    - Tags: [[pink]] 
+- humans still held the comparative advantage in pattern recognition when Frank Levy and Richard Murnane published their brilliant book The New Division of Labor in 2004.
+- AlphaGo’s evaluation engine was not explicitly programmed. Instead of following prespecified rules of the programmer, the machine was able to mimic tacit human knowledge, circumventing Polanyi’s paradox.
+    - Tags: [[purple]] 
+- The event marks what Erik Brynjolfsson and Andrew McAfee have called the “second half of the chessboard.”
+    - Tags: [[blue]] 
+    - Note: Erik Brynjolfsson and Andrew McAfee
+- According to Cisco, worldwide internet traffic will increase nearly threefold over the next five years, reaching 3.3 zettabytes per year by 2021. 8 To put this number in perspective, researchers at the University of California, Berkeley estimate that the information contained in all books worldwide is around 480 terabytes, while a text transcript of all the words ever spoken by humans would amount to some five exabytes.
+- Every United Nations report, which is always translated by humans into six languages, gives machine translators more examples to learn from. 10 And as the supply of data expands, computers do better.
+- Like steam, electricity, and computers, AI is a general purpose technology (GPT), which has a wide range of applications.
+    - Note: It is important to note that general purpose technology, GPT, is not the same as OpenAI’s GPT, Generative Pre-training Transformer!
+- In a major study, my Oxford engineering colleagues Bonolo Mathibela, Paul Newman, and Ingmar Posner concluded: “A vehicle can therefore prepare for the possibility of encountering humans on the road, or areas where [the vehicle] may not be stationary—thus gaining a dynamic sense of situational awareness, like a human.”
+    - Tags: [[blue]] 
+- And the number of casualties are many: just in 2013, 1.25 million people died in car accidents globally and 32,000 in the United States alone. 30 Thus, autonomous cars do not need to be perfect to be justifiable. Human drivers are certainly not.
+- Progress is likely to be more rapid outside of cities, however, where there are fewer complicating elements.
+- As we have seen in the preceding chapters, replacing technologies are likely to be resisted if workers face poor alternative options—an issue to which we shall return.
+- As AI skeptics like Robert Gordon have pointed out, even if “the car drives up in front of my house, how does the package get from the Amazon car to my front porch? Who carries it up when I’m away from home?”
+    - Tags: [[pink]] 
+- Production became automatable only because previously unstructured tasks were subdivided and simplified in the factory setting. The factory assembly line turned the nonroutine tasks of the artisan shop into repetitive tasks that were automatable once robots arrived.
+    - Tags: [[purple]] 
+- In similar fashion, we did not automate the jobs of laundresses by inventing multipurpose robots capable of chopping down trees; carrying water, wood, or coal from the outside to the stove; and performing the motions that washing clothes by hand entails. And we did not automate the jobs of lamplighters by inventing robots capable of climbing lampposts.
+    - Tags: [[pink]] 
+- A contemporary example of task simplification is prefabrication: 34 “On-site construction tasks typically demand a high degree of adaptability, so as to accommodate work environments that are typically irregularly laid out, and vary according to weather. Prefabrication, in which the construction object is partially assembled in a factory before being transported to the construction site, provides a way of largely removing the requirement for adaptability. It allows many construction tasks to be performed by robots under controlled conditions that eliminate task variability—a method that is becoming increasingly widespread, particularly in Japan.”
+    - Tags: [[purple]] 
+    - Note: This passage could be the entire foundational underpinning of my thesis
+- Not just in construction but also in retailing, clever task redesign has yielded promising results.
+- In London, for example, a company called Skyports is already acquiring rooftop spaces that it plans to convert into vertiports, where drones can take off and land.
+- One example is Amazon Go, an archetypical example of a replacing technology. Today, some 3.5 million Americans work as cashiers across the country. But if you go to an Amazon Go store, you will not see a single cashier or even a self-service checkout stand. Customers walk in, scan their phones, and walk out with what they need. To achieve this, Amazon is leveraging recent advances in computer vision, deep learning, and sensors that track customers, the items they reach for, and take with them
+- plans to launch another three thousand by 2021.
+    - Note: This goal was never reached due to inaccuracy of the technology.
+- AI has made many recent breakthroughs possible. At the OpenAI lab in San Francisco, California, set up by Elon Musk
+    - Note: Not an accurate description of the filming of open AI and Elon Musk’s involvement within the company.
+- Autolab, a robotics lab inside the University of California, Berkeley
+- To most observers, for example, the first telephones seemed ridiculous. Getting used to hearing a disembodied voice through an earpiece was an experience entirely different from any previous form of communication. An early article in Scientific American argued that it was a silly invention, for which people would find little use: “The dignity of talking consists of having a listener, and it seems absurd to be addressing a piece of iron.”
+- More and more jobs lend themselves to automation. But anecdotes alone cannot tell us much about the extent to which jobs will be replaced in the future, or the types of job that will be affected.
+- So in a 2013 paper titled “The Future of Employment: How Susceptible Are Jobs to Computerisation?,” my Oxford University colleague Michael Osborne and I set out to identify the near-term engineering bottlenecks to automation as a way of estimating the exposure of current jobs to recent advances in AI.
+    - Note: I have referenced this paper, and this is also the impetus for this book
+- But if there was a Nobel Prize for predicting the future of work, it should have gone to Herbert Simon for his essay titled “The Corporation: Will It Be Managed by Machines?,” first published in 1960.
+- In the spirit of Simon, we set out to determine in which domains humans still retain the comparative advantage. Rather than asking unanswerable questions about the prospects of superintelligence or trying to predict the great inventions of the future, we looked at technologies on the horizon.
+    - Tags: [[pink]] 
+- every technological revolution began with imperfect technology.
+    - Tags: [[green]] 
+    - Note: This turn of phrase would be a good way to describe the current state of automation in offsite construction.
+- In a paper written in 2013, Michael and I noted: “Sophisticated algorithms have so far failed to convince judges about their human resemblance.”
+- So instead of examining each individual task, we took a sample of seventy occupations that a group of AI experts deemed either automatable or nonautomatable on the basis of the tasks the occupations entail.
+- Based on these features, our algorithm was able to learn about the characteristics of automatable occupations, allowing it to predict the exposure to automation of another 632 occupations. Thus, our final sample covered 702 occupations, in which 97 percent of the American workforce is employed.
+- What most of these jobs have in common is that they are low-income jobs that do not require high levels of education
+- The OECD mistakenly argues that we overestimated the scope of automation by focusing on occupations rather than tasks. What they miss is that we inferred the automatability of occupations on the basis of the tasks they entail.
+    - Tags: [[green]] 
+- However, for all their differences, these studies concur that unskilled jobs are most exposed to automation.
+- What this shows is that the labor market prospects of the unskilled will likely continue to deteriorate, unless other forces counteract that trend.
+    - Tags: [[pink]] 
+- For example, when Dana Remus and Frank Levy recently analyzed lawyers’ billing records, they found that if AI and several related applications were all adopted immediately—which seems highly unlikely—this would substitute for roughly 13 percent of their time.
+- In the best-selling Rise of the Robots , Martin Ford declared that “employment for many skilled professionals—including lawyers, journalists, scientists, and pharmacists—is already being significantly eroded by advancing information technology [so that] acquiring more education and skills will not necessarily offer effective protection against job automation in the future.”
+    - Tags: [[blue]] 
+- Thus, inflated expectations have typically been followed by disillusionment. As Roy Amara famously observed, “We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.”
+    - Tags: [[blue]] 
+    - Note: Roy Charles Amara (7 April 1925 – 31 December 2007) was an American researcher, scientist, futurist and president of the Institute for the Future best known for coining Amara's law on the effect of technology. He held a BS in Management, an MS in the Arts and Sciences, and a PhD in Systems Engineering, and also worked at the Stanford Research Institute.
+- Indeed, Amara’s Law has been a good guide to the trajectories of technological progress in the past.
+- In 1870, around 46 percent of the American workforce was still employed in agriculture, while today the agriculture sector absorbs about 1 percent of the labor force ( table 1 ). 61 Tractors played a key role in reducing labor requirements on the farms (see chapters 6 and 8 ). But while one might have inferred that many farm jobs were at risk of replacement when the gasoline-powered tractor arrived, the speed of adoption would have been much harder to predict.
+    - Tags: [[pink]] 
+- Early on, farmers typically waited to purchase tractors, wanting to see how long it took for laborers on other farms to acquire the mechanical skill required. As an article in the New York Times reported in 1918, “A tractor is a too good machine to put in the hands of a poor operator.… Where to get first-class tractor operators is often more of a puzzle to the buyer than how to get the machine.”
+    - Tags: [[green]] 
+- In the same year, the New York State College of Agriculture announced a three-week course for tractor and truck operators, to bridge the skills gap and accelerate adoption. Second, the adoption of tractors—like other GPTs—moved at different speeds across applications: “The earliest models were suitable only for tillage and harvesting small grains, and only in the late 1920s did the technology begin to generalize for use with row crops such as corn, cotton, and vegetables.”
+    - Tags: [[purple]] 
+- Third, even as tractors became more pervasive, the abundance of cheap labor in the countryside meant that the mechanization of farming did not make economic sense for a long time.
+    - Tags: [[blue]] 
+    - Note: This is a significant point related to my fieldwork. As with both factories I visited the companies felt it was easier to hire labor than it was to automate parts of their process.
+- They were mainly used on large farms that relied on wage labor. Many low-income farmers were highly risk averse and preferred to continue to rely on horses rather than investing in expensive tractors—even though this meant that they had to set aside acreage to grow feed.
+- As risk-adverse farmers were reluctant to adopt expensive tractors, businesses deemed the cost of computers too high to bear. And they were right in thinking so.
+- As the director of engineering at AT&T explained, “If you make 30 million boxes of Wheaties a year, you can use automation without many problems, but if you’re in a competitive market where the product is changing and its life cycle is short, you better be damned careful.”
+    - Tags: [[blue]] 
+    - Note: This is a good quote on the adoption of automation in manufacturing.
+- In the early days of automation, the training and retraining of employees often took longer than expected, and many companies did not fully appreciate the obstacles involved in getting machines, computers, and sophisticated software to work together effectively.
+- In a number of studies, the economists Erik Brynjolfsson, Timothy Bresnahan, and Lorin Hitt consistently found that investments in computer technology contributed to firm productivity mainly when complementary organizational changes were made.
+    - Tags: [[purple]] 
+    - Note: Economists Erik Brynjolfsson, Timothy Bresnahan, and Lorin Hitt
+- Just like the switch from group drive to unit drive in the age of mass production, computerization and reorganization were gradual processes that required rethinking how the firm worked.
+- Studying the evolution of factory electrification, Oxford University’s Paul David noted that it took roughly four decades for electricity to appear in the productivity statistics, after the construction of Thomas Edison’s first power station in 1882.
+    - Tags: [[pink]] 
+- And he was right on target: the similarities between the 1920s and 1990s are tantalizing. Both decades saw productivity blossom and an explosion in the application of GPTs (electricity in the 1920s and computers in the 1990s).
+    - Tags: [[pink]] 
+- About 70 percent of the productivity acceleration in the years 1996–99, relative to that in the period 1991–95, has been attributed to computer technologies.
+- Multipurpose robots, as noted above, are already being adopted, but though their contributions to productivity growth have been significant, their use is still largely confined to heavy industry.
+- Technology improves productivity only after long delays, and it primarily incurs costs in the early stages of development. And after a new discovery is made, it often takes years until prototypes become economically viable in production. Thus, the contribution of new technologies to aggregate economic variables has always been delayed: “The case of self-driving cars discussed earlier provides a more prospective example of how productivity might lag technology. Consider what happens to the current pools of vehicle production and vehicle operation workers when autonomous vehicles are introduced. Employment on production side will initially increase to handle R&D, AI development, and new vehicle engineering.”
+- Beyond the technology, they must also consider increased overheads, the availability of sufficiently large markets, the cost of scrapping existing machines, the cost of financing new ones, and (as Harry Jerome pointed out) “the possible opposition of [their] workers, and sometimes adverse public opinion and even restrictive legislation.”
+    - Tags: [[pink]] 
+- In my experience, the problem is not lack of resources, but is lack of skills.
+- If there is no existing expertise internally, it is hard to make intelligent choices about what skills are needed and how to find and hire people with those skills. Hiring good people has always been a critical issue for competitive advantage.
+    - Tags: [[blue]] 
+    - Note: While this quote is related to data analysis, it holds true with modular offsite construction as well, because it is the need to recognize an identify the required skills for a sector.
+- which is why we can expect to see heterogeneity in productivity as this new skill percolates through the labor markets.
+- Erik Brynjolfsson, who was among those investigating the role of computer technologies in the productivity boom of the late 1990s, thinks that the trajectory of AI adoption is likely to mirror the past in this regard. In a joint paper with Daniel Rock and Chad Syverson, two economists, he argues that as happened with computers back in the 1990s, the adoption of AI will require not only improvements in the technology itself, but significant complementary investment and plenty of experimentation to exploit its full potential.
+    - Tags: [[pink]] 
+- During this phase, history tells us, the economy goes through an adjustment process with slow productivity growth.
+- Complementary skills had to be developed to perfect the technology.
+    - Tags: [[purple]] 
+- As he declared in his famous 1798 essay, “The moment we leave past experience as the foundation of our conjectures concerning the future, and, still more, if our conjectures absolutely contradict past experience, we are thrown upon a wide field of uncertainty, and any one supposition is then just as good as another.… Persons almost entirely unacquainted with the powers of a machine cannot be expected to guess at its effects.”
+    - Tags: [[blue]] 
+    - Note: Thomas Robert Malthus FRS (13/14 February 1766 – 29 December 1834) was an English economist, cleric, and scholar influential in the fields of political economy and demography.
+- When Malthus wrote his essay, of course, the world barely knew of Schumpeterian growth. We now also know from past experience that what is going on in the labs is a better guide to the future of productivity at times of accelerating innovation.
+- For most of history, as noted, worker-replacing technologies have been fiercely resisted by angry workmen, leading governments to implement policies to restrict their use due to the fear of social upheaval (see chapter 3 ).
+- As Harvard University’s Rebecca Henderson warned at a recent National Bureau of Economic Research conference, “There is a real risk of a public backlash against AI that could dramatically reduce its diffusion rate.… Productivity seems likely to sky rocket, while with luck tens of thousands of people will no longer perish in car crashes every year. But ‘driving’ is one of the largest occupations there is. What will happen when millions of people begin to be laid off? … I’m worried about the transition problem at the societal level quite as much as I’m worried about it at the organizational level.”
+    - Tags: [[pink]] 
+- Those societal consequences are already being felt. The return of Engels’s pause, as discussed above, has fueled the populist backlash, and attitudes toward automation itself are seemingly shifting (see chapter 11 ). The pervasiveness of AI and citizens’ reactions to displacement will jointly determine future productivity growth.
+- If Amara’s Law ceases to hold, it will likely be due to the return of Luddite sentiment.
+- Neither of these beliefs is new. And over the long run, both have so far been proven wrong, or at least vastly exaggerated.
+- In the 1930 “Economic Possibilities for Our Grandchildren,” John Maynard Keynes famously declared that mechanization was progressing at a rate greater than at any other time in history. Our discovery of ways to replace people with machines, he suggested, was outrunning the pace at which new uses for labor could be found—which he held would lead to widespread technological unemployment.
+    - Tags: [[pink]] 
+- True, in 1900, a typical workweek in manufacturing was around fifty-nine hours. Yet in 1900, manufacturing still accounted for only about a fifth of total employment, and industrial laborers worked much longer hours than those in other sectors of the economy.
+- Their findings allow us to shed some light on Keynes’s predictions, whereby he suggested that productivity would increase by four to eight times over the next century. Despite the unforeseeable event of World War II, his productivity forecast was quite accurate: labor productivity is now almost nine times higher than it was in 1900, yet the time citizens decided to take as leisure had increased by a mere 10 percent by 2000 ( figure 19 ).
+- The economist Robert Heilbroner observed thirty-six years later, in the midst of the 1960s automation debates: One can maintain that the labor-displacing effects have run ahead of the job-creating effects within the two historically most important areas of work—the farm and the factory.… In mining, we see the same absolute shrinkage as in agriculture, in spite of a huge rise in output (as in agriculture). Eight hundred thousand men entered the earth or worked at the mine surface in 1900; only 600,000 in 1965.… Thus it seems beyond dispute that the labor-displacing effect of investment can outpace the job-creating effect, and in fact has done so in many key sectors of the economy.
+- Heilbroner was, of course, well aware that while workers had been replaced from agriculture and mining, they had not become detached from the labor market altogether. On the contrary, the percentage of the population engaged in paid employment had risen as more and more women entered the workforce.
+    - Tags: [[pink]] 
+- As labor-saving technology has given us the means to do more with less, most of us have preferred to take on other productive tasks instead of opting for more leisure.
+- I am afraid there is still an upper limit on employment due, very simply, to the prospect of a ceiling on the total demand that can be generated for marketable goods and services.
+- Whether there is a saturation point or not is controversial, but if our “basic needs” have all been met, higher incomes should no longer translate into higher subjective well-being. To that end, the economists Betsey Stevenson and Justin Wolfers examined whether there’s a critical income level beyond which the well-being–income relationship diminishes.
+    - Tags: [[pink]] 
+- It is tempting to conclude that Simon was right and nothing much has changed since. The dystopian belief that automation must lead to unemployment, and the utopian view that it will bring about a life of leisure, have both seemingly been wrong so far
+    - Tags: [[pink]] 
+- The extract above is from a Bureau of Labor Statistics report that was first published in 1956. I could have used those same words today. After a century of staggering advances in mechanization and soaring productivity, it is quite remarkable how little time Americans take in leisure.
+- Data from the American Time Use Surveys also show that college-educated Americans now work about two hours more per day than people who did not go to college.
+- As we saw in chapter 9 , as automation has progressed, opportunity for the unskilled has regressed.
+    - Tags: [[pink]] 
+- One reason why there are still so many jobs is that computers did create new tasks for labor (see chapter 9 ). But those tasks were primarily created for the highly skilled. This stands in contrast to the period of the Second Industrial Revolution, when technological change spun off new tasks for semiskilled workers, leaving the middle class with more and increasingly well-paying jobs (see chapter 8 ).
+- Yet we should put some faith in the observations of Frederic Bastiat. In his brilliant 1850 essay, “That Which Is Seen, and That Which Is Not Seen,” he wrote: “In the department of economy, an act, a habit, an institution, a law, gives birth not only to an effect, but to a series of effects. Of these effects, the first only is immediate; it manifests itself simultaneously with its cause—it is seen. The others unfold in succession—they are not seen: it is well for us, if they are foreseen.”
+    - Tags: [[pink]] 
+- Few jobs that exist in America today existed in 1750, at the onset of the Industrial Revolution. And many of today’s jobs did not exist in official occupational classifications even in the 1970s, including those of robot engineers, database administrators, and computer support specialists. Almost half of employment growth between 1980 and the Great Recession happened in new types of work.
+    - Tags: [[purple]] 
+- Thus, the next wave of automation is likely to have effects similar to those of earlier computer technologies, but it is likely to affect more people. Those who would have taken on jobs in the factories in the postwar era have already seen their job options diminish since the computer revolution. And with retail, construction, transport, and logistics becoming more exposed to automation, too, the options of those people will likely deteriorate even further.
+    - Tags: [[purple]] 
+- In their best-selling book The Second Machine Age , Erik Brynjolfsson and Andrew McAfee make a similar observation: “Technological progress is going to leave behind some people, perhaps even a lot of people, as it races ahead.… There’s never been a better time to be a worker with special skills or the right education, because these people can use technology to create and capture value. However, there’s never been a worse time to be a worker with only ‘ordinary’ skills and abilities to offer, because computers, robots, and other digital technologies are acquiring these skills and abilities at an extraordinary rate.”
+    - Tags: [[green]] 
+- It is true, as the economist Austan Goolsbee has pointed out, that if all 3.5 million truck, bus, and taxi drivers lose their jobs to autonomous vehicles over a fifteen-year period, that would amount to just over nineteen thousand per month: in 2017, 5.1 million Americans were separated from their jobs on a monthly basis, while 5.3 million jobs were generated on average. In this scenario, autonomous vehicles would increase the separation rate by less than four-tenths of a percent.
+    - Tags: [[pink]] 
+- People might willingly accept automation if it reduces their incomes temporarily. But if their earnings seem unlikely to recover for years or even decades, they are more likely to resist it.
+- We saw in chapter 3 that the Luddites and other groups vehemently opposed the spread of machines that threatened their livelihoods. In addition to rioting, they petitioned Parliament, appealing to the government to restrict the introduction of worker-replacing technologies—but their case was hopeless because they lacked political influence. Today, working people do not just have higher expectations for what governments must provide. They also have political rights.
+    - Tags: [[pink]] 
+- Robert Gordon has recently put forward an equally bleak outlook on the future of growth in The Rise and Fall of American Growth . 3 He argues that contemporary breakthroughs in artificial intelligence (AI), mobile robotics, drones, and other by-products of the computer revolution cannot match the great inventions of the early twentieth century.
+- Before the dawn of automation, more than half of working American adults were employed in blue-collar and clerical jobs, which supported middle-class living for citizens with no more than a high school degree. Over the past thirty years, the number of these jobs has steadily declined, causing many of those who did not go to college to seek employment in low-income service jobs (see chapter 9 ).
+- AI now threatens also to replace humans in many of those jobs, which used to be a safe haven for the unskilled—worsening their employment prospects even further. In this light, the concern is not that productivity growth will fail to pick up. The more serious challenge, it seems to me, exists not in technology itself but in the area of political economy.
+    - Tags: [[pink]] 
+- But in the age of automation, it has become harder for governments to deliver on that promise, as growth in middle-class wages has fallen behind that in productivity. The populist backlash, in large part, reflects the failure of governments to make the gains from growth more widely shared.
+- As Francis Fukuyama puts it, “The future of democracy in developed countries will depend on their ability to deal with the problem of a disappearing middle class.”
+    - Tags: [[pink]] 
+- If history is any guide to workers’ reactions to the next wave of automation, it is telling that the Industrial Revolution was a time when many citizens fell between the cracks of transition and consequently, technological change was vehemently resisted (see chapter 5 ).
+    - Tags: [[pink]] 
+- In his 1797 book on poverty, Sir Frederick Eden rightly pointed out that machines “promote the general wealth,” but he added that they “throw many industrious individuals out of work; and thus create distresses that are sometimes exceedingly calamitous.” He declared that poor relief must be used so that the machines’ “inconvenience to individuals will be softened and mitigated, indeed, as far as it is practical.” He contended that failing to adequately do so would lead to stagnation, as people would then oppose machines the way they had in the preindustrial era.
+- As noted, one important reason why the socialist revolution that Karl Marx prophesied did not happen is that technology began to work in workers’ interests, and consequently laborers quite rightly came to regard it as the engine of their good fortune.
+    - Tags: [[purple]] 
+    - Note: This could potentially reinforce or contradict that of Braverman
+- Indeed, wages grew faster between 1995 and 2000, when computers prompted a brief productivity boom, than in the preceding and succeeding years.
+- National unemployment in America today stands at 4 percent. Work is seemingly not about to come to an end, despite the rise of the robots. Instead, automation has manifested itself in falling wages for large swaths of the population, leading some to drop out of the workforce
+- In Men without Work , Nicholas Eberstadt estimates that if the current trend continues, 24 percent of men ages 25–45 will be out of work by 2050. Joblessness is especially prevalent among men without a college degree, who lack the skills to compete in the ever-higher-tech economy.
+- Looking at the automatability of existing jobs, we have seen that most occupations that require a college degree remain hard to automate, while many unskilled jobs—like those of cashiers, food preparers, call center agents, and truck drivers—seem set to vanish, though how soon is highly uncertain.
+- But there are also unskilled jobs that remain outside the realms of AI. Many in-person service jobs—like those of fitness trainers, hairstylists, concierges, and massage therapists—that center on complex social interactions remain safe from automation.
+    - Tags: [[pink]] 
+- At the advent of the Industrial Revolution, nobody could have foretold that many Englishmen would become telegraphers, locomotive engineers, and railroad repairmen. Today, futurologists are just as ill equipped to predict the jobs that AI will create.
+    - Tags: [[pink]] 
+- In a world that is becoming increasingly technologically sophisticated, rising returns on skills are unlikely to disappear and likely to intensify. Like computers, AI seems set to spawn more skilled jobs for labor, in the process creating more demand for in-person service jobs that remain hard to automate.
+- In this light, the appeal of populism is not hard to understand. It gives voice to the anger of those who have been excluded from the engines of growth and trapped in places of despair.
+- But above all, we should bear in mind that “the conceptual changes in political economy over the period are also very closely connected to class struggle [which was evident] in the very seriousness attached by political economists to the 1826 anti-machinery riots in Lancashire and to the 1830 agricultural riots.” 16
+- Engels’s pause eventually came to an end, as enabling technologies came to the rescue and workers acquired new skills.
+    - Tags: [[green]] 
+    - Note: Engel’s Pause refers to a period during the Industrial Revolution (approximately 1760–1860) when productivity and economic growth increased significantly, but real wages for workers stagnated or grew very slowly. This phenomenon is named after the 19th-century German statistician Ernst Engel, who studied patterns of income and consumption.
+- Context and Explanation: During the early stages of the Industrial Revolution, technological advancements and capital investment led to significant increases in output and national income. However, these gains were not evenly distributed. The primary reasons for stagnant wages included: 1. Capital Investment Prioritization: Most of the economic surplus was reinvested into machinery, infrastructure, and industrial expansion rather than distributed as higher wages. 2. Population Growth: Following Malthusian dynamics, population growth expanded the labor force, which kept wages low due to an abundance of available workers. 3. Urbanization and Displacement: Rural-to-urban migration increased as agricultural workers sought industrial employment, leading to surplus labor and downward pressure on wages. 4. Weak Labor Bargaining Power: Early industrial workers had limited political and bargaining power, as unions and labor protections were either weak or actively suppressed. 5. Delayed Benefits of Productivity Growth: It took several decades before the economic benefits of industrialization translated into widespread wage growth. Real wages began to rise significantly only in the mid-19th century, as labor markets tightened and workers gained more bargaining power. Historical Significance: Engel’s Pause is crucial for understanding the socio-economic dynamics of industrialization. It highlights the lag between productivity growth and improvements in living standards, demonstrating that economic progress does not immediately benefit all social classes. The eventual rise in real wages and living conditions came through a combination of market forces, labor organization, and political reforms. This concept is often used in modern economic history to analyze similar growth patterns in developing economies undergoing rapid industrialization.
+- As productivity growth makes the pie larger, everyone could in principle be made better off. The challenge lies in the sphere of politics, not in that of technology. Given the enormous potential for AI to make us richer on the one hand, and the specter of disruptions to labor on the other hand, governments must carefully manage the short run, which was a lifetime for many during the classic years of industrialization.
+    - Tags: [[pink]] 
+- As the former secretary of the treasury Lawrence Summers puts it, “Little is certain. But we will do better going forward than backward [which] means embracing rather than rejecting technological progress.… This will be a major debate that I suspect will define a large part of the politics of the industrial world over the next decade.”
+    - Tags: [[blue]] 
+- Addressing the social costs of automation will require major reforms in education, providing relocation vouchers to help people move, reducing barriers to switching jobs, getting rid of zoning restrictions that spur social and economic divisions, boosting the incomes of low-income households through tax credits, providing wage insurance for people who lose their jobs to machines, and investing more in early childhood education to mitigate the adverse consequences for the next generation.
+- If people race alongside the machine, they are less likely to rage against it. And historically, education has been the way workers have adjusted to accelerating technological change.
+- The seminal 2008 book by the economists Claudia Goldin and Lawrence Katz, The Race between Education and Technology , shows that the solid performance of the U.S. economy and the expansion of education over the first three-quarters of the twentieth century were not coincidental.
+    - Note: Goldin, C. and Katz, L.F. (2009) The race between education and technology. London, England: Belknap Press.
+- Economic growth in the more modern period requires educated workers, managers, entrepreneurs, and citizens. Modern technologies must be invented, innovated, put in place, and maintained. They must have capable workers at the helm. Rapid technological advance, measured in various ways, has characterized the twentieth century. Because the American people were the most educated in the world, they were in the best position to invent, be entrepreneurial, and produce goods and services using advanced technologies.”
+    - Tags: [[pink]] 
+- Unskilled work is not coming to an end, but as noted, low-skilled jobs are more exposed to future automation, while occupations that require a college degree remain relatively safe.
+- The economist Jeffrey Sachs and colleagues have indeed argued that AI threatens not just to reduce the jobs, wages, and savings of the current generation, but also to impoverish future generations as a consequence.
+    - Tags: [[purple]] 
+- As Robert Dahl noted, “If you are deprived of an equal voice in the government, the chances are quite high that your interests will not be given the same attention as the interests of those who do have a voice. If you have no voice, who will speak up for you?”
+- Indeed, the political disenfranchisement of the unskilled, whose interests are no longer represented by mainstream politics, has made the discontents caused by automation harder to address (see chapter 11 ).
+    - Tags: [[pink]] 
+- How can we help those already in the labor market whose jobs are threatened by AI? Training people out of unemployment is a popular idea and a common response to rapid technological change.
+    - Tags: [[purple]] 
+    - Note: This section is important to my thesis
+- In his 1962 State of the Union address to Congress, President John F. Kennedy urged Congress to enact “the Manpower Training and Development Act [MDTA], to stop the waste of able-bodied men and women who want to work, but whose only skill has been replaced by a machine, or moved with a mill, or shut down with a mine.”
+    - Tags: [[blue]] 
+- The MDTA, which was signed into law on March 15, 1962, was the first federal manpower program, designed to train and retrain thousands of workers left behind by automation, though it was soon expanded to train people more broadly. In the period 1963–71, almost two million Americans enrolled in the program.
+    - Tags: [[green]] 
+- Many of these are difficult to evaluate, because forgone earnings during training are hard to account for; data on costs for most training programs are sparse; and for the most part, studies trace outcomes only over a few years, meaning that we cannot know to what extent any effects on earnings fade out over time.
+    - Tags: [[pink]] 
+- While the policy conclusion is not that we should dismiss the idea of retraining people later in life, it would be unwise to put too much faith in large-scale training efforts without proof of concept. We must pursue a strategy of trial and error and learn from practical experience what works where.
+- exist in Maine and Washington, provide tax incentives for people to invest in their own training and target low-income earners.
+- As Harvard University’s Clayton Christensen has forcefully argued, there is no particular reason why people with different learning requirements should have to conform to rigid academic programs that run for a specified period of time.
+    - Tags: [[purple]] 
+- But if people have to consistently update their skills later in life, more flexible approaches to education will be needed. The learning process could be broken down so that instead of completing a standardized academic program, students could choose from a menu of skills and competencies they wish to acquire
+- Massive Open Online Courses (MOOCs), for example, can now be used to provide modularized education for people wanting to update their skills. And people can complete courses at their own pace.
+    - Tags: [[pink]] 
+- At the very least, it should be expanded to cover other sources of dislocation, like automation, which can lead to a permanent drop in people’s income. In the words of the economist Robert LaLonde, “Whereas private markets offer insurance for storms and fire, no such insurance is available when a middle-aged worker loses a job and suffers a permanent drop in wages. There is a market failure here, and government should correct it.”
+- In the popular press, universal basic income (UBI) has become a widely discussed way of limiting individual losses resulting from automation and deindustrialization
+- In essence, UBI—which is closely tied to Milton Friedman’s old idea of a negative income tax—would give people a minimum income regardless of whether they worked or not. They could then earn additional income if they decided to work. The way it was originally conceived, UBI would replace other existing welfare programs.
+- UBI, in other words, would require a significant shift in attitudes and politics, which is highly unlikely given the sharpening economic and political divide in the past few decades.
+- change in attitude might come if people are faced with a serious threat of AI-driven mass unemployment. But for the time being, there is little to suggest that widespread joblessness is imminent.
+- What’s more, as the historical record makes abundantly clear, fears that work will disappear have always turned out to be false alarm. If we think that this time is different, we should at least be able to explain why. Yet when we look at previous episodes of automation anxiety, like those of the 1830s, 1930s, 1960s, and 2010s, it is striking how much technology has advanced, but how little the debate has progressed
+- I struggled to find a single argument for why this time should be different that had not been made in earlier debates about automation.
+    - Tags: [[pink]] 
+- Contrary to the anthropologist David Graeber’s witty essay on “bullshit jobs,” in which he claims that most people spend their working lives doing work they perceive to be meaningless, large-scale survey evidence shows the exact opposite
+    - Tags: [[pink]] 
+- As Ian Goldin puts it, “Individuals gain not only income, but meaning, status, skills, networks and friendships through work. Delinking income and work, while rewarding people for staying at home, is what lies behind social decay.”
+- In a recent op-ed in the Washington Post , for example, the economist Glenn Hubbard, who served as chairman of the Council of Economic Advisers in the George W. Bush administration, pointed out that “the economic-growth-lifts-all-boats camp needs to confront the question of what happens when growth alone fails to generate inclusion.”
+- He also argued for expanding the eligibility for the Earned Income Tax Credit (EITC). The EITC is a negative income tax that is available only to working low-income individuals and already has a good track record. Scholars have found that those receiving it have seen dramatic increases in take-home income.
+- A different set of policies is needed to make it easier to move between jobs. Regulatory barriers to job switching are bad for productivity, wages, and equality. Of
+- Across America, the share of workers requiring a license to perform their jobs legally expanded from 10 percent in 1970 to almost 30 percent in 2008.
+- Because obtaining a license often requires considerable investments in human capital and licensing fees, Americans who lose their jobs to machines are less likely to switch into licensed occupations, and workers in those jobs are less likely to switch out. Licensing requirements also often vary considerably across states—and even more so across countries—meaning that those in licensed jobs frequently have to make additional investments in obtaining a license when they move.
+    - Tags: [[pink]] 
+- In addition, the use of noncompete clauses—in which the employee agrees not to take a similar job at a competing firm for a prespecified period of time after leaving their current firm—has increased in many American states, providing another hurdle for engineers, scientists, and professionals seeking to move to expanding firms
+- One widely accepted explanation credits the California Civil Code of 1872, which outlawed all covenants in employment contracts
+- Looking forward, even if new and improved substitutes for face-to-face interactions are developed, they cannot substitute for spontaneous encounters that require physical proximity. Any digital communication must always be planned on at least one end, which means that the type of random interactions that occur in a workplace cannot happen at distance.
+    - Note: This is relevant to my personal experience doing my PhD, but also it’s an argument against working from home for many companies
+- Even if skilled cities provide better employment opportunities, moving is an investment that requires liquidity up front. Thus, as Enrico Moretti has convincingly argued, there is a case for subsidizing relocation.
+- Another dilemma is that as skilled cities are becoming more attractive, rising housing prices makes them less affordable. To counteract this, the housing supply must be expanded where new jobs are being created.
+- This will require getting rid of some zoning restrictions, such as minimum lot sizes, height limits, prohibitions on multifamily housing, lengthy permitting processes, and so on, which effectively cap the number of people who can live in thriving places.
+    - Tags: [[green]] 
+    - Note: The discussion of housing in desirable locations, while important to the discussion of a job mobility, also speaks to the need of affordable housing nationwide, and the impact that offsite construction may have.
+- The combined effect of zoning restrictions has been slower economic growth, fewer jobs, lower wages, and higher inequality across the nation. Economists have estimated that in the absence of such restrictions on housing supply, the American economy would be 9 percent larger today, which would mean an additional $6,775 in annual income for the average American worker.
+    - Tags: [[purple]] 
+- The breathtaking rise in wealth inequality that has been documented by Thomas Piketty stems almost entirely from housing. 51 Inflated house prices due to land-use restrictions are surely part of the reason, and the abolition of those restrictions must therefore be part of the solution.
+    - Tags: [[green]] 
+- Subways or high-speed rail that connected declining places (where jobs have dried up and housing is cheap) with expanding ones (where jobs are abundant and housing is expensive) would serve to level incomes across space.
+- Hyperloop technology, which uses a sealed system of tubes to allow people to travel free of air resistance or friction, offers the potential of reaching distant locations at staggering speeds. Hyperloop Transportation Technologies, for example, recently signed agreements with the Illinois Department of Transportation to examine the feasibility of connecting Cleveland and Chicago through a number of different corridors.
+    - Note: The adoption of hyper loop technology approved to be unattainable and too expensive. The theoretical application of this type of transportation proved to be unachievable.
+- It is true that some of these policies have been successful in attracting new jobs, but the costs of doing so have been significant.
+- The greatest push of this kind in American history was the Tennessee Valley Authority (TVA) Act of 1933, which became law in the midst of the Great Depression. The TVA set out to rapidly modernize the Tennessee Valley’s economy, harnessing promising new technologies like electricity to attract the manufacturing industry.
+    - Tags: [[purple]] 
+    - Note: This discussion of the Tennessee Valley Authority relates directly to manufactured housing.
+- For the valley, the push was surely a good thing: the positive employment contributions were seen as late as the turn of the new millennium, when the area was still growing more rapidly than comparable areas—though the effects have begun to fade.
+- This is a troubling finding, because federal and local governments are estimated to spend some $95 billion per year on place-based policy programs, which is much more than is spent on unemployment insurance.
+    - Tags: [[pink]] 
+- Economists have shown that the presence of a college or university increases the supply of skilled workers not only by educating them, but also by attracting more college-educated people from elsewhere.
+- For example, the Land-Grant College Act of 1862 (also known as the Morrill Act) established several land-grant universities and is estimated to have increased labor productivity by 57 percent over a period of eighty years.
+    - Tags: [[pink]] 
+- In the mid-nineteenth century, Karl Marx and Friedrich Engels predicted that continued mechanization would mean the continued impoverishment of the working class, just around the time when Britain finally escaped from Engels’s pause.
+    - Tags: [[green]] 
+- However, they were wrong in thinking that continued progress would lead in the same direction. Like so many others, they were fooled by the mysterious force of technology.
+- The thesis of this book is not that current economic trends must continue indefinitely. On the contrary, there are good reasons to be optimistic about an AI-induced productivity revival, which, besides making us richer on average, would help offset some of the negative effects replacing technologies have on parts of the labor force.
+- Even if we assume that AI will spawn gigantic new industries, as the automobile did a century ago, Henry Ford’s invention of the assembly line broke complex operations down into simple tasks that could be performed by a person with a fifth-grade education.
+- The housing boom also meant that abundant construction jobs helped offset some of the job losses in manufacturing—until the burst of the housing bubble.
+    - Tags: [[purple]] 
+- The next wave is not coming just for manufacturing jobs, but also for many unskilled jobs in transportation, retail, logistics, and construction.
+    - Tags: [[pink]] 
+- It is true that unlike the Luddites of the nineteenth century, people now have seen how in the twentieth century technology made everyone richer. As mechanization progressed during the first three-quarters of the twentieth century, wages rose at all levels.
+- Moderate conservatives and liberals face a tricky balancing act, because exaggerating the effects of automation might prompt fears of mass unemployment and lead to the wrong policy responses, the growth of populist parties, and possibly a backlash against technology itself.
+- our current trajectories look exceedingly similar to those in the classic years of industrialization, and we all know what happened after that.
+- Even assuming that this time is different, however, still means that the challenges ahead lie in the area of political economy, not in technology. In a world where technology creates few jobs and enormous wealth, the challenge is a distributional one
+    - Tags: [[pink]] 
