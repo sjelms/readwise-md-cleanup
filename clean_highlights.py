@@ -30,6 +30,24 @@ def clean_markdown_highlights(file_path):
             cleaned_lines.append(line)
             continue
 
+        # Preserve headings, images, and other non-highlight markdown elements
+        if stripped.startswith(("#", "!", "[", "*")):
+            if highlight_buffer:
+                combined = " ".join([l.strip() for l in highlight_buffer])
+                cleaned_lines.append(f"- {combined}\n")
+                highlight_buffer = []
+            cleaned_lines.append(line)
+            continue
+
+        # Preserve Obsidian-style blockquotes and callouts
+        if stripped.startswith(">"):
+            if highlight_buffer:
+                combined = " ".join([l.strip() for l in highlight_buffer])
+                cleaned_lines.append(f"- {combined}\n")
+                highlight_buffer = []
+            cleaned_lines.append(line)
+            continue
+
         # If the line starts a new bullet, flush previous buffer
         if stripped.startswith("- ") and not any(stripped.startswith(sub) for sub in indent_sub_bullets):
             if highlight_buffer:

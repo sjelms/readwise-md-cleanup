@@ -5,6 +5,8 @@
 ## 📌 Intent
 Fixes broken line breaks and formatting issues that occur when highlights from Apple Books are extracted by Readwise and then synced into markdown-based apps like Obsidian or Notion. This script focuses specifically on highlight formatting artifacts caused during this extraction and sync process.
 
+- Preserves Obsidian-specific formatting like callouts (`> [!note]`), tags, and blockquotes.
+
 ---
 
 ## ⚙️ Actions
@@ -13,6 +15,8 @@ List the primary functions or operations this project performs. What does it act
 - Preserves associated `Tags:` and `Note:` sub-bullets
 - Avoids modifying YAML front matter or any other non-highlight content
 - Operates only on expected highlight structures typical of `Apple Books > Readwise > Obsidian` export chain
+
+- Skips lines starting with Markdown syntax characters (`#`, `!`, `[`, `*`, `>`) to avoid corrupting headings, images, and callouts.
 
 ---
 
@@ -79,4 +83,8 @@ List common problems and their solutions.
 
 ✅ Make a copy of your markdown file or use git to track file changes.
 
-For enhancements or bug reports, please open an issue in the GitHub repository. [https://github.com/sjelms/*](https://github.com/sjelms/*)
+### 🟥 Problem: Obsidian callouts or metadata formatting breaks after cleanup
+
+✅ The script now skips any line starting with `>` and other special characters to preserve Obsidian callouts and metadata. If you're seeing issues, make sure you're running the latest version.
+
+For enhancements or bug reports, please open an issue in the GitHub repository. [https://github.com/sjelms/readwise-md-cleanup](https://github.com/sjelms/readwise-md-cleanup)
