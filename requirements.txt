@@ -1,0 +1,4 @@
+# Project dependencies for readwise-md-cleanup
+# This project currently uses only the Python standard library.
+# Keeping this file allows easy future additions and reproducible setups.
+

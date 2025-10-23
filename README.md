@@ -45,7 +45,24 @@ To enable the right-click Finder action:
 3. Double-click it to install into Automator.
 4. Once added, right-click any `.md` file in Finder and choose `Quick Actions → Clean .md Highlights`.
 
-Requires: Python 3.13 and the `clean_highlights.py` script path updated inside the workflow if your setup is different.
+### Automator command using the project .venv
+If you previously used Homebrew Python like `/opt/homebrew/bin/python3` and saw “no such file or directory”, update the Automator action to call the project’s virtual environment Python directly.
+
+In Automator’s “Run Shell Script” action, set:
+- Shell: `/bin/zsh`
+- Pass input: `as arguments`
+
+Script:
+
+```
+/Users/stephenelms/Dev/readwise-md-cleanup/.venv/bin/python \
+  "/Users/stephenelms/Dev/readwise-md-cleanup/clean_highlights.py" "$@"
+```
+
+Notes:
+- Make sure you’ve created the venv first: `bash /Users/stephenelms/Dev/readwise-md-cleanup/setup_venv.sh`.
+- If your repo is in a different folder, update the two absolute paths accordingly.
+- This avoids relying on system or Homebrew Python paths that may differ across machines.
 
 ---
 
@@ -55,14 +72,25 @@ Outline the technology stack and setup instructions.
 - **Dependencies:**
   - No external libraries required (standard library only)
 
-Provide the command to install dependencies:
+### 🐍 Virtual Environment (.venv)
+This project provides a helper script to create a local virtual environment and install dependencies.
+
+Setup steps:
 ```bash
-# No dependencies required
+# from the project root
+bash setup_venv.sh
+# activate (optional)
+source .venv/bin/activate
 ```
 
-Provide the command to run the script:
+Install dependencies (already handled by setup_venv.sh):
 ```bash
-python clean_highlights.py path/to/your/file.md
+.venv/bin/pip install -r requirements.txt
+```
+
+Run the script:
+```bash
+.venv/bin/python clean_highlights.py path/to/your/file.md
 ```
 
 ---
