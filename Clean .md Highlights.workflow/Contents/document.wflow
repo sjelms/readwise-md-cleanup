@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>/opt/homebrew/bin/python3 "/Users/stephenelms/Dev/readwise-md-cleanup/clean_highlights.py" "$@"</string>
+					<string>"__MARKDOWN_CLEANUP_ROOT__/.venv/bin/python" "__MARKDOWN_CLEANUP_ROOT__/clean_markdown.py" "$@"</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>

@@ -1,0 +1,162 @@
+import argparse
+import re
+from pathlib import Path
+
+
+LIST_ITEM_RE = re.compile(r"^(\s*)((?:[-+*]|\d+[.)])(?:\s+\[[ xX]\])?)\s+(.*)$")
+SETEXT_HEADING_RE = re.compile(r"^\s*(=+|-{3,})\s*$")
+HORIZONTAL_RULE_RE = re.compile(r"^\s*([-*_])(?:\s*\1){2,}\s*$")
+
+
+def normalize_text(text: str) -> str:
+    return text.replace("\\'", "'").replace('\\"', '"')
+
+
+def is_fence_delimiter(stripped: str) -> bool:
+    return stripped.startswith("```") or stripped.startswith("~~~")
+
+
+def is_verbatim_line(raw_line: str, stripped: str) -> bool:
+    if not stripped:
+        return False
+    if stripped.startswith((">", "#", "![", "[^", "<")):
+        return True
+    if stripped.startswith("|") or stripped.endswith("|"):
+        return True
+    if HORIZONTAL_RULE_RE.match(stripped) or SETEXT_HEADING_RE.match(stripped):
+        return True
+    return bool(re.match(r"^(?:[*_]{1,3}|`{1,2}).*", stripped)) and raw_line == stripped + "\n"
+
+
+def flush_paragraph(cleaned_lines: list[str], paragraph_buffer: list[str]) -> None:
+    if not paragraph_buffer:
+        return
+    combined = " ".join(line.strip() for line in paragraph_buffer if line.strip())
+    cleaned_lines.append(f"{normalize_text(combined)}\n")
+    paragraph_buffer.clear()
+
+
+def flush_list_item(cleaned_lines: list[str], list_state: dict | None) -> None:
+    if not list_state:
+        return
+    combined = " ".join(line.strip() for line in list_state["lines"] if line.strip())
+    cleaned_lines.append(
+        f"{list_state['indent']}{list_state['prefix']} {normalize_text(combined)}\n"
+    )
+    list_state.clear()
+
+
+def clean_markdown_file(file_path: str | Path) -> bool:
+    path = Path(file_path)
+    if not path.is_file():
+        raise FileNotFoundError(f"File not found: {file_path}")
+
+    original = path.read_text(encoding="utf-8")
+    lines = original.splitlines(keepends=True)
+
+    cleaned_lines: list[str] = []
+    paragraph_buffer: list[str] = []
+    list_state: dict[str, object] = {}
+    in_yaml = bool(lines) and lines[0].strip() == "---"
+    in_fence = False
+
+    for index, raw_line in enumerate(lines):
+        stripped = raw_line.strip()
+
+        if in_yaml:
+            cleaned_lines.append(raw_line)
+            if index != 0 and stripped == "---":
+                in_yaml = False
+            continue
+
+        if in_fence:
+            cleaned_lines.append(raw_line)
+            if is_fence_delimiter(stripped):
+                in_fence = False
+            continue
+
+        if is_fence_delimiter(stripped):
+            flush_list_item(cleaned_lines, list_state or None)
+            flush_paragraph(cleaned_lines, paragraph_buffer)
+            cleaned_lines.append(raw_line)
+            in_fence = True
+            continue
+
+        if stripped == "":
+            flush_list_item(cleaned_lines, list_state or None)
+            flush_paragraph(cleaned_lines, paragraph_buffer)
+            cleaned_lines.append(raw_line)
+            continue
+
+        list_match = LIST_ITEM_RE.match(raw_line)
+        if list_match:
+            flush_list_item(cleaned_lines, list_state or None)
+            flush_paragraph(cleaned_lines, paragraph_buffer)
+            list_state["indent"] = list_match.group(1)
+            list_state["prefix"] = list_match.group(2)
+            list_state["lines"] = [list_match.group(3)]
+            continue
+
+        if is_verbatim_line(raw_line, stripped) or (
+            raw_line.startswith(("    ", "\t")) and not paragraph_buffer and not list_state
+        ):
+            flush_list_item(cleaned_lines, list_state or None)
+            flush_paragraph(cleaned_lines, paragraph_buffer)
+            cleaned_lines.append(raw_line)
+            continue
+
+        if list_state:
+            list_state["lines"].append(stripped)
+            continue
+
+        paragraph_buffer.append(stripped)
+
+    flush_list_item(cleaned_lines, list_state or None)
+    flush_paragraph(cleaned_lines, paragraph_buffer)
+
+    cleaned = "".join(cleaned_lines)
+    if cleaned != original:
+        path.write_text(cleaned, encoding="utf-8")
+        return True
+    return False
+
+
+def iter_markdown_files(paths: list[str]) -> list[Path]:
+    markdown_files: list[Path] = []
+    for raw_path in paths:
+        path = Path(raw_path)
+        if path.is_file():
+            markdown_files.append(path)
+            continue
+        if path.is_dir():
+            markdown_files.extend(sorted(path.rglob("*.md")))
+            continue
+        raise FileNotFoundError(f"Path not found: {raw_path}")
+    return markdown_files
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(
+        description="Normalize soft-wrapped markdown paragraphs and list items in place."
+    )
+    parser.add_argument("paths", nargs="+", help="Markdown file(s) or directories to clean.")
+    return parser
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = build_parser()
+    args = parser.parse_args(argv)
+
+    changed_files = 0
+    for path in iter_markdown_files(args.paths):
+        if clean_markdown_file(path):
+            changed_files += 1
+            print(f"Cleaned: {path}")
+        else:
+            print(f"Unchanged: {path}")
+
+    return 0 if changed_files >= 0 else 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

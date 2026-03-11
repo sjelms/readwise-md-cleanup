@@ -1,118 +1,77 @@
-# Readwise Markdown Cleanup
+# Markdown Cleanup
 
----
+Small Python utility for normalizing imported markdown in place. It targets soft-wrapped paragraphs and list items from exported notes, highlights, and copied markdown while preserving common markdown structure.
 
-## 📌 Intent
-Fixes broken line breaks and formatting issues that occur when highlights from Apple Books are extracted by Readwise and then synced into markdown-based apps like Obsidian or Notion. This script focuses specifically on highlight formatting artifacts caused during this extraction and sync process.
+## What It Does
 
-- Preserves Obsidian-specific formatting like callouts (`> [!note]`), tags, and blockquotes.
+- Merges soft-wrapped paragraphs into a single line
+- Merges wrapped list items without flattening nested lists
+- Preserves YAML front matter, headings, blockquotes, callouts, fenced code blocks, and tables
+- Keeps Readwise-style nested `Tags:` and `Note:` bullets intact
+- Processes one file, many files, or an entire directory tree of `.md` files
 
----
+## What It Expects
 
-## ⚙️ Actions
-List the primary functions or operations this project performs. What does it actually do?
-- Detects and merges broken multi-line highlights into a single paragraph
-- Preserves associated `Tags:` and `Note:` sub-bullets
-- Avoids modifying YAML front matter or any other non-highlight content
-- Operates only on expected highlight structures typical of `Apple Books > Readwise > Obsidian` export chain
+- Markdown files that should be normalized in place
+- Best fit: exported highlights, clipped notes, and markdown that has unwanted line breaks
+- Less suitable: prose where manual line breaks are intentional
 
-- Skips lines starting with Markdown syntax characters (`#`, `!`, `[`, `*`, `>`) to avoid corrupting headings, images, and callouts.
+## CLI Usage
 
----
+Set up the local virtual environment:
 
-## 📥 Input
-Describe the necessary inputs for this project. What data, files, or resources does it require to function?
-- Input file type and format: Markdown (.md)
-- Required format: Bullet list structure with indented tags or notes
-- This should be an export from Apple Books or copy-pasted highlights in that style
-
----
-
-## 📤 Output
-Detail what the project produces.
-- The same markdown file, updated in-place
-- No filename or location change
-- Git is recommended to track and undo changes if needed
-
----
-
-### 🖱️ Quick Action (macOS Finder Right-Click)
-
-To enable the right-click Finder action:
-
-1. Download or clone this repo.
-2. Open the `Quick Actions/Clean .md Highlights.workflow` file.
-3. Double-click it to install into Automator.
-4. Once added, right-click any `.md` file in Finder and choose `Quick Actions → Clean .md Highlights`.
-
-### Automator command using the project .venv
-If you previously used Homebrew Python like `/opt/homebrew/bin/python3` and saw “no such file or directory”, update the Automator action to call the project’s virtual environment Python directly.
-
-In Automator’s “Run Shell Script” action, set:
-- Shell: `/bin/zsh`
-- Pass input: `as arguments`
-
-Script:
-
-```
-/Users/stephenelms/Dev/readwise-md-cleanup/.venv/bin/python \
-  "/Users/stephenelms/Dev/readwise-md-cleanup/clean_highlights.py" "$@"
-```
-
-Notes:
-- Make sure you’ve created the venv first: `bash /Users/stephenelms/Dev/readwise-md-cleanup/setup_venv.sh`.
-- If your repo is in a different folder, update the two absolute paths accordingly.
-- This avoids relying on system or Homebrew Python paths that may differ across machines.
-
----
-
-## 🧱 Framework
-Outline the technology stack and setup instructions.
-- **Primary Language/Framework:** Python 3
-- **Dependencies:**
-  - No external libraries required (standard library only)
-
-### 🐍 Virtual Environment (.venv)
-This project provides a helper script to create a local virtual environment and install dependencies.
-
-Setup steps:
 ```bash
-# from the project root
 bash setup_venv.sh
-# activate (optional)
-source .venv/bin/activate
 ```
 
-Install dependencies (already handled by setup_venv.sh):
+Run against one file:
+
 ```bash
-.venv/bin/pip install -r requirements.txt
+.venv/bin/python clean_markdown.py /path/to/file.md
 ```
 
-Run the script:
+Run against multiple files or a directory:
+
 ```bash
-.venv/bin/python clean_highlights.py path/to/your/file.md
+.venv/bin/python clean_markdown.py /path/to/file-one.md /path/to/file-two.md /path/to/folder
 ```
 
----
+`clean_highlights.py` remains as a compatibility wrapper for older automation setups.
 
-## 🛠️ Troubleshooting
+## Private Local Config
 
-List common problems and their solutions.
+To keep your local path out of the repo:
 
-### 🟥 Problem: File doesn't update after running script
+1. Copy `.env.local.example` to `.env.local`
+2. Set `MARKDOWN_CLEANUP_ROOT` to your local checkout path
 
-✅ Make sure you're passing the correct `.md` file path to the script.
+`.env.local` is gitignored and used by the Quick Action installer.
 
-### 🟥 Problem: Script removes intentional line breaks
+## macOS Quick Action
 
-✅ This cleaner is only intended for Apple Books highlights. Use cautiously on manually formatted notes.
+The workflow stored in the repo is now a template and contains no personal path. Install a local copy with your private path injected from `.env.local`:
 
-### 🟥 Problem: I want to preview changes before overwriting
+```bash
+bash install_quick_action.sh
+```
 
-✅ Make a copy of your markdown file or use git to track file changes.
+By default this installs to `~/Library/Services`. Finder should then show `Quick Actions -> Clean Markdown`.
 
-### 🟥 Problem: Obsidian callouts or metadata formatting breaks after cleanup
+## Verification
 
-✅ The script now skips any line starting with `>` and other special characters to preserve Obsidian callouts and metadata. If you're seeing issues, make sure you're running the latest version.
+Regression tests:
 
-For enhancements or bug reports, please open an issue in the GitHub repository. [https://github.com/sjelms/readwise-md-cleanup](https://github.com/sjelms/readwise-md-cleanup)
+```bash
+.venv/bin/python -m unittest discover -s tests
+```
+
+Representative coverage includes:
+
+- wrapped paragraphs
+- wrapped list items with nested lists
+- Readwise-style `Tags:` and `Note:` bullets
+- multiple file arguments
+
+## Legacy Helper
+
+`readwise-tag-suffix-amend.sh` is still present for Readwise-specific tag cleanup. It is separate from the general markdown normalizer.

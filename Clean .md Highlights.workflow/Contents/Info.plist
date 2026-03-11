@@ -14,7 +14,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Clean .md Highlights</string>
+				<string>Clean Markdown</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
