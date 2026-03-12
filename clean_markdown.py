@@ -6,6 +6,16 @@ from pathlib import Path
 LIST_ITEM_RE = re.compile(r"^(\s*)((?:[-+*]|\d+[.)])(?:\s+\[[ xX]\])?)\s+(.*)$")
 SETEXT_HEADING_RE = re.compile(r"^\s*(=+|-{3,})\s*$")
 HORIZONTAL_RULE_RE = re.compile(r"^\s*([-*_])(?:\s*\1){2,}\s*$")
+INLINE_FOOTNOTE_RE = re.compile(r"(?<!\d)\.(\d+)(?=[\s\)\]\"'”’.,;:!?]|$)")
+REFERENCE_ENTRY_RE = re.compile(r"^(\s*)(\d+)[.)]\s+(.*\S)\s*$")
+UNNECESSARY_ESCAPE_RE = re.compile(r"\\([\[\]\(\)\.\-])")
+REFERENCE_HEADINGS = {
+    "references",
+    "works cited",
+    "bibliography",
+    "sources",
+    "notes",
+}
 
 
 def normalize_text(text: str) -> str:
@@ -44,6 +54,114 @@ def flush_list_item(cleaned_lines: list[str], list_state: dict | None) -> None:
         f"{list_state['indent']}{list_state['prefix']} {normalize_text(combined)}\n"
     )
     list_state.clear()
+
+
+def format_inline_footnotes(line: str) -> str:
+    if line.lstrip().startswith("[^"):
+        return line
+    return INLINE_FOOTNOTE_RE.sub(r".[^\1]", line)
+
+
+def remove_unnecessary_escapes(line: str) -> str:
+    return UNNECESSARY_ESCAPE_RE.sub(r"\1", line)
+
+
+def cleanup_body_line(line: str) -> str:
+    return format_inline_footnotes(remove_unnecessary_escapes(line))
+
+
+def is_reference_heading(stripped: str) -> bool:
+    heading_text = stripped.lstrip("#").strip().lower()
+    return heading_text in REFERENCE_HEADINGS
+
+
+def find_trailing_reference_entries(lines: list[str]) -> set[int]:
+    trailing_indices: set[int] = set()
+    entry_count = 0
+    index = len(lines) - 1
+
+    while index >= 0 and lines[index].strip() == "":
+        index -= 1
+
+    while index >= 0:
+        stripped = lines[index].strip()
+        if stripped == "":
+            trailing_indices.add(index)
+            index -= 1
+            continue
+
+        if REFERENCE_ENTRY_RE.match(lines[index]):
+            trailing_indices.add(index)
+            entry_count += 1
+            index -= 1
+            continue
+
+        break
+
+    if entry_count < 2:
+        return set()
+
+    return {
+        line_index for line_index in trailing_indices if REFERENCE_ENTRY_RE.match(lines[line_index])
+    }
+
+
+def apply_footnote_formatting(lines: list[str]) -> list[str]:
+    formatted_lines: list[str] = []
+    in_yaml = bool(lines) and lines[0].strip() == "---"
+    in_fence = False
+    in_reference_section = False
+    trailing_reference_entries = find_trailing_reference_entries(lines)
+
+    for index, raw_line in enumerate(lines):
+        stripped = raw_line.strip()
+
+        if in_yaml:
+            formatted_lines.append(raw_line)
+            if index != 0 and stripped == "---":
+                in_yaml = False
+            continue
+
+        if in_fence:
+            formatted_lines.append(raw_line)
+            if is_fence_delimiter(stripped):
+                in_fence = False
+            continue
+
+        if is_fence_delimiter(stripped):
+            formatted_lines.append(raw_line)
+            in_fence = True
+            continue
+
+        if stripped.startswith("#"):
+            in_reference_section = is_reference_heading(stripped)
+            formatted_lines.append(raw_line)
+            continue
+
+        if stripped.lower() in REFERENCE_HEADINGS:
+            in_reference_section = True
+            formatted_lines.append(raw_line)
+            continue
+
+        reference_match = REFERENCE_ENTRY_RE.match(raw_line)
+        if in_reference_section:
+            if stripped and SETEXT_HEADING_RE.match(stripped):
+                formatted_lines.append(raw_line)
+                continue
+
+            if reference_match:
+                indent, number, text = reference_match.groups()
+                formatted_lines.append(f"{indent}[^{number}]: {text}\n")
+                continue
+
+        if index in trailing_reference_entries and reference_match:
+            indent, number, text = reference_match.groups()
+            formatted_lines.append(f"{indent}[^{number}]: {text}\n")
+            continue
+
+        formatted_lines.append(cleanup_body_line(raw_line))
+
+    return formatted_lines
 
 
 def clean_markdown_file(file_path: str | Path) -> bool:
@@ -114,7 +232,7 @@ def clean_markdown_file(file_path: str | Path) -> bool:
     flush_list_item(cleaned_lines, list_state or None)
     flush_paragraph(cleaned_lines, paragraph_buffer)
 
-    cleaned = "".join(cleaned_lines)
+    cleaned = "".join(apply_footnote_formatting(cleaned_lines))
     if cleaned != original:
         path.write_text(cleaned, encoding="utf-8")
         return True

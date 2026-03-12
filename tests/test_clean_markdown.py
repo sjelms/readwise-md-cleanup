@@ -81,6 +81,120 @@ class CleanMarkdownTests(unittest.TestCase):
             "```\n",
         )
 
+    def test_formats_inline_footnotes_outside_yaml(self) -> None:
+        path = self.write_temp_markdown(
+            "---\n"
+            "title: diversified revenue stream.3\n"
+            "---\n"
+            "\n"
+            'A diversified revenue stream.3 and "livable luxury".46 help.\n'
+            "\n"
+            "Strong review aggregations.37) also matter.\n"
+            "\n"
+            "Version 3.14 should stay as is.\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            "---\n"
+            "title: diversified revenue stream.3\n"
+            "---\n"
+            "\n"
+            'A diversified revenue stream.[^3] and "livable luxury".[^46] help.\n'
+            "\n"
+            "Strong review aggregations.[^37]) also matter.\n"
+            "\n"
+            "Version 3.14 should stay as is.\n",
+        )
+
+    def test_removes_unnecessary_escapes_outside_yaml(self) -> None:
+        path = self.write_temp_markdown(
+            "---\n"
+            "title: occurred circa 2021\\.\n"
+            "---\n"
+            "\n"
+            "\\[an Oregon/Idaho based traditional site-builder\\].\n"
+            "\n"
+            "occurred circa 2021\\.\n"
+            "\n"
+            "OHI \\- Formerly ARVC,\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            "---\n"
+            "title: occurred circa 2021\\.\n"
+            "---\n"
+            "\n"
+            "[an Oregon/Idaho based traditional site-builder].\n"
+            "\n"
+            "occurred circa 2021.\n"
+            "\n"
+            "OHI - Formerly ARVC,\n",
+        )
+
+    def test_formats_reference_section_entries_as_footnotes(self) -> None:
+        path = self.write_temp_markdown(
+            "## References\n"
+            "1. Site Plan\n"
+            "7. Building Big Dreams\n"
+            "\n"
+            "## Next Section\n"
+            "1. This should remain a numbered list\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            "## References\n"
+            "[^1]: Site Plan\n"
+            "[^7]: Building Big Dreams\n"
+            "\n"
+            "## Next Section\n"
+            "1. This should remain a numbered list\n",
+        )
+
+    def test_formats_plain_references_label_entries_as_footnotes(self) -> None:
+        path = self.write_temp_markdown(
+            "References\n"
+            "1. Site Plan\n"
+            "2. Building Big Dreams\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            "References\n"
+            "[^1]: Site Plan\n"
+            "[^2]: Building Big Dreams\n",
+        )
+
+    def test_formats_trailing_ordered_list_as_footnotes_without_named_heading(self) -> None:
+        path = self.write_temp_markdown(
+            "Some body text with retirement dwellings.2\n"
+            "\n"
+            "Closing section\n"
+            "1. Site Plan\n"
+            "7. Building Big Dreams\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            "Some body text with retirement dwellings.[^2]\n"
+            "\n"
+            "Closing section\n"
+            "[^1]: Site Plan\n"
+            "[^7]: Building Big Dreams\n",
+        )
+
     def test_cli_accepts_multiple_files(self) -> None:
         first = self.write_temp_markdown("Line one\nline two\n")
         second = self.write_temp_markdown("- bullet one\ncontinued\n")
