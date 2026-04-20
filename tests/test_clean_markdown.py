@@ -109,6 +109,50 @@ class CleanMarkdownTests(unittest.TestCase):
             "Version 3.14 should stay as is.\n",
         )
 
+    def test_preserves_decimals_and_formats_footnotes_inside_tables(self) -> None:
+        path = self.write_temp_markdown(
+            "| Metric | Value |\n"
+            "| :---- | :---- |\n"
+            "| Revenue estimate | $29.8 Million.1 |\n"
+            "| Airtightness | 0.054 CFM/sq ft.2 |\n"
+            "\n"
+            "#### **Works cited**\n"
+            "1. Revenue source\n"
+            "2. Airtightness source\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            "| Metric | Value |\n"
+            "| :---- | :---- |\n"
+            "| Revenue estimate | $29.8 Million.[^1] |\n"
+            "| Airtightness | 0.054 CFM/sq ft.[^2] |\n"
+            "\n"
+            "#### **Works cited**\n"
+            "[^1]: Revenue source\n"
+            "[^2]: Airtightness source\n",
+        )
+
+    def test_formats_trailing_space_separated_citations_in_list_items(self) -> None:
+        path = self.write_temp_markdown(
+            "* *Building the Timberframe House: The Revival of a Forgotten Craft* (1980) 5\n"
+            "* *The Timber-frame Home: Design, Construction, Finishing* (1988) 5\n"
+            "* *The Timberframe Home* (Revised Edition, 1997\\) 5\n"
+            "* *Timberframe: The Art and Craft of the Post-and-Beam Home* (1999) 5\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            "* *Building the Timberframe House: The Revival of a Forgotten Craft* (1980) [^5]\n"
+            "* *The Timber-frame Home: Design, Construction, Finishing* (1988) [^5]\n"
+            "* *The Timberframe Home* (Revised Edition, 1997) [^5]\n"
+            "* *Timberframe: The Art and Craft of the Post-and-Beam Home* (1999) [^5]\n",
+        )
+
     def test_removes_unnecessary_escapes_outside_yaml(self) -> None:
         path = self.write_temp_markdown(
             "---\n"

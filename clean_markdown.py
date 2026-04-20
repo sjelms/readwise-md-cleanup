@@ -6,9 +6,13 @@ from pathlib import Path
 LIST_ITEM_RE = re.compile(r"^(\s*)((?:[-+*]|\d+[.)])(?:\s+\[[ xX]\])?)\s+(.*)$")
 SETEXT_HEADING_RE = re.compile(r"^\s*(=+|-{3,})\s*$")
 HORIZONTAL_RULE_RE = re.compile(r"^\s*([-*_])(?:\s*\1){2,}\s*$")
-INLINE_FOOTNOTE_RE = re.compile(r"(?<!\d)\.(\d+)(?=[\s\)\]\"'”’.,;:!?]|$)")
+INLINE_FOOTNOTE_RE = re.compile(r"\.(\d+)(?=[\s\)\]\"'”’.,;:!?|]|$)")
+TRAILING_INLINE_FOOTNOTE_RE = re.compile(
+    r"(?<=[\)\]\"'”’*])\s+(\d+)(?=(?:\s{2,})?(?:\||$))"
+)
 REFERENCE_ENTRY_RE = re.compile(r"^(\s*)(\d+)[.)]\s+(.*\S)\s*$")
 UNNECESSARY_ESCAPE_RE = re.compile(r"\\([\[\]\(\)\.\-])")
+HEADING_DECORATION_RE = re.compile(r"^[*_`~]+|[*_`~]+$")
 REFERENCE_HEADINGS = {
     "references",
     "works cited",
@@ -59,7 +63,14 @@ def flush_list_item(cleaned_lines: list[str], list_state: dict | None) -> None:
 def format_inline_footnotes(line: str) -> str:
     if line.lstrip().startswith("[^"):
         return line
-    return INLINE_FOOTNOTE_RE.sub(r".[^\1]", line)
+
+    def replacer(match: re.Match[str]) -> str:
+        if match.start() > 0 and line[match.start() - 1].isdigit():
+            return match.group(0)
+        return f".[^{match.group(1)}]"
+
+    line = INLINE_FOOTNOTE_RE.sub(replacer, line)
+    return TRAILING_INLINE_FOOTNOTE_RE.sub(r" [^\1]", line)
 
 
 def remove_unnecessary_escapes(line: str) -> str:
@@ -70,9 +81,17 @@ def cleanup_body_line(line: str) -> str:
     return format_inline_footnotes(remove_unnecessary_escapes(line))
 
 
-def is_reference_heading(stripped: str) -> bool:
+def normalize_heading_text(stripped: str) -> str:
     heading_text = stripped.lstrip("#").strip().lower()
-    return heading_text in REFERENCE_HEADINGS
+    while True:
+        updated = HEADING_DECORATION_RE.sub("", heading_text).strip()
+        if updated == heading_text:
+            return updated
+        heading_text = updated
+
+
+def is_reference_heading(stripped: str) -> bool:
+    return normalize_heading_text(stripped) in REFERENCE_HEADINGS
 
 
 def find_trailing_reference_entries(lines: list[str]) -> set[int]:
@@ -138,7 +157,7 @@ def apply_footnote_formatting(lines: list[str]) -> list[str]:
             formatted_lines.append(raw_line)
             continue
 
-        if stripped.lower() in REFERENCE_HEADINGS:
+        if normalize_heading_text(stripped) in REFERENCE_HEADINGS:
             in_reference_section = True
             formatted_lines.append(raw_line)
             continue
