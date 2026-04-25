@@ -1,6 +1,7 @@
 import argparse
 import re
 from pathlib import Path
+from typing import cast
 
 
 LIST_ITEM_RE = re.compile(r"^(\s*)((?:[-+*]|\d+[.)])(?:\s+\[[ xX]\])?)\s+(.*)$")
@@ -53,7 +54,8 @@ def flush_paragraph(cleaned_lines: list[str], paragraph_buffer: list[str]) -> No
 def flush_list_item(cleaned_lines: list[str], list_state: dict | None) -> None:
     if not list_state:
         return
-    combined = " ".join(line.strip() for line in list_state["lines"] if line.strip())
+    lines = cast(list[str], list_state["lines"])
+    combined = " ".join(line.strip() for line in lines if line.strip())
     cleaned_lines.append(
         f"{list_state['indent']}{list_state['prefix']} {normalize_text(combined)}\n"
     )
@@ -259,7 +261,7 @@ def clean_markdown_file(file_path: str | Path) -> bool:
             continue
 
         if list_state:
-            list_state["lines"].append(stripped)
+            cast(list[str], list_state["lines"]).append(stripped)
             continue
 
         paragraph_buffer.append(stripped)
