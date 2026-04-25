@@ -60,6 +60,11 @@ def flush_list_item(cleaned_lines: list[str], list_state: dict | None) -> None:
     list_state.clear()
 
 
+def is_terminal_wrapped_bullet(indent: str, prefix: str) -> bool:
+    # Terminal copies often prefix top-level bullets with three spaces and "*".
+    return prefix == "*" and len(indent.expandtabs(4)) >= 3
+
+
 def format_inline_footnotes(line: str) -> str:
     if line.lstrip().startswith("[^"):
         return line
@@ -227,11 +232,22 @@ def clean_markdown_file(file_path: str | Path) -> bool:
 
         list_match = LIST_ITEM_RE.match(raw_line)
         if list_match:
-            flush_list_item(cleaned_lines, list_state or None)
+            if list_state and list_state.get("spaced"):
+                flush_list_item(cleaned_lines, list_state)
+                cleaned_lines.append("\n")
+            else:
+                flush_list_item(cleaned_lines, list_state or None)
             flush_paragraph(cleaned_lines, paragraph_buffer)
-            list_state["indent"] = list_match.group(1)
-            list_state["prefix"] = list_match.group(2)
+            indent = list_match.group(1)
+            prefix = list_match.group(2)
+            spaced = is_terminal_wrapped_bullet(indent, prefix)
+            if spaced:
+                indent = ""
+                prefix = "-"
+            list_state["indent"] = indent
+            list_state["prefix"] = prefix
             list_state["lines"] = [list_match.group(3)]
+            list_state["spaced"] = spaced
             continue
 
         if is_verbatim_line(raw_line, stripped) or (
