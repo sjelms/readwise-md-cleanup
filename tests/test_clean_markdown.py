@@ -48,8 +48,8 @@ class CleanMarkdownTests(unittest.TestCase):
         self.assertEqual(
             path.read_text(encoding="utf-8"),
             "- wrapped highlight line one line two\n"
-            "    - Tags: [[blue]]\n"
-            "    - Note: Keep this note\n",
+            "    - **Tags:** [[blue]]\n"
+            "    - **Note:** Keep this note\n",
         )
 
     def test_preserves_fenced_code_and_blockquotes(self) -> None:
@@ -239,6 +239,68 @@ class CleanMarkdownTests(unittest.TestCase):
             "[^7]: Building Big Dreams\n",
         )
 
+    def test_normalizes_terminal_wrapped_star_bullets_to_spaced_dash_list(self) -> None:
+        path = self.write_temp_markdown(
+            "   * Felstead et al. (2011), which argues that the act of doing a job provides the primary opportunities for learning and development, framing it as\n"
+            '     "Working to Learn, Learning to Work" [[-Felstead2011-az]].\n'
+            "   * Derrick (2020), who explores \"practice-based learning\" and how innovation and learning emerge from the daily, indeterminate practices of the\n"
+            "     workplace [[-Derrick2020-yv]].\n"
+            "   * Billett (2001, 2008), whose work centers on \"learning through work\" and \"learning through workplace practice,\" highlighting the relational\n"
+            "     interdependence between workplace affordances and the worker's active engagement in their tasks [[-Billett2001-xo]] [[-Billett2008-kx]].\n"
+            "   * Broad & Lahiff (2019), who specifically discuss how vocational teachers develop and sustain expertise through practice and the \"process of\n"
+            "     becoming\" within their professional community [[-Broad2019-rn]].\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            '- Felstead et al. (2011), which argues that the act of doing a job provides the primary opportunities for learning and development, framing it as "Working to Learn, Learning to Work" [[-Felstead2011-az]].\n'
+            '- Derrick (2020), who explores "practice-based learning" and how innovation and learning emerge from the daily, indeterminate practices of the workplace [[-Derrick2020-yv]].\n'
+            '- Billett (2001, 2008), whose work centers on "learning through work" and "learning through workplace practice," highlighting the relational interdependence between workplace affordances and the worker\'s active engagement in their tasks [[-Billett2001-xo]] [[-Billett2008-kx]].\n'
+            '- Broad & Lahiff (2019), who specifically discuss how vocational teachers develop and sustain expertise through practice and the "process of becoming" within their professional community [[-Broad2019-rn]].\n',
+        )
+
+    def test_nests_terminal_wrapped_star_bullets_under_ordered_item(self) -> None:
+        path = self.write_temp_markdown(
+            "  1. Learning as a \"Discrete Product\" (The Acquisition Metaphor)\n"
+            "  The most pervasive early assumption was that learning is a \"thing\".\n"
+            "   * Assumption: Knowledge can be pre-specified.\n"
+            "   * Note Example: Formal preparation is insufficient.\n"
+            "\n"
+            "  2. Behaviorism: Focus on the \"Observable\"\n"
+            "  Behaviorism was dominant.\n"
+            "   * Assumption: Learning is observable actions.\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            '1. Learning as a "Discrete Product" (The Acquisition Metaphor) The most pervasive early assumption was that learning is a "thing".\n'
+            "\t- **Assumption:** Knowledge can be pre-specified.\n"
+            "\t- **Note Example:** Formal preparation is insufficient.\n"
+            '2. Behaviorism: Focus on the "Observable" Behaviorism was dominant.\n'
+            "\t- **Assumption:** Learning is observable actions.\n",
+        )
+
+    def test_nests_dash_bullets_under_ordered_item(self) -> None:
+        path = self.write_temp_markdown(
+            "1. Heading\n"
+            "Continuation line\n"
+            "- Assumption: First point\n"
+            "- Note Example: Second point\n"
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            "1. Heading Continuation line\n"
+            "\t- **Assumption:** First point\n"
+            "\t- **Note Example:** Second point\n",
+        )
+
     def test_cli_accepts_multiple_files(self) -> None:
         first = self.write_temp_markdown("Line one\nline two\n")
         second = self.write_temp_markdown("- bullet one\ncontinued\n")
@@ -255,6 +317,22 @@ class CleanMarkdownTests(unittest.TestCase):
         self.assertIn("Cleaned:", result.stdout)
         self.assertEqual(first.read_text(encoding="utf-8"), "Line one line two\n")
         self.assertEqual(second.read_text(encoding="utf-8"), "- bullet one continued\n")
+
+    def test_collapses_soft_wrap_gaps_and_inline_metadata_spacing(self) -> None:
+        path = self.write_temp_markdown(
+            '✦ Exploring Early Learning Models, noting "Behaviorism" and the "Economic Perspective"\n'
+            "  \n"
+            "  were dominant before situated learning and often ignored workplace context.\n"
+            "  \n"
+            '  [Thought: true]Before the rise of situated learning, models viewed learning as a "product".\n'
+        )
+
+        clean_markdown_file(path)
+
+        self.assertEqual(
+            path.read_text(encoding="utf-8"),
+            '✦ Exploring Early Learning Models, noting "Behaviorism" and the "Economic Perspective" were dominant before situated learning and often ignored workplace context. [Thought: true] Before the rise of situated learning, models viewed learning as a "product".\n',
+        )
 
 
 if __name__ == "__main__":

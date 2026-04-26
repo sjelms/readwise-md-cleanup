@@ -11,9 +11,12 @@ INLINE_FOOTNOTE_RE = re.compile(r"\.(\d+)(?=[\s\)\]\"'”’.,;:!?|]|$)")
 TRAILING_INLINE_FOOTNOTE_RE = re.compile(
     r"(?<=[\)\]\"'”’*])\s+(\d+)(?=(?:\s{2,})?(?:\||$))"
 )
+ORDERED_PREFIX_RE = re.compile(r"^\d+[.)]")
 REFERENCE_ENTRY_RE = re.compile(r"^(\s*)(\d+)[.)]\s+(.*\S)\s*$")
 UNNECESSARY_ESCAPE_RE = re.compile(r"\\([\[\]\(\)\.\-])")
 HEADING_DECORATION_RE = re.compile(r"^[*_`~]+|[*_`~]+$")
+INLINE_METADATA_TOKEN_RE = re.compile(r"(\[[A-Za-z][^\]]*:\s*[^\]]+\])(?=\S)")
+BULLET_LABEL_RE = re.compile(r"^([A-Za-z][A-Za-z ]{0,50}:)\s*(\S.*)?$")
 REFERENCE_HEADINGS = {
     "references",
     "works cited",
@@ -56,15 +59,41 @@ def flush_list_item(cleaned_lines: list[str], list_state: dict | None) -> None:
         return
     lines = cast(list[str], list_state["lines"])
     combined = " ".join(line.strip() for line in lines if line.strip())
-    cleaned_lines.append(
-        f"{list_state['indent']}{list_state['prefix']} {normalize_text(combined)}\n"
-    )
+    prefix = str(list_state["prefix"])
+    if prefix in {"-", "+", "*"}:
+        match = BULLET_LABEL_RE.match(combined)
+        if match and not match.group(1).strip().startswith("**"):
+            label = match.group(1).strip()
+            remainder = (match.group(2) or "").strip()
+            combined = f"**{label}** {remainder}" if remainder else f"**{label}**"
+
+    cleaned_lines.append(f"{list_state['indent']}{prefix} {normalize_text(combined)}\n")
     list_state.clear()
 
 
 def is_terminal_wrapped_bullet(indent: str, prefix: str) -> bool:
     # Terminal copies often prefix top-level bullets with three spaces and "*".
     return prefix == "*" and len(indent.expandtabs(4)) >= 3
+
+
+def is_terminal_wrapped_ordered_item(indent: str, prefix: str) -> bool:
+    return is_ordered_prefix(prefix) and len(indent.expandtabs(4)) >= 2
+
+
+def is_ordered_prefix(prefix: str) -> bool:
+    return bool(ORDERED_PREFIX_RE.match(prefix))
+
+
+def collapse_blank_lines_between_list_items(lines: list[str]) -> list[str]:
+    collapsed: list[str] = []
+    for index, line in enumerate(lines):
+        if line.strip() == "":
+            prev_line = collapsed[-1] if collapsed else ""
+            next_line = lines[index + 1] if index + 1 < len(lines) else ""
+            if LIST_ITEM_RE.match(prev_line) and LIST_ITEM_RE.match(next_line):
+                continue
+        collapsed.append(line)
+    return collapsed
 
 
 def format_inline_footnotes(line: str) -> str:
@@ -85,7 +114,22 @@ def remove_unnecessary_escapes(line: str) -> str:
 
 
 def cleanup_body_line(line: str) -> str:
-    return format_inline_footnotes(remove_unnecessary_escapes(line))
+    line = format_inline_footnotes(remove_unnecessary_escapes(line))
+    return INLINE_METADATA_TOKEN_RE.sub(r"\1 ", line)
+
+
+def is_soft_wrap_continuation_candidate(raw_line: str) -> bool:
+    stripped = raw_line.strip()
+    if not stripped:
+        return False
+    # Two-space indents often come from copied hard wraps and are not code blocks.
+    if len(raw_line) - len(raw_line.lstrip(" \t")) < 2:
+        return False
+    if raw_line.startswith(("    ", "\t")):
+        return False
+    if LIST_ITEM_RE.match(raw_line):
+        return False
+    return not is_verbatim_line(raw_line, stripped)
 
 
 def normalize_heading_text(stripped: str) -> str:
@@ -203,6 +247,7 @@ def clean_markdown_file(file_path: str | Path) -> bool:
     list_state: dict[str, object] = {}
     in_yaml = bool(lines) and lines[0].strip() == "---"
     in_fence = False
+    ordered_context_active = False
 
     for index, raw_line in enumerate(lines):
         stripped = raw_line.strip()
@@ -227,25 +272,39 @@ def clean_markdown_file(file_path: str | Path) -> bool:
             continue
 
         if stripped == "":
+            next_index = index + 1
+            if paragraph_buffer and next_index < len(lines):
+                next_raw_line = lines[next_index]
+                if is_soft_wrap_continuation_candidate(next_raw_line):
+                    continue
             flush_list_item(cleaned_lines, list_state or None)
             flush_paragraph(cleaned_lines, paragraph_buffer)
             cleaned_lines.append(raw_line)
+            ordered_context_active = False
             continue
 
         list_match = LIST_ITEM_RE.match(raw_line)
         if list_match:
-            if list_state and list_state.get("spaced"):
-                flush_list_item(cleaned_lines, list_state)
-                cleaned_lines.append("\n")
-            else:
-                flush_list_item(cleaned_lines, list_state or None)
+            previous_was_ordered = bool(
+                list_state and is_ordered_prefix(cast(str, list_state.get("prefix", "")))
+            )
+            flush_list_item(cleaned_lines, list_state or None)
             flush_paragraph(cleaned_lines, paragraph_buffer)
             indent = list_match.group(1)
             prefix = list_match.group(2)
+            current_is_ordered = is_ordered_prefix(prefix)
+            if current_is_ordered:
+                ordered_context_active = True
             spaced = is_terminal_wrapped_bullet(indent, prefix)
             if spaced:
-                indent = ""
+                indent = "\t" if previous_was_ordered or ordered_context_active else ""
                 prefix = "-"
+            elif is_terminal_wrapped_ordered_item(indent, prefix):
+                indent = ""
+
+            if prefix in {"-", "+", "*"} and ordered_context_active:
+                indent = "\t"
+
             list_state["indent"] = indent
             list_state["prefix"] = prefix
             list_state["lines"] = [list_match.group(3)]
@@ -264,12 +323,13 @@ def clean_markdown_file(file_path: str | Path) -> bool:
             cast(list[str], list_state["lines"]).append(stripped)
             continue
 
+        ordered_context_active = False
         paragraph_buffer.append(stripped)
 
     flush_list_item(cleaned_lines, list_state or None)
     flush_paragraph(cleaned_lines, paragraph_buffer)
 
-    cleaned = "".join(apply_footnote_formatting(cleaned_lines))
+    cleaned = "".join(apply_footnote_formatting(collapse_blank_lines_between_list_items(cleaned_lines)))
     if cleaned != original:
         path.write_text(cleaned, encoding="utf-8")
         return True
